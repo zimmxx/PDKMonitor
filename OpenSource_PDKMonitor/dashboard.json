@@ -56,6 +56,11 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
+    },
+    {
+      "id": "x_uouwixd",
+      "name": "Docs",
+      "color": "#689c6e"
     }
   ],
   "bbTypes": [
@@ -282,8 +287,13 @@
       }
     ]
   },
-  "ownership": {},
-  "labels": {},
+  "ownership": {
+    "e_sjkvwkf": "https://github.com/AEmreKaplan/",
+    "g_h68deus": "admin"
+  },
+  "labels": {
+    "https://github.com/AEmreKaplan/": "CS_Emre"
+  },
   "uploads": [],
   "tabs": [
     {
@@ -297,7 +307,10 @@
             "material": "Si",
             "thickness": 220
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_9ywelzp",
@@ -306,7 +319,10 @@
             "material": "Si",
             "thickness": 340
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_u5idtpp",
@@ -315,7 +331,10 @@
             "material": "Si",
             "thickness": 500
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_v4c9k1y",
@@ -324,7 +343,10 @@
             "material": "LN",
             "thickness": 300
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_sbqs8o0",
@@ -333,7 +355,10 @@
             "material": "SiN",
             "thickness": 300
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_cn6s8pd",
@@ -342,20 +367,42 @@
             "material": "SiN",
             "thickness": 200
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         }
-      ]
+      ],
+      "kind": "platforms"
     },
     {
       "id": "tab_59aciuf",
       "name": "Design Manual",
-      "groups": [],
+      "groups": [
+        {
+          "id": "g_h68deus",
+          "name": "User Manual (PDK Monitor)",
+          "platformMeta": null,
+          "status": "available",
+          "kind": "x_uouwixd",
+          "collapsed": false,
+          "entities": [],
+          "width": 564
+        }
+      ],
       "kind": "docs"
     },
     {
       "id": "tab_80yqwf2",
       "name": "Post-Processing",
-      "groups": []
+      "groups": [],
+      "kind": "platforms"
+    },
+    {
+      "id": "tab_ogq4xpf",
+      "name": "Design Manuals",
+      "groups": [],
+      "kind": "docs"
     }
   ],
   "distribution": {
@@ -380,8 +427,32 @@
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json"
+    "path": "OpenSource_PDKMonitor/dashboard.json",
+    "lastPublishedAt": "2026-05-24T19:56:01.548Z",
+    "lastPublishedSha": "6047e8125debadb8cc857b0bb8919d25a45dabdc",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/6047e8125debadb8cc857b0bb8919d25a45dabdc",
+    "lastFetchedAt": "2026-05-24T19:56:07.301Z",
+    "lastFetchedSha": "be89901bd5bcdce7fec2fb6ce4fbb783ee6d44d6",
+    "lastMergeStats": {
+      "tabs": 1,
+      "groups": 1,
+      "entities": 1,
+      "contributors": 0,
+      "ownership": 1,
+      "labels": 1,
+      "statuses": 0,
+      "categories": 1,
+      "bbTypes": 0
+    },
+    "lastSecurityStats": {
+      "guestsAdded": 0,
+      "guestsKept": 5,
+      "contactEmailUpdated": false,
+      "labelsAdded": 0
+    }
   },
+  "contributors": [],
+  "sketchLibrary": [],
   "_distributedSecurity": {
     "guestPasswords": [
       {
@@ -441,11 +512,13 @@
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
-    "labels": {},
+    "labels": {
+      "https://github.com/AEmreKaplan/": "CS_Emre"
+    },
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T19:56:01.548Z",
+    "publishedAt": "2026-05-24T19:57:26.828Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
