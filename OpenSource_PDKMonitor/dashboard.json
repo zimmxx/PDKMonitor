@@ -297,9 +297,12 @@
     "e_482grk2": "admin",
     "doc_6ufo7hl": "admin",
     "x_uouwixd": "admin",
-    "e_sysepiq": "admin"
+    "e_sysepiq": "admin",
+    "e_sjkvwkf": "https://github.com/AEmreKaplan/"
   },
-  "labels": {},
+  "labels": {
+    "https://github.com/AEmreKaplan/": "CS_Emre"
+  },
   "uploads": [],
   "tabs": [
     {
@@ -404,7 +407,8 @@
           "entities": [],
           "width": 461
         }
-      ]
+      ],
+      "kind": "platforms"
     },
     {
       "id": "tab_ogq4xpf",
@@ -464,16 +468,57 @@
               "expanded": false,
               "fetchHistory": [],
               "edaLinks": []
+            },
+            {
+              "id": "e_sjkvwkf",
+              "name": "m",
+              "status": "available",
+              "owner": "",
+              "description": "",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "updated": "2026-05-24",
+              "kind": "passive",
+              "bbType": "waveguide",
+              "dimensionsOn": true,
+              "params": {
+                "width_nm": 500,
+                "length_um": 100,
+                "thickness_nm": 220
+              },
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "plannedReleaseDate": "",
+              "trl": null,
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "documents": [],
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ],
           "width": 554
         }
-      ]
+      ],
+      "kind": "platforms"
     },
     {
       "id": "tab_2koqo6l",
       "name": "Materials",
-      "groups": []
+      "groups": [],
+      "kind": "platforms"
     }
   ],
   "distribution": {
@@ -490,6 +535,14 @@
         "id": "s_mpk6rlfy_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
+        "branch": "main",
+        "path": "users",
+        "enabled": true
+      },
+      {
+        "id": "s_mpk6unzl_5da",
+        "label": "CS_Emre",
+        "repo": "cornerstone-uos/PDKMonitor/",
         "branch": "main",
         "path": "users",
         "enabled": true
@@ -518,9 +571,9 @@
       "contactEmailUpdated": false,
       "labelsAdded": 0
     },
-    "lastPublishedAt": "2026-05-24T18:48:14.330Z",
-    "lastPublishedSha": "272e6bdfff5149f28bf31a2e00136815e0acb7ce",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/272e6bdfff5149f28bf31a2e00136815e0acb7ce"
+    "lastPublishedAt": "2026-05-24T19:48:06.250Z",
+    "lastPublishedSha": "6d81f620d556b5e96f9518e368190400f8f073ee",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/pull/1"
   },
   "sketchLibrary": [],
   "contributors": [
@@ -587,21 +640,23 @@
         "email": "",
         "expiresOn": "",
         "createdAt": "2026-05-24",
-        "lastUsed": ""
+        "lastUsed": "2026-05-24"
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
-    "labels": {},
+    "labels": {
+      "https://github.com/AEmreKaplan/": "CS_Emre"
+    },
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T19:44:28.784Z",
+    "publishedAt": "2026-05-24T19:49:45.014Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 1,
-    "bbCount": 1,
+    "bbCount": 2,
     "guestCount": 5,
     "termsVersion": "1.1.0"
   }
