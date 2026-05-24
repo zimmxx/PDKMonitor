@@ -199,8 +199,15 @@
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
               "documents": [],
-              "smatrixGroups": []
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -215,7 +222,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T21:52:45.286Z",
+    "publishedAt": "2026-05-24T21:55:43.078Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
