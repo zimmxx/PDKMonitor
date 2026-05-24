@@ -287,7 +287,9 @@
     "g_7ea4pxt": "admin",
     "e_77krt6b": "admin",
     "p_d9a60gf": "admin",
-    "p_40wlmfz": "admin"
+    "p_40wlmfz": "admin",
+    "g_zeqk030": "admin",
+    "e_482grk2": "admin"
   },
   "labels": {},
   "uploads": [],
@@ -399,7 +401,44 @@
     {
       "id": "tab_ogq4xpf",
       "name": "Design Manuals",
-      "groups": []
+      "groups": [
+        {
+          "id": "g_zeqk030",
+          "name": "User manual (PDK Monitor)",
+          "platformMeta": null,
+          "status": "available",
+          "kind": "",
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_482grk2",
+              "name": "User Manual",
+              "status": "available",
+              "owner": "CS",
+              "description": "User Manual Version: v1.0.0",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "updated": "2026-05-24",
+              "kind": "passive",
+              "bbType": "",
+              "dimensionsOn": true,
+              "params": {},
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "plannedReleaseDate": "",
+              "trl": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "tab_2koqo6l",
@@ -430,8 +469,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-24T18:29:30.990Z",
-    "lastFetchedSha": "0b0a1fec5cb7feabc39a25280c9db71fea6d876d",
+    "lastFetchedAt": "2026-05-24T18:33:42.122Z",
+    "lastFetchedSha": "ced48edd6259a75a22f032afc7344b983ac5b092",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -449,9 +488,9 @@
       "contactEmailUpdated": false,
       "labelsAdded": 0
     },
-    "lastPublishedAt": "2026-05-24T18:29:25.872Z",
-    "lastPublishedSha": "eb285763b67e34c2c10e49d9b2055ddb3afc17eb",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/eb285763b67e34c2c10e49d9b2055ddb3afc17eb"
+    "lastPublishedAt": "2026-05-24T18:33:37.103Z",
+    "lastPublishedSha": "de42c5322ab177ef1b55afb8f42547707d07889c",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/de42c5322ab177ef1b55afb8f42547707d07889c"
   },
   "sketchLibrary": [],
   "contributors": [],
@@ -518,13 +557,13 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T18:33:37.103Z",
+    "publishedAt": "2026-05-24T18:46:59.851Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 0,
-    "bbCount": 0,
+    "bbCount": 1,
     "guestCount": 5,
     "termsVersion": "1.1.0"
   }
