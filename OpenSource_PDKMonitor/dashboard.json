@@ -56,11 +56,6 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
-    },
-    {
-      "id": "x_uouwixd",
-      "name": "Docs",
-      "color": "#689c6e"
     }
   ],
   "bbTypes": [
@@ -287,110 +282,86 @@
       }
     ]
   },
-  "ownership": {
-    "e_sjkvwkf": "https://github.com/AEmreKaplan/"
-  },
-  "labels": {
-    "https://github.com/AEmreKaplan/": "CS_Emre"
-  },
+  "ownership": {},
+  "labels": {},
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_2drrblv",
+      "id": "tab_1ikbh0u",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_iduijjv",
+          "id": "g_lq9w21w",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 220
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_koz7j27",
+          "id": "g_016znpc",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 340
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_sxc3lhj",
+          "id": "g_caoqi0s",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 500
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_ihw4t99",
+          "id": "g_0g7xmyp",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
             "thickness": 300
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_vvg8spc",
+          "id": "g_zgckt9s",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
             "thickness": 300
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_99devn4",
+          "id": "g_534p9sq",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
             "thickness": 200
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         }
-      ],
-      "kind": "platforms"
+      ]
     },
     {
-      "id": "tab_zlr3hx2",
+      "id": "tab_8x6kwvy",
       "name": "Design Manual",
       "groups": [],
       "kind": "docs"
     },
     {
-      "id": "tab_60ov1x3",
+      "id": "tab_dejisj6",
       "name": "Post-Processing",
-      "groups": [],
-      "kind": "platforms"
+      "groups": []
     }
   ],
   "distribution": {
     "sources": [
       {
-        "id": "s_mpk82uss_0",
+        "id": "s_mpk8r2xv_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -398,7 +369,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpk82uss_1",
+        "id": "s_mpk8r2xv_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -409,29 +380,7 @@
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-24T20:22:23.390Z",
-    "lastPublishedSha": "e3b1727b81c7d643d4ab6482938e9370d8ede46d",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/e3b1727b81c7d643d4ab6482938e9370d8ede46d",
-    "lastFetchedAt": "2026-05-24T20:22:46.725Z",
-    "lastFetchedSha": "d3a2ee1cc67909c73743795660e1ddd06aeea550",
-    "lastMergeStats": {
-      "tabs": 0,
-      "groups": 0,
-      "entities": 0,
-      "contributors": 0,
-      "ownership": 0,
-      "labels": 0,
-      "statuses": 0,
-      "categories": 0,
-      "bbTypes": 0
-    },
-    "lastSecurityStats": {
-      "guestsAdded": 0,
-      "guestsKept": 5,
-      "contactEmailUpdated": false,
-      "labelsAdded": 0
-    }
+    "path": "OpenSource_PDKMonitor/dashboard.json"
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -492,13 +441,11 @@
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
-    "labels": {
-      "https://github.com/AEmreKaplan/": "CS_Emre"
-    },
+    "labels": {},
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T20:23:20.556Z",
+    "publishedAt": "2026-05-24T20:40:00.070Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -507,7 +454,5 @@
     "bbCount": 0,
     "guestCount": 5,
     "termsVersion": "1.1.0"
-  },
-  "contributors": [],
-  "sketchLibrary": []
+  }
 }
