@@ -56,6 +56,11 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
+    },
+    {
+      "id": "x_uouwixd",
+      "name": "Docs",
+      "color": "#689c6e"
     }
   ],
   "bbTypes": [
@@ -282,8 +287,12 @@
       }
     ]
   },
-  "ownership": {},
-  "labels": {},
+  "ownership": {
+    "e_sjkvwkf": "https://github.com/AEmreKaplan/"
+  },
+  "labels": {
+    "https://github.com/AEmreKaplan/": "CS_Emre"
+  },
   "uploads": [],
   "tabs": [
     {
@@ -297,7 +306,10 @@
             "material": "Si",
             "thickness": 220
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_koz7j27",
@@ -306,7 +318,10 @@
             "material": "Si",
             "thickness": 340
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_sxc3lhj",
@@ -315,7 +330,10 @@
             "material": "Si",
             "thickness": 500
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_ihw4t99",
@@ -324,7 +342,10 @@
             "material": "LN",
             "thickness": 300
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_vvg8spc",
@@ -333,7 +354,10 @@
             "material": "SiN",
             "thickness": 300
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_99devn4",
@@ -342,9 +366,13 @@
             "material": "SiN",
             "thickness": 200
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         }
-      ]
+      ],
+      "kind": "platforms"
     },
     {
       "id": "tab_zlr3hx2",
@@ -355,7 +383,8 @@
     {
       "id": "tab_60ov1x3",
       "name": "Post-Processing",
-      "groups": []
+      "groups": [],
+      "kind": "platforms"
     }
   ],
   "distribution": {
@@ -380,7 +409,12 @@
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json"
+    "path": "OpenSource_PDKMonitor/dashboard.json",
+    "lastPublishedAt": "2026-05-24T20:21:05.044Z",
+    "lastPublishedSha": "1295fb4664dfa72189ef7637ed217eb8652c54d1",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/1295fb4664dfa72189ef7637ed217eb8652c54d1",
+    "lastFetchedAt": "2026-05-24T20:21:16.477Z",
+    "lastFetchedSha": "31897cf05ffa14365ccaac96901e301c3e0b4553"
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -441,11 +475,13 @@
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
-    "labels": {},
+    "labels": {
+      "https://github.com/AEmreKaplan/": "CS_Emre"
+    },
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T20:21:05.044Z",
+    "publishedAt": "2026-05-24T20:21:52.140Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -454,5 +490,7 @@
     "bbCount": 0,
     "guestCount": 5,
     "termsVersion": "1.1.0"
-  }
+  },
+  "contributors": [],
+  "sketchLibrary": []
 }
