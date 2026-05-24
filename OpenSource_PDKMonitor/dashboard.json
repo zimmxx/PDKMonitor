@@ -291,7 +291,8 @@
     "e_w0ff3c2": "https://github.com/AEmreKaplan/",
     "g_r5hsqka": "admin",
     "e_i0uji3g": "admin",
-    "doc_cb17ckx": "admin"
+    "doc_cb17ckx": "admin",
+    "tab_jhoiv6v": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre"
@@ -452,12 +453,17 @@
       "id": "tab_dejisj6",
       "name": "Post-Processing",
       "groups": []
+    },
+    {
+      "id": "tab_jhoiv6v",
+      "name": "Materials",
+      "groups": []
     }
   ],
   "distribution": {
     "sources": [
       {
-        "id": "s_mpk97eap_0",
+        "id": "s_mpk8r2xv_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -465,7 +471,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpk97eap_1",
+        "id": "s_mpk8r2xv_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -477,8 +483,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-24T20:58:02.289Z",
-    "lastFetchedSha": "3122676883184467a7f13863d5ed26a87b8b0cd7",
+    "lastFetchedAt": "2026-05-24T20:59:13.318Z",
+    "lastFetchedSha": "25e4dbe76e57aa828f1ee5fa6b52407452bfb76d",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -496,9 +502,9 @@
       "contactEmailUpdated": false,
       "labelsAdded": 0
     },
-    "lastPublishedAt": "2026-05-24T20:57:46.984Z",
-    "lastPublishedSha": "a026a50c007601b64df906e2f935012ca25f3c17",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a026a50c007601b64df906e2f935012ca25f3c17"
+    "lastPublishedAt": "2026-05-24T20:40:00.070Z",
+    "lastPublishedSha": "fc3f05e342f85b820415e21d3e5b3534544e9750",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/fc3f05e342f85b820415e21d3e5b3534544e9750"
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -565,7 +571,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T20:58:47.399Z",
+    "publishedAt": "2026-05-24T21:01:37.002Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
