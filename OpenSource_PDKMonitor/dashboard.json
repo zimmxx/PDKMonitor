@@ -301,11 +301,11 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_1ikbh0u",
+      "id": "tab_z2zmsbv",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_lq9w21w",
+          "id": "g_a1skrbm",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -363,76 +363,57 @@
               "fetchHistory": [],
               "edaLinks": []
             }
-          ],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          ]
         },
         {
-          "id": "g_016znpc",
+          "id": "g_7jfp3h2",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 340
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_caoqi0s",
+          "id": "g_64qutp1",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 500
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_0g7xmyp",
+          "id": "g_7j74kf6",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
             "thickness": 300
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_zgckt9s",
+          "id": "g_tzf0jr8",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
             "thickness": 300
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         },
         {
-          "id": "g_534p9sq",
+          "id": "g_izxkza1",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
             "thickness": 200
           },
-          "entities": [],
-          "status": "",
-          "kind": "",
-          "collapsed": false
+          "entities": []
         }
-      ],
-      "kind": "platforms"
+      ]
     },
     {
-      "id": "tab_8x6kwvy",
+      "id": "tab_ar1t8of",
       "name": "Design Manual",
       "groups": [
         {
@@ -497,10 +478,9 @@
       "kind": "docs"
     },
     {
-      "id": "tab_dejisj6",
+      "id": "tab_6mbc3hv",
       "name": "Post-Processing",
-      "groups": [],
-      "kind": "platforms"
+      "groups": []
     },
     {
       "id": "tab_jhoiv6v",
@@ -518,7 +498,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpk8r2xv_0",
+        "id": "s_mpkjh57o_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -526,7 +506,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpk8r2xv_1",
+        "id": "s_mpkjh57o_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -538,29 +518,27 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-24T21:17:38.697Z",
-    "lastFetchedSha": "de36ca97c77097b65752a7c832802b683be2066e",
+    "lastFetchedAt": "2026-05-25T01:42:56.483Z",
+    "lastFetchedSha": "e68e832ee1e763ad4ebcfb2990f4bb151c4fc47c",
     "lastMergeStats": {
-      "tabs": 0,
-      "groups": 0,
-      "entities": 0,
+      "tabs": 2,
+      "groups": 1,
+      "entities": 2,
       "contributors": 0,
-      "ownership": 0,
-      "labels": 0,
+      "ownership": 6,
+      "labels": 1,
       "statuses": 0,
-      "categories": 0,
+      "categories": 1,
       "bbTypes": 0
     },
     "lastSecurityStats": {
-      "guestsAdded": 0,
-      "guestsKept": 5,
-      "contactEmailUpdated": false,
+      "guestsAdded": 5,
+      "guestsKept": 0,
+      "contactEmailUpdated": true,
       "labelsAdded": 0
-    },
-    "lastPublishedAt": "2026-05-24T21:17:48.994Z",
-    "lastPublishedSha": "eebb698fbcf1c86373c08478c2dbbc9e81bc2465",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/eebb698fbcf1c86373c08478c2dbbc9e81bc2465"
+    }
   },
+  "contributors": [],
   "_distributedSecurity": {
     "guestPasswords": [
       {
@@ -626,7 +604,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T21:18:36.763Z",
+    "publishedAt": "2026-05-25T01:43:51.914Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -635,7 +613,5 @@
     "bbCount": 1,
     "guestCount": 5,
     "termsVersion": "1.1.0"
-  },
-  "contributors": [],
-  "sketchLibrary": []
+  }
 }
