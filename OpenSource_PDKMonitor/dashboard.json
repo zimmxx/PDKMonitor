@@ -123,6 +123,10 @@
       "id": "custom",
       "name": "custom (upload image)",
       "sketch": "custom"
+    },
+    {
+      "id": "x_9pogrls",
+      "name": "heater"
     }
   ],
   "platforms": [
@@ -1811,7 +1815,8 @@
     "t_3h4qtxe": "admin",
     "t_azjkg58": "admin",
     "t_ms2y01r": "admin",
-    "t_6l3kueg": "admin"
+    "t_6l3kueg": "admin",
+    "x_9pogrls": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -12795,7 +12800,8 @@
                   "bbType": "mzi",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2726.524\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2726.524\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
+                  "description": ""
                 },
                 {
                   "id": "d_r2izm81",
@@ -12807,7 +12813,8 @@
                   "bbType": "mzi",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nHeater.md\nSOI220nm_1310nm_TE_MZI_Modulator.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.md\nSOI220nm_1550nm_TE_Defect_Detector.md\nSOI220nm_1550nm_TE_IsolatedDetector.md\nSOI220nm_1550nm_TE_MZI_Modulator.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```"
+                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nHeater.md\nSOI220nm_1310nm_TE_MZI_Modulator.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.md\nSOI220nm_1550nm_TE_Defect_Detector.md\nSOI220nm_1550nm_TE_IsolatedDetector.md\nSOI220nm_1550nm_TE_MZI_Modulator.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```",
+                  "description": ""
                 },
                 {
                   "id": "d_zo34ttt",
@@ -12819,7 +12826,8 @@
                   "bbType": "mzi",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```"
+                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -12885,7 +12893,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield\ncomponent_type: AmplitudeModulator\nauthors:\n- name: Dr Imad Faruque\n  organisation: University of Sheffield\nlast_updated: 01/10/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 110.02500\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 200.02500\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e3\n  port_type: electrical_dc\n  center:\n  - 315.06700\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e4\n  port_type: electrical_dc\n  center:\n  - 405.06700\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 30.565\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 42.565\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 404.08400\n  - 42.565\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 404.08400\n  - 30.565\n  orientation: 0.0\n  cross_section: strip_1550nm"
+                  "rawText": "name: SOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield\ncomponent_type: AmplitudeModulator\nauthors:\n- name: Dr Imad Faruque\n  organisation: University of Sheffield\nlast_updated: 01/10/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 110.02500\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 200.02500\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e3\n  port_type: electrical_dc\n  center:\n  - 315.06700\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: e4\n  port_type: electrical_dc\n  center:\n  - 405.06700\n  - 123.00700\n  orientation: 90\n  cross_section: dc\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 30.565\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 42.565\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 404.08400\n  - 42.565\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 404.08400\n  - 30.565\n  orientation: 0.0\n  cross_section: strip_1550nm",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -12943,7 +12952,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_Defect_Detector\ncomponent_type: Photodiode\nauthors:\n- name: H Bilge Yagci\n  organisation: CORNERSTONE\n  email: hby1r25@soton.ac.uk\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 542\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 692\n  - -92.5\n  orientation: 270\n  cross_section: detector\n- name: vertical_te_w\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 50\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2766.084\n  - 50\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\nancestors:\n- name: SOI220nm_1550nm_TE_IsolatedDetector\n  commit: ReferenceWithinCommit\n- name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\n  commit: ReferenceWithinCommit\n\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -12980,64 +12990,6 @@
               "_svgStripped": true
             },
             {
-              "id": "e_9o9pouy",
-              "name": "SOI220nm_1550nm_TE_IsolatedDetector",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_IsolatedDetector.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_awwl776",
-                  "name": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "filename": "SOI220nm_1550nm_TE_IsolatedDetector.yaml",
-                  "mime": "application/yaml",
-                  "size": 672,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX0lzb2xhdGVkRGV0ZWN0b3IKY29tcG9uZW50X3R5cGU6IFBob3RvZGlvZGUKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9yZgogIGNlbnRlcjoKICAtIDE0NQogIC0gLTE0Mi41MDAwMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkZXRlY3RvcgotIG5hbWU6IGUyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX3JmCiAgY2VudGVyOgogIC0gMjk1CiAgLSAtMTQyLjUwMDAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRldGVjdG9yCi0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE5MDAKICAtIDAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_IsolatedDetector\ncomponent_type: Photodiode\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_rf\n  center:\n  - 145\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: e2\n  port_type: electrical_rf\n  center:\n  - 295\n  - -142.50000\n  orientation: 270\n  cross_section: detector\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 1900\n  - 0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "gdsName": "SOI220nm_1550nm_TE_IsolatedDetector.gds",
-              "gdsSize": 842,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_IsolatedDetector.gds",
-                  "ts": 1779683359554
-                }
-              ],
-              "smatrixGroups": [],
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null,
-              "_gdsStripped": true,
-              "_svgStripped": true
-            },
-            {
               "id": "e_z1e654s",
               "name": "SOI220nm_1550nm_TE_MZI_Modulator",
               "status": "available",
@@ -13059,7 +13011,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2724.054\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 27.915\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2724.054\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -13096,337 +13049,6 @@
               "_svgStripped": true
             },
             {
-              "id": "e_1qkhwfh",
-              "name": "Heater",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/Heater.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_dpz2eng",
-                  "name": "Heater.yaml",
-                  "filename": "Heater.yaml",
-                  "mime": "application/yaml",
-                  "size": 358,
-                  "binaryContent": "bmFtZTogSGVhdGVyCmNvbXBvbmVudF90eXBlOiBDb250YWN0UGFkREMKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IGUxCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gNzUuMDAwMDAKICAtIDIzNS4wMDQwMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogZTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxNzUuMDAwMDAKICAtIDIzNS4wMDQwMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCg==",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: Heater\ncomponent_type: ContactPadDC\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175.00000\n  - 235.00400\n  orientation: 90\n  cross_section: dc\n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"4.937059e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"246.8107947098773\" y=\"60\" width=\"506.3784105802454\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 651.9 434.7 L 520.3 363.8 L 682.3 363.8 L 753.2 434.7 L 651.9 434.7 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 297.4 536.0 L 246.8 434.7 L 348.1 434.7 L 299.5 536.0 L 297.4 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 297.4 536.0 L 246.8 434.7 L 348.1 434.7 L 299.5 536.0 L 297.4 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 246.8 434.7 L 317.7 363.8 L 479.7 363.8 L 348.1 434.7 L 246.8 434.7 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 702.6 536.0 L 651.9 434.7 L 753.2 434.7 L 704.6 536.0 L 702.6 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 702.6 536.0 L 651.9 434.7 L 753.2 434.7 L 704.6 536.0 L 702.6 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 298.5 536.0 L 298.5 523.8 L 703.6 523.8 L 703.6 536.0 L 298.5 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 317.7 363.8 L 317.7 60.0 L 479.7 60.0 L 479.7 363.8 L 317.7 363.8 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" /><path d=\"M 520.3 363.8 L 520.3 60.0 L 682.3 60.0 L 682.3 363.8 L 520.3 363.8 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                    data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">Heater</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">250.00 × 235.00 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"13/0\" data-layer=\"13\" data-datatype=\"0\"\n                  data-layer-name=\"Electrodes\" data-layer-desc=\"[ELC] GDS 13 – Electrodes\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#d29922;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Electrodes</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L13/0</span>\n     </span>\n  </div>",
-              "gdsName": "Heater.gds",
-              "gdsSize": 684,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/Heater.gds",
-                  "ts": 1779694489595
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_2t8txsw",
-              "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_7xw0vpo",
-                  "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI.yaml",
-                  "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "size": 681,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDJfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkyeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAtMS4wMTUwMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAxLjAxNTAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMy42CiAgLSAxLjAxNQogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzQKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjMuNgogIC0gLTEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKICAK",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 123.6\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n  \n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.367257e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"48\" y=\"239.48867313915858\" width=\"904\" height=\"117.02265372168284\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 298.9 310.9 L 152.6 306.9 L 152.6 304.0 L 298.9 299.9 L 298.9 310.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 298.9 296.1 L 152.6 292.0 L 152.6 289.1 L 298.9 285.1 L 298.9 296.1 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 701.1 310.9 L 701.1 299.9 L 847.4 304.0 L 847.4 306.9 L 701.1 310.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 701.1 296.1 L 701.1 285.1 L 847.4 289.1 L 847.4 292.0 L 701.1 296.1 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 847.4 306.9 L 847.4 304.0 L 952.0 304.0 L 952.0 306.9 L 847.4 306.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 847.4 292.0 L 847.4 289.1 L 952.0 289.1 L 952.0 292.0 L 847.4 292.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 48.0 292.0 L 48.0 289.1 L 152.6 289.1 L 152.6 292.0 L 48.0 292.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 48.0 306.9 L 48.0 304.0 L 152.6 304.0 L 152.6 306.9 L 48.0 306.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 298.9 319.9 L 298.9 276.1 L 701.1 276.1 L 701.1 319.9 L 298.9 319.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 262.3 356.5 L 262.3 346.5 L 152.1 343.5 L 48.0 343.5 L 48.0 252.5 L 152.1 252.5 L 262.3 249.5 L 262.3 239.5 L 737.7 239.5 L 737.7 249.5 L 847.9 252.5 L 952.0 252.5 L 952.0 343.5 L 847.9 343.5 L 737.7 346.5 L 737.7 356.5 L 262.3 356.5 Z\" fill=\"#beeaf9\" fill-opacity=\"0.55\" stroke=\"#beeaf9\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1310nm_TE_RIB_2x2_MMI</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">123.60 × 16.00 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span><span class=\"gds-legend-chip\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#beeaf9;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 3 </span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L5/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
-              "gdsSize": 868,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
-                  "ts": 1779694490539
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                  "ts": 1779694510898
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_3cgptxl",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_u389cyx",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 633112,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:14.184Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_qe07omd",
-              "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_f4737te",
-                  "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.yaml",
-                  "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "size": 451,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMgogIC0gMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAzMC4yCiAgLSAyNS4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCg==",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.2\n  - 0\n  orientation: 270\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.2\n  - 25.0\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"6.344538e-2\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"262\" y=\"60\" width=\"476\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 340.8 536.0 L 340.9 526.1 L 341.3 516.2 L 341.9 506.3 L 342.8 496.4 L 343.9 486.6 L 345.2 476.8 L 346.8 467.0 L 348.7 457.3 L 350.8 447.6 L 353.1 438.0 L 355.6 428.4 L 358.4 418.9 L 361.5 409.5 L 364.8 400.1 L 368.3 390.9 L 372.0 381.7 L 376.0 372.6 L 380.1 363.6 L 384.5 354.8 L 389.2 346.0 L 394.0 337.4 L 399.1 328.9 L 404.3 320.5 L 409.8 312.2 L 415.5 304.1 L 421.4 296.1 L 427.5 288.3 L 433.7 280.7 L 440.2 273.2 L 446.8 265.8 L 453.7 258.6 L 460.7 251.6 L 467.8 244.8 L 475.2 238.2 L 482.7 231.7 L 490.4 225.4 L 498.2 219.4 L 506.1 213.5 L 514.2 207.8 L 522.5 202.3 L 530.9 197.1 L 539.4 192.0 L 548.0 187.1 L 556.8 182.5 L 565.7 178.1 L 574.6 173.9 L 583.7 170.0 L 592.9 166.2 L 602.2 162.7 L 611.5 159.5 L 620.9 156.4 L 630.4 153.6 L 640.0 151.1 L 649.6 148.7 L 659.3 146.7 L 669.0 144.8 L 678.8 143.2 L 688.6 141.9 L 698.5 140.8 L 708.3 139.9 L 718.2 139.3 L 728.1 138.9 L 738.0 138.8 L 738.0 145.1 L 728.1 145.2 L 718.2 145.6 L 708.3 146.2 L 698.5 147.1 L 688.6 148.2 L 678.8 149.6 L 669.1 151.2 L 659.3 153.1 L 649.7 155.2 L 640.0 157.6 L 630.5 160.2 L 621.0 163.0 L 611.6 166.1 L 602.3 169.4 L 593.0 173.0 L 583.9 176.8 L 574.8 180.8 L 565.9 185.0 L 557.0 189.5 L 548.3 194.2 L 539.7 199.1 L 531.2 204.3 L 522.9 209.6 L 514.7 215.1 L 506.7 220.9 L 498.7 226.9 L 491.0 233.0 L 483.4 239.4 L 475.9 245.9 L 468.7 252.7 L 461.6 259.6 L 454.7 266.7 L 447.9 273.9 L 441.4 281.4 L 435.0 289.0 L 428.9 296.7 L 422.9 304.6 L 417.2 312.7 L 411.6 320.9 L 406.3 329.2 L 401.1 337.7 L 396.2 346.3 L 391.5 355.0 L 387.0 363.9 L 382.8 372.8 L 378.8 381.9 L 375.0 391.0 L 371.4 400.2 L 368.1 409.6 L 365.0 419.0 L 362.2 428.5 L 359.6 438.0 L 357.2 447.6 L 355.1 457.3 L 353.2 467.0 L 351.6 476.8 L 350.2 486.6 L 349.1 496.5 L 348.2 506.3 L 347.6 516.2 L 347.2 526.1 L 347.1 536.0 L 340.8 536.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 262.0 536.0 L 262.1 524.2 L 262.6 512.2 L 263.3 500.4 L 264.3 488.6 L 265.7 476.7 L 267.3 465.0 L 269.2 453.3 L 271.4 441.7 L 273.9 430.0 L 276.7 418.5 L 279.8 407.1 L 283.1 395.6 L 286.8 384.3 L 290.7 373.2 L 294.9 362.1 L 299.4 351.1 L 304.1 340.2 L 309.1 329.4 L 314.4 318.8 L 320.0 308.3 L 325.8 298.0 L 331.8 287.8 L 338.2 277.7 L 344.7 267.8 L 351.5 258.2 L 358.6 248.6 L 365.9 239.1 L 373.4 230.0 L 381.1 221.0 L 389.0 212.2 L 397.5 203.3 L 405.3 195.5 L 414.2 187.0 L 423.0 179.1 L 432.0 171.3 L 441.2 163.8 L 450.6 156.5 L 460.1 149.5 L 469.8 142.7 L 479.8 136.1 L 489.8 129.8 L 500.0 123.8 L 510.4 117.9 L 520.9 112.4 L 531.5 107.1 L 542.3 102.1 L 553.1 97.4 L 564.1 92.9 L 575.2 88.7 L 586.4 84.8 L 597.7 81.1 L 609.1 77.7 L 620.6 74.7 L 632.1 71.9 L 643.7 69.4 L 655.4 67.2 L 667.1 65.3 L 678.8 63.7 L 690.5 62.3 L 702.4 61.3 L 714.3 60.6 L 726.2 60.1 L 738.0 60.0 L 738.0 223.0 L 729.7 224.0 L 722.5 224.3 L 714.4 224.8 L 706.3 225.5 L 698.8 226.4 L 690.3 227.6 L 683.2 228.8 L 675.1 230.3 L 667.5 232.0 L 659.8 233.9 L 652.2 235.9 L 645.1 238.1 L 636.6 240.8 L 629.6 243.3 L 622.2 246.2 L 614.8 249.2 L 608.1 252.2 L 600.3 255.9 L 593.8 259.2 L 586.2 263.3 L 579.9 266.9 L 573.0 271.1 L 566.3 275.4 L 559.4 280.0 L 553.4 284.4 L 546.8 289.3 L 541.0 293.9 L 534.8 299.1 L 528.6 304.6 L 523.1 309.7 L 517.3 315.3 L 511.7 321.1 L 506.4 326.8 L 501.2 332.7 L 496.0 338.9 L 491.3 344.8 L 486.4 351.4 L 481.9 357.7 L 477.6 364.0 L 473.1 371.1 L 469.0 377.8 L 465.3 384.3 L 461.2 391.8 L 457.9 398.5 L 454.3 405.9 L 451.2 412.8 L 448.3 420.0 L 445.3 427.6 L 442.7 435.0 L 440.0 443.2 L 438.0 449.9 L 435.9 457.8 L 434.0 465.3 L 432.4 472.8 L 430.7 481.5 L 429.6 488.3 L 428.4 496.8 L 427.5 504.3 L 426.8 512.3 L 426.3 520.5 L 426.0 527.7 L 425.1 536.0 L 262.0 536.0 Z\" fill=\"#beeaf9\" fill-opacity=\"0.55\" stroke=\"#beeaf9\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1310nm_TE_RIB_90_Degree_Bend</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">30.20 × 30.20 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span><span class=\"gds-legend-chip\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#beeaf9;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 3 </span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L5/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
-              "gdsSize": 2236,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
-                  "ts": 1779694490830
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                  "ts": 1779694511403
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_x79mcmi",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_4nfonbf",
-                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164622,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:14.678Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_cfaz00p",
-              "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_pkg2jli",
-                  "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.yaml",
-                  "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "size": 556,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIKY29tcG9uZW50X3R5cGU6IEdyYXRpbmdDb3VwbGVyMUQKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKICBtb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCi0gbmFtZTogdmVydGljYWxfdGUKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMzcxLjc1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg3MTMKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTMxMC4wCg==",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "gdsName": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
-              "gdsSize": 5468,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
-                  "ts": 1779694491108
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                  "ts": 1779694511849
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_0tv3m30",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_ftoscqd",
-                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163658,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:15.088Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "_svgStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
               "id": "e_obg8p1t",
               "name": "SOI220nm_1310nm_TE_RIB_Waveguide",
               "status": "available",
@@ -13448,7 +13070,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n  \n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -13485,97 +13108,6 @@
               "trl": null
             },
             {
-              "id": "e_qieb6sk",
-              "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_otgrsk5",
-                  "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.yaml",
-                  "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.yaml",
-                  "mime": "application/yaml",
-                  "size": 671,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcKY29tcG9uZW50X3R5cGU6IENyb3NzaW5nCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKLSBtb2RlX251bWJlcnM6CiAgLSAwCiAgLSAwCiAgcG9sYXJpc2F0aW9uOiBURQogIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE0LjI0CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS42MgogIC0gLTQuNjIKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQo=",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1310nm_TE\n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"4.042017e-2\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"262\" y=\"60\" width=\"476\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 495.1 412.3 L 491.1 402.8 L 487.6 393.2 L 485.3 383.7 L 485.1 374.2 L 485.2 364.7 L 483.0 355.1 L 482.0 345.6 L 482.1 336.1 L 479.6 326.6 L 479.1 318.9 L 471.4 318.4 L 461.9 315.9 L 452.4 316.0 L 442.9 315.0 L 433.3 312.8 L 423.8 312.9 L 414.3 312.7 L 404.8 310.4 L 395.2 306.9 L 385.7 302.9 L 385.7 293.1 L 395.2 289.1 L 404.8 285.6 L 414.3 283.3 L 423.8 283.1 L 433.3 283.2 L 442.9 281.0 L 452.4 280.0 L 461.9 280.1 L 471.4 277.6 L 479.1 277.1 L 479.6 269.4 L 482.1 259.9 L 482.0 250.4 L 483.0 240.9 L 485.2 231.3 L 485.1 221.8 L 485.3 212.3 L 487.6 202.8 L 491.1 193.2 L 495.1 183.7 L 504.9 183.7 L 508.9 193.2 L 512.4 202.8 L 514.7 212.3 L 514.9 221.8 L 514.8 231.3 L 517.0 240.9 L 518.0 250.4 L 517.9 259.9 L 520.4 269.4 L 520.9 277.1 L 528.6 277.6 L 538.1 280.1 L 547.6 280.0 L 557.1 281.0 L 566.7 283.2 L 576.2 283.1 L 585.7 283.3 L 595.2 285.6 L 604.8 289.1 L 614.3 293.1 L 614.3 302.9 L 604.8 306.9 L 595.2 310.4 L 585.7 312.7 L 576.2 312.9 L 566.7 312.8 L 557.1 315.0 L 547.6 316.0 L 538.1 315.9 L 528.6 318.4 L 520.9 318.9 L 520.4 326.6 L 517.9 336.1 L 518.0 345.6 L 517.0 355.1 L 514.8 364.7 L 514.9 374.2 L 514.7 383.7 L 512.4 393.2 L 508.9 402.8 L 504.9 412.3 L 495.1 412.3 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 412.5 536.0 L 375.8 447.7 L 369.1 429.3 L 369.1 428.9 L 368.7 428.9 L 350.3 422.2 L 262.0 385.5 L 262.0 210.5 L 350.3 173.8 L 368.7 167.1 L 369.1 167.1 L 369.1 166.7 L 375.8 148.3 L 412.5 60.0 L 587.5 60.0 L 624.2 148.3 L 630.9 166.7 L 630.9 167.1 L 631.3 167.1 L 649.7 173.8 L 738.0 210.5 L 738.0 385.5 L 649.7 422.2 L 631.3 428.9 L 630.9 428.9 L 630.9 429.3 L 624.2 447.7 L 587.5 536.0 L 412.5 536.0 Z\" fill=\"#beeaf9\" fill-opacity=\"0.55\" stroke=\"#beeaf9\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1310nm_TE_RIB_Waveguide_Crossing</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">19.24 × 19.24 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span><span class=\"gds-legend-chip\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#beeaf9;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 3 </span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L5/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
-              "gdsSize": 1104,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
-                  "ts": 1779694491883
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                  "ts": 1779694512505
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_63td2i9",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_dnhcxdg",
-                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 635372,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:15.659Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
               "id": "e_xd3v45x",
               "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
               "status": "available",
@@ -13597,7 +13129,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n  \n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -13688,7 +13221,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n  \n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -13758,97 +13292,6 @@
               "trl": null
             },
             {
-              "id": "e_19nr975",
-              "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_zr7tpr8",
-                  "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "size": 452,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMC4yCiAgLSAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNS4yCiAgLSA1LjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQogIAo=",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.2\n  - 0\n  orientation: 270\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.2\n  - 5.0\n  orientation: 0\n  cross_section: strip_1310nm\n  \n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.092437e-2\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"262\" y=\"60\" width=\"476\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 262.0 536.0 L 262.6 510.3 L 264.7 484.6 L 268.1 459.0 L 273.0 433.7 L 279.2 408.7 L 286.8 384.0 L 295.7 359.8 L 305.9 336.1 L 317.4 313.0 L 330.0 290.6 L 343.9 268.9 L 358.9 247.9 L 375.1 227.8 L 392.4 208.6 L 410.6 190.4 L 429.8 173.1 L 449.9 156.9 L 470.9 141.9 L 492.6 128.0 L 515.0 115.4 L 538.1 103.9 L 561.8 93.7 L 586.0 84.8 L 610.6 77.3 L 635.6 71.1 L 660.9 66.2 L 686.5 62.7 L 712.2 60.6 L 738.0 60.0 L 738.0 96.6 L 713.5 97.2 L 688.9 99.3 L 664.5 102.7 L 640.3 107.5 L 616.4 113.6 L 592.9 121.1 L 569.8 129.9 L 547.3 140.0 L 525.4 151.4 L 504.2 163.9 L 483.7 177.5 L 464.0 192.4 L 445.2 208.3 L 427.2 225.2 L 410.3 243.2 L 394.4 262.0 L 379.5 281.7 L 365.9 302.2 L 353.4 323.4 L 342.0 345.3 L 332.0 367.8 L 323.1 390.8 L 315.7 414.3 L 309.5 438.2 L 304.7 462.4 L 301.3 486.8 L 299.3 511.4 L 298.6 536.0 L 262.0 536.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1310nm_TE_STRIP_90_Degree_Bend</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">5.20 × 5.20 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
-              "gdsSize": 646,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1779694492878
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                  "ts": 1779694513754
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_qnccokt",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_95f1bmg",
-                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 166460,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:17.087Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
               "id": "e_66vbu6g",
               "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
               "status": "available",
@@ -13870,7 +13313,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -13961,7 +13405,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n  \n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14019,7 +13464,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n  \n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14110,7 +13556,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n  "
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n  ",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14180,97 +13627,6 @@
               "trl": null
             },
             {
-              "id": "e_jyw43mo",
-              "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_3pjob4f",
-                  "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI.yaml",
-                  "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "size": 677,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkyeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTA0LjgKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEwNC44CiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQogIAo=",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 104.8\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 104.8\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n  \n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.159292e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"48\" y=\"228.99236641221376\" width=\"904\" height=\"138.01526717557252\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 693.2 313.2 L 693.2 300.3 L 865.7 304.8 L 865.7 308.7 L 693.2 313.2 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 693.2 295.7 L 693.2 282.8 L 865.7 287.3 L 865.7 291.2 L 693.2 295.7 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 306.8 313.2 L 134.3 308.7 L 134.3 304.8 L 306.8 300.3 L 306.8 313.2 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 306.8 295.7 L 134.3 291.2 L 134.3 287.3 L 306.8 282.8 L 306.8 295.7 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 306.8 323.9 L 306.8 272.1 L 693.2 272.1 L 693.2 323.9 L 306.8 323.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 48.0 291.2 L 48.0 287.3 L 134.3 287.3 L 134.3 291.2 L 48.0 291.2 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 48.0 308.7 L 48.0 304.8 L 134.3 304.8 L 134.3 308.7 L 48.0 308.7 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 865.7 308.7 L 865.7 304.8 L 952.0 304.8 L 952.0 308.7 L 865.7 308.7 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 865.7 291.2 L 865.7 287.3 L 952.0 287.3 L 952.0 291.2 L 865.7 291.2 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 263.6 367.0 L 263.6 355.2 L 133.8 351.8 L 48.0 351.8 L 48.0 244.2 L 133.8 244.2 L 263.6 240.8 L 263.6 229.0 L 736.4 229.0 L 736.4 240.8 L 866.2 244.2 L 952.0 244.2 L 952.0 351.8 L 866.2 351.8 L 736.4 355.2 L 736.4 367.0 L 263.6 367.0 Z\" fill=\"#beeaf9\" fill-opacity=\"0.55\" stroke=\"#beeaf9\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1550nm_TE_RIB_2x2_MMI</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">104.80 × 16.00 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span><span class=\"gds-legend-chip\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 3 \" data-layer-desc=\"[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#beeaf9;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 3 </span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L5/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
-              "gdsSize": 868,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
-                  "ts": 1779694495564
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                  "ts": 1779694515682
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_q3s1tgs",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_xoq0mgf",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 632521,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:19.155Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
               "id": "e_luh771z",
               "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
               "status": "available",
@@ -14292,7 +13648,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n  \n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14383,7 +13740,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14474,7 +13832,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n  \n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14532,7 +13891,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n  \n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14623,7 +13983,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n  \n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14693,97 +14054,6 @@
               "trl": null
             },
             {
-              "id": "e_t9kcnqg",
-              "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_x59447k",
-                  "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.yaml",
-                  "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "size": 675,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4Ml9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTJ4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAyLjUKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAyLjUKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KICAK",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 102.5\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 102.5\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n  \n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.133850e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"47.99999999999994\" y=\"271.5414634146341\" width=\"904.0000000000001\" height=\"52.91707317073171\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 312.6 295.7 L 136.2 291.0 L 136.2 287.1 L 312.6 282.4 L 312.6 295.7 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 312.6 313.6 L 136.2 308.9 L 136.2 305.0 L 312.6 300.3 L 312.6 313.6 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 687.4 295.7 L 687.4 282.4 L 863.8 287.1 L 863.8 291.0 L 687.4 295.7 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 687.4 313.6 L 687.4 300.3 L 863.8 305.0 L 863.8 308.9 L 687.4 313.6 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 312.6 324.5 L 312.6 271.5 L 687.4 271.5 L 687.4 324.5 L 312.6 324.5 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 48.0 308.9 L 48.0 305.0 L 136.2 305.0 L 136.2 308.9 L 48.0 308.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 48.0 291.0 L 48.0 287.1 L 136.2 287.1 L 136.2 291.0 L 48.0 291.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 863.8 291.0 L 863.8 287.1 L 952.0 287.1 L 952.0 291.0 L 863.8 291.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" /><path d=\"M 863.8 308.9 L 863.8 305.0 L 952.0 305.0 L 952.0 308.9 L 863.8 308.9 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1550nm_TE_STRIP_2x2_MMI</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">102.50 × 6.00 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
-              "gdsSize": 710,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1779694497299
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                  "ts": 1779694517685
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_5sfwaix",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_3h4qtxe",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 630545,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:22.042Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
               "id": "e_l3toumd",
               "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
               "status": "available",
@@ -14805,7 +14075,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14896,7 +14167,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n  \n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n  \n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -14987,7 +14259,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -15078,7 +14351,8 @@
                   "bbType": "waveguide",
                   "who": "admin",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
+                  "description": ""
                 }
               ],
               "updated": "2026-05-25",
@@ -15106,97 +14380,6 @@
               "_gdsStripped": true,
               "plannedReleaseDate": "",
               "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_ur55ed7",
-              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_1oyitl1",
-                  "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.yaml",
-                  "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.yaml",
-                  "mime": "application/yaml",
-                  "size": 677,
-                  "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZwpjb21wb25lbnRfdHlwZTogQ3Jvc3NpbmcKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNC42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS4yNAogIC0gMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQuNjIKICAtIC00LjYyCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQogIAo=",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.62\n  - 4.62\n  orientation: 90\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 9.24\n  - 0\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.62\n  - -4.62\n  orientation: 270\n  cross_section: strip_1550nm\n  \n"
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.941176e-2\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"262\" y=\"60\" width=\"476\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 488.4 536.0 L 488.7 516.2 L 484.5 496.3 L 469.1 476.5 L 465.6 456.7 L 464.7 436.8 L 463.5 417.0 L 458.8 397.2 L 459.1 377.3 L 452.4 357.5 L 452.3 345.7 L 440.5 345.6 L 420.7 338.9 L 400.8 339.2 L 381.0 334.5 L 361.2 333.3 L 341.3 332.4 L 321.5 328.9 L 301.7 313.5 L 281.8 309.3 L 262.0 309.6 L 262.0 286.4 L 281.8 286.7 L 301.7 282.5 L 321.5 267.1 L 341.3 263.6 L 361.2 262.7 L 381.0 261.5 L 400.8 256.8 L 420.7 257.1 L 440.5 250.4 L 452.3 250.3 L 452.4 238.5 L 459.1 218.7 L 458.8 198.8 L 463.5 179.0 L 464.7 159.2 L 465.6 139.3 L 469.1 119.5 L 484.5 99.7 L 488.7 79.8 L 488.4 60.0 L 511.6 60.0 L 511.3 79.8 L 515.5 99.7 L 530.9 119.5 L 534.4 139.3 L 535.3 159.2 L 536.5 179.0 L 541.2 198.8 L 540.9 218.7 L 547.6 238.5 L 547.7 250.3 L 559.5 250.4 L 579.3 257.1 L 599.2 256.8 L 619.0 261.5 L 638.8 262.7 L 658.7 263.6 L 678.5 267.1 L 698.3 282.5 L 718.2 286.7 L 738.0 286.4 L 738.0 309.6 L 718.2 309.3 L 698.3 313.5 L 678.5 328.9 L 658.7 332.4 L 638.8 333.3 L 619.0 334.5 L 599.2 339.2 L 579.3 338.9 L 559.5 345.6 L 547.7 345.7 L 547.6 357.5 L 540.9 377.3 L 541.2 397.2 L 536.5 417.0 L 535.3 436.8 L 534.4 456.7 L 530.9 476.5 L 515.5 496.3 L 511.3 516.2 L 511.6 536.0 L 488.4 536.0 Z\" fill=\"#22a6d3\" fill-opacity=\"0.55\" stroke=\"#22a6d3\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">9.24 × 9.24 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Silicon etch 2 negative\" data-layer-desc=\"[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#22a6d3;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Silicon etch 2 negative</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-              "gdsSize": 850,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-                  "ts": 1779718258174
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                  "ts": 1779718281671
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_n2hf22e",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_6l3kueg",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 632133,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T14:27:23.348Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
@@ -15279,17 +14462,20 @@
                 }
               ],
               "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
+              "kind": "packaging",
+              "bbType": "custom",
               "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "params": {},
               "gdsName": "Cell0_SOI220_Full_1550nm_Packaging_Template.gds",
               "gdsSize": 149906,
-              "edaTools": [],
+              "edaTools": [
+                "ipkiss",
+                "gdsfactory",
+                "klayout",
+                "virtuoso",
+                "ledit",
+                "picstudio"
+              ],
               "cdi": {},
               "fabTabs": [],
               "fetchHistory": [
@@ -15338,18 +14524,21 @@
                 }
               ],
               "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
+              "kind": "heater",
+              "bbType": "x_9pogrls",
               "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
+              "params": {},
               "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"4.937059e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"246.8107947098773\" y=\"60\" width=\"506.3784105802454\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 296.4 536.0 L 246.8 434.7 L 348.1 434.7 L 300.5 536.0 L 296.4 536.0 Z\" fill=\"#79c0ff\" fill-opacity=\"0.55\" stroke=\"#79c0ff\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"39/0\" data-layer=\"39\" data-datatype=\"0\"\n                    data-layer-name=\"[FIL] GDS 39 – Heater filament\" data-layer-desc=\"[FIL] GDS 39 – Heater filament\" /><path d=\"M 701.5 536.0 L 651.9 434.7 L 753.2 434.7 L 705.6 536.0 L 701.5 536.0 Z\" fill=\"#79c0ff\" fill-opacity=\"0.55\" stroke=\"#79c0ff\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"39/0\" data-layer=\"39\" data-datatype=\"0\"\n                    data-layer-name=\"[FIL] GDS 39 – Heater filament\" data-layer-desc=\"[FIL] GDS 39 – Heater filament\" /><path d=\"M 296.4 536.0 L 296.4 531.9 L 705.6 531.9 L 705.6 536.0 L 296.4 536.0 Z\" fill=\"#79c0ff\" fill-opacity=\"0.55\" stroke=\"#79c0ff\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"39/0\" data-layer=\"39\" data-datatype=\"0\"\n                    data-layer-name=\"[FIL] GDS 39 – Heater filament\" data-layer-desc=\"[FIL] GDS 39 – Heater filament\" /><path d=\"M 296.4 536.0 L 246.8 434.7 L 348.1 434.7 L 300.5 536.0 L 296.4 536.0 Z\" fill=\"#a371f7\" fill-opacity=\"0.55\" stroke=\"#a371f7\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                    data-layer-name=\"Layer 41\" data-layer-desc=\"\" /><path d=\"M 701.5 536.0 L 651.9 434.7 L 753.2 434.7 L 705.6 536.0 L 701.5 536.0 Z\" fill=\"#a371f7\" fill-opacity=\"0.55\" stroke=\"#a371f7\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                    data-layer-name=\"Layer 41\" data-layer-desc=\"\" /><path d=\"M 651.9 434.7 L 520.3 363.8 L 682.3 363.8 L 753.2 434.7 L 651.9 434.7 Z\" fill=\"#a371f7\" fill-opacity=\"0.55\" stroke=\"#a371f7\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                    data-layer-name=\"Layer 41\" data-layer-desc=\"\" /><path d=\"M 246.8 434.7 L 317.7 363.8 L 479.7 363.8 L 348.1 434.7 L 246.8 434.7 Z\" fill=\"#a371f7\" fill-opacity=\"0.55\" stroke=\"#a371f7\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                    data-layer-name=\"Layer 41\" data-layer-desc=\"\" /><path d=\"M 520.3 363.8 L 520.3 60.0 L 682.3 60.0 L 682.3 363.8 L 520.3 363.8 Z\" fill=\"#a371f7\" fill-opacity=\"0.55\" stroke=\"#a371f7\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                    data-layer-name=\"Layer 41\" data-layer-desc=\"\" /><path d=\"M 317.7 363.8 L 317.7 60.0 L 479.7 60.0 L 479.7 363.8 L 317.7 363.8 Z\" fill=\"#a371f7\" fill-opacity=\"0.55\" stroke=\"#a371f7\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                    data-layer-name=\"Layer 41\" data-layer-desc=\"\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">Heater</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">250.00 × 235.00 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"39/0\" data-layer=\"39\" data-datatype=\"0\"\n                  data-layer-name=\"[FIL] GDS 39 – Heater filament\" data-layer-desc=\"[FIL] GDS 39 – Heater filament\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#79c0ff;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">[FIL] GDS 39 – Heater filament</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L39/0</span>\n     </span><span class=\"gds-legend-chip\" data-ld=\"41/0\" data-layer=\"41\" data-datatype=\"0\"\n                  data-layer-name=\"Layer 41\" data-layer-desc=\"\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#a371f7;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">L41</span>\n       \n     </span>\n  </div>",
               "gdsName": "Heater.gds",
               "gdsSize": 684,
-              "edaTools": [],
+              "edaTools": [
+                "ipkiss",
+                "gdsfactory",
+                "klayout",
+                "virtuoso",
+                "ledit",
+                "picstudio"
+              ],
               "cdi": {},
               "fabTabs": [],
               "fetchHistory": [
@@ -22646,9 +21835,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T14:25:06.737Z",
-    "lastPublishedSha": "f5bd0f7e90bd6b2191f78f785b49317dc9b4eff2",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/f5bd0f7e90bd6b2191f78f785b49317dc9b4eff2",
+    "lastPublishedAt": "2026-05-25T14:31:51.660Z",
+    "lastPublishedSha": "0b1659cf3ed36d5fd3489913f82e0e940eb9de32",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/0b1659cf3ed36d5fd3489913f82e0e940eb9de32",
     "lastFetchedAt": "2026-05-25T14:25:30.607Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
@@ -22678,13 +21867,13 @@
   "lastGithubFetch": "2026-05-25T14:08:47.705Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T14:31:51.660Z",
+    "publishedAt": "2026-05-25T14:37:24.414Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 7,
-    "bbCount": 118,
+    "bbCount": 108,
     "guestCount": 6,
     "termsVersion": "1.1.0"
   },
