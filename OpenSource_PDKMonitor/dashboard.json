@@ -282,7 +282,9 @@
       }
     ]
   },
-  "ownership": {},
+  "ownership": {
+    "tab_mjm503u": "admin"
+  },
   "labels": {},
   "uploads": [],
   "tabs": [
@@ -355,7 +357,14 @@
     {
       "id": "tab_dqtmkfy",
       "name": "Post-Processing",
-      "groups": []
+      "groups": [],
+      "kind": "docs"
+    },
+    {
+      "id": "tab_mjm503u",
+      "name": "materials",
+      "groups": [],
+      "kind": "docs"
     }
   ],
   "distribution": {
@@ -380,7 +389,10 @@
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json"
+    "path": "OpenSource_PDKMonitor/dashboard.json",
+    "lastPublishedAt": "2026-05-25T03:52:05.449Z",
+    "lastPublishedSha": "ba747e0515b12b5aa7f323aa5ad1c05f6ca387e6",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/ba747e0515b12b5aa7f323aa5ad1c05f6ca387e6"
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -445,7 +457,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-25T03:52:05.449Z",
+    "publishedAt": "2026-05-25T03:54:29.961Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
