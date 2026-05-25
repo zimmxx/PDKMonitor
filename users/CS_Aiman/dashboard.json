@@ -905,7 +905,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-25T19:06:30.926Z",
+    "publishedAt": "2026-05-25T19:07:23.272Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
@@ -916,15 +916,6 @@
     "tabCount": 1,
     "fileCount": 31,
     "sliceFor": "CS_Aiman",
-    "termsVersion": "1.1.0",
-    "stripped": {
-      "gdsContent": 0,
-      "layoutSvg": 0,
-      "documents": 0,
-      "datasets": 60,
-      "parsed": 30,
-      "approxBytes": 43451481,
-      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
-    }
+    "termsVersion": "1.1.0"
   }
 }
