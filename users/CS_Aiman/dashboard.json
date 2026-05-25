@@ -165,6 +165,34 @@
       "name": "Technology Platforms",
       "groups": [
         {
+          "id": "g_3u8hhdf",
+          "name": "SOI 220 nm Active",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_ltl8sye",
+              "name": "SOI220nm_1310nm_TE_MZI_Modulator",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_eovka6n",
+                  "name": "aiman test modu",
+                  "tests": []
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "_contribOnly": true
+            }
+          ]
+        },
+        {
           "id": "g_pxvrznx",
           "name": "SOI 220 nm Passive",
           "platformMeta": {
@@ -189,7 +217,8 @@
                   "bbType": "custom",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: Cell0_SOI220_Full_1550nm_Packaging_Template\ncomponent_type: PackagingTemplate\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e_o1\n  port_type: optical\n  center:\n  - 4922.173\n  - 1650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o10\n  port_type: optical\n  center:\n  - 4922.173\n  - -600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o11\n  port_type: optical\n  center:\n  - 4922.173\n  - -850.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o12\n  port_type: optical\n  center:\n  - 4922.173\n  - -1100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o13\n  port_type: optical\n  center:\n  - 4922.173\n  - -1350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o14\n  port_type: optical\n  center:\n  - 4922.173\n  - -1600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o2\n  port_type: optical\n  center:\n  - 4922.173\n  - 1400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o3\n  port_type: optical\n  center:\n  - 4922.173\n  - 1150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o4\n  port_type: optical\n  center:\n  - 4922.173\n  - 900.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o5\n  port_type: optical\n  center:\n  - 4922.173\n  - 650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o6\n  port_type: optical\n  center:\n  - 4922.173\n  - 400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o7\n  port_type: optical\n  center:\n  - 4922.173\n  - 150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o8\n  port_type: optical\n  center:\n  - 4922.173\n  - -100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o9\n  port_type: optical\n  center:\n  - 4922.173\n  - -350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_vertical_te1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te10\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te11\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te12\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te13\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te14\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te3\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te4\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te5\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te6\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te7\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te8\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te9\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: n_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: s_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: w_o1\n  port_type: optical\n  center:\n  - -4922.173\n  - 1650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o10\n  port_type: optical\n  center:\n  - -4922.173\n  - -600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o11\n  port_type: optical\n  center:\n  - -4922.173\n  - -850.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o12\n  port_type: optical\n  center:\n  - -4922.173\n  - -1100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o13\n  port_type: optical\n  center:\n  - -4922.173\n  - -1350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o14\n  port_type: optical\n  center:\n  - -4922.173\n  - -1600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o2\n  port_type: optical\n  center:\n  - -4922.173\n  - 1400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o3\n  port_type: optical\n  center:\n  - -4922.173\n  - 1150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o4\n  port_type: optical\n  center:\n  - -4922.173\n  - 900.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o5\n  port_type: optical\n  center:\n  - -4922.173\n  - 650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o6\n  port_type: optical\n  center:\n  - -4922.173\n  - 400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o7\n  port_type: optical\n  center:\n  - -4922.173\n  - 150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o8\n  port_type: optical\n  center:\n  - -4922.173\n  - -100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o9\n  port_type: optical\n  center:\n  - -4922.173\n  - -350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_vertical_te1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te10\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te11\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te12\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te13\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te14\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te3\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te4\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te5\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te6\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te7\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te8\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te9\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n"
+                  "rawText": "name: Cell0_SOI220_Full_1550nm_Packaging_Template\ncomponent_type: PackagingTemplate\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e_o1\n  port_type: optical\n  center:\n  - 4922.173\n  - 1650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o10\n  port_type: optical\n  center:\n  - 4922.173\n  - -600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o11\n  port_type: optical\n  center:\n  - 4922.173\n  - -850.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o12\n  port_type: optical\n  center:\n  - 4922.173\n  - -1100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o13\n  port_type: optical\n  center:\n  - 4922.173\n  - -1350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o14\n  port_type: optical\n  center:\n  - 4922.173\n  - -1600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o2\n  port_type: optical\n  center:\n  - 4922.173\n  - 1400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o3\n  port_type: optical\n  center:\n  - 4922.173\n  - 1150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o4\n  port_type: optical\n  center:\n  - 4922.173\n  - 900.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o5\n  port_type: optical\n  center:\n  - 4922.173\n  - 650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o6\n  port_type: optical\n  center:\n  - 4922.173\n  - 400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o7\n  port_type: optical\n  center:\n  - 4922.173\n  - 150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o8\n  port_type: optical\n  center:\n  - 4922.173\n  - -100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o9\n  port_type: optical\n  center:\n  - 4922.173\n  - -350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_vertical_te1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te10\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te11\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te12\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te13\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te14\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te3\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te4\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te5\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te6\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te7\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te8\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te9\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: n_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: s_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: w_o1\n  port_type: optical\n  center:\n  - -4922.173\n  - 1650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o10\n  port_type: optical\n  center:\n  - -4922.173\n  - -600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o11\n  port_type: optical\n  center:\n  - -4922.173\n  - -850.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o12\n  port_type: optical\n  center:\n  - -4922.173\n  - -1100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o13\n  port_type: optical\n  center:\n  - -4922.173\n  - -1350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o14\n  port_type: optical\n  center:\n  - -4922.173\n  - -1600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o2\n  port_type: optical\n  center:\n  - -4922.173\n  - 1400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o3\n  port_type: optical\n  center:\n  - -4922.173\n  - 1150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o4\n  port_type: optical\n  center:\n  - -4922.173\n  - 900.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o5\n  port_type: optical\n  center:\n  - -4922.173\n  - 650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o6\n  port_type: optical\n  center:\n  - -4922.173\n  - 400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o7\n  port_type: optical\n  center:\n  - -4922.173\n  - 150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o8\n  port_type: optical\n  center:\n  - -4922.173\n  - -100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o9\n  port_type: optical\n  center:\n  - -4922.173\n  - -350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_vertical_te1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te10\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te11\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te12\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te13\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te14\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te3\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te4\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te5\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te6\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te7\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te8\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te9\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n",
+                  "description": ""
                 },
                 {
                   "id": "d_fagtw0k",
@@ -201,7 +230,8 @@
                   "bbType": "custom",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nCell0_SOI220_Full_1550nm_Packaging_Template.md\nHeater.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_MZI.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_MZI.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```"
+                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nCell0_SOI220_Full_1550nm_Packaging_Template.md\nHeater.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_MZI.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_MZI.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```",
+                  "description": ""
                 },
                 {
                   "id": "d_ag9gumu",
@@ -213,7 +243,8 @@
                   "bbType": "custom",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nPIC_Bootcamp_Demo.md\nSOI220_CS_OtS_March_2025_v1p1.md\nSOI220nm_1550nm_TE_Education_Kit.md\n```"
+                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nPIC_Bootcamp_Demo.md\nSOI220_CS_OtS_March_2025_v1p1.md\nSOI220nm_1550nm_TE_Education_Kit.md\n```",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -237,64 +268,22 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [
                 {
-                  "id": "tg_skv1qif",
+                  "id": "tg_files",
                   "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_kp1uhhx",
-                      "name": "examplefile",
-                      "filename": "examplefile",
-                      "kind": "examplefile",
-                      "size": 1,
-                      "parsed": null,
-                      "rawText": "\n",
-                      "imageUrl": null,
-                      "binaryContent": "Cg==",
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:29.386Z",
-                      "updated": "2026-05-25"
-                    }
-                  ]
+                  "tests": []
                 }
               ],
               "smatrixGroups": [
                 {
-                  "id": "sg_zeie64f",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_ersk9c5",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358334,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:19.321Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -316,36 +305,16 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 123.6\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 123.6\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_a8v7a39",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_2fj95gm",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 633112,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:19.884Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -367,36 +336,16 @@
                   "bbType": "bend",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.2\n  - 0\n  orientation: 270\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.2\n  - 25.0\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.2\n  - 0\n  orientation: 270\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.2\n  - 25.0\n  orientation: 0\n  cross_section: rib_1310nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_byd3zcv",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_hwuqs9p",
-                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164622,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:20.377Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -418,36 +367,16 @@
                   "bbType": "grating-coupler",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_lfjo2dt",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_2133b26",
-                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163660,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:20.677Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -469,36 +398,16 @@
                   "bbType": "crossing",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1310nm_TE\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1310nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_nthzy27",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_kl8v3fq",
-                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 635372,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:21.221Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -520,36 +429,16 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_u0afv8c",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_wfdbaye",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357973,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:21.549Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -571,36 +460,16 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_hl97s4n",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_l970rmn",
-                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 631444,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:22.028Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -622,36 +491,16 @@
                   "bbType": "bend",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.2\n  - 0\n  orientation: 270\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.2\n  - 5.0\n  orientation: 0\n  cross_section: strip_1310nm\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.2\n  - 0\n  orientation: 270\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.2\n  - 5.0\n  orientation: 0\n  cross_section: strip_1310nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_odctrv4",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_s6v6vls",
-                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 166460,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:22.363Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -673,36 +522,16 @@
                   "bbType": "grating-coupler",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_ozmhb7c",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_6hi7bi9",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163654,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:22.658Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -724,36 +553,16 @@
                   "bbType": "crossing",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_01lk4zt",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_34ffh3l",
-                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 630936,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:23.060Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -775,64 +584,22 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [
                 {
-                  "id": "tg_1tuqim3",
+                  "id": "tg_files",
                   "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_5m7nz5i",
-                      "name": "examplefile",
-                      "filename": "examplefile",
-                      "kind": "examplefile",
-                      "size": 1,
-                      "parsed": null,
-                      "rawText": "\n",
-                      "imageUrl": null,
-                      "binaryContent": "Cg==",
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:29.661Z",
-                      "updated": "2026-05-25"
-                    }
-                  ]
+                  "tests": []
                 }
               ],
               "smatrixGroups": [
                 {
-                  "id": "sg_gkxtmy4",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_qohvx20",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358185,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:23.446Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -854,36 +621,16 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 104.8\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 104.8\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 104.8\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 104.8\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_80w2qfl",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_3byjmza",
-                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 632521,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:23.915Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -905,36 +652,16 @@
                   "bbType": "bend",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_lmaetux",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_j8r4dou",
-                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 164771,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:24.244Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -956,36 +683,16 @@
                   "bbType": "grating-coupler",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 34.886\n  - 0.0\n  orientation: 0\n  width: 16\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 34.886\n  - 0.0\n  orientation: 0\n  width: 16\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_ntcuwvs",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_mnbet4z",
-                      "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163725,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:24.542Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1007,36 +714,16 @@
                   "bbType": "grating-coupler",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_v3zvic8",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_qgtl7x3",
-                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:24.930Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -1058,7 +745,8 @@
                   "bbType": "mzi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.52500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.47500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 46.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 99.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 207.559\n  - 218\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.52500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.47500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 46.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 99.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 207.559\n  - 218\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -1082,1242 +770,20 @@
                   "bbType": "waveguide",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [
                 {
-                  "id": "tg_7rlv339",
+                  "id": "tg_files",
                   "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_nsp8nvs",
-                      "name": "a",
-                      "filename": "a",
-                      "kind": "a",
-                      "size": 1,
-                      "parsed": null,
-                      "rawText": "\n",
-                      "imageUrl": null,
-                      "binaryContent": "Cg==",
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:30.380Z",
-                      "updated": "2026-05-25"
-                    },
-                    {
-                      "id": "t_ulkssz6",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:30.930Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_yn1dpzh",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:31.426Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_45i5ptk",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:31.996Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_8qve8id",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:32.395Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_0zulf4o",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:33.209Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_8xgp6p6",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:33.855Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_7euprqp",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:34.240Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_n8s2zdl",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:34.718Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_7ljc38a",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:35.368Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_zglduti",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:35.864Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_nf1uc3y",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:36.194Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_uio2a53",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:36.531Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_1wcsmqx",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:37.151Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_gstiu27",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:37.473Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_48n0lnj",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:38.022Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_vl40t0x",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:38.361Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_nq72kny",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:38.776Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_3vmaiq5",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:39.394Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_9s4lxbk",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:39.733Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_dybmbbd",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:40.228Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_b1r0teb",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:40.565Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_u370qc2",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:41.043Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_1vp9nzu",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:41.380Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_lzjkm4w",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:41.820Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_zw40tv2",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:42.140Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_p2imdek",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:42.476Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_8vhnpum",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:43.027Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_fp20dp9",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:43.421Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_72jhva1",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:43.757Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_i8ie6uj",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:44.231Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "tests": []
                 },
                 {
                   "id": "tg_3dxxs3f",
                   "name": "aiman_test",
-                  "tests": [
-                    {
-                      "id": "t_unqeh4o",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.611Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_c0f7rsz",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.625Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_1nc889i",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.637Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_uwgfuk7",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.645Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_jftxxb3",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.654Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_ampbol5",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.663Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_46sfmw3",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.674Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_djnu4dn",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.681Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_15hakt1",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.692Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_2px9gcq",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.700Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_sq6oy6x",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.709Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_8kdmuu4",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.718Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_7jktwuc",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.727Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_r3mj20s",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.736Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_44wbxss",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.744Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_h2r3q53",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.752Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_os9ylp5",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.772Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_ub2xe1n",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.799Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_gynbnu6",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.809Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_0ymcvko",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.817Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_q4a3leb",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.825Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_uzouf2r",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.832Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_3js272i",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.839Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_iamkhtr",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.847Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_0czxa66",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.855Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_g3t4c52",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.863Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_kw61v30",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.872Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_107rx0b",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.879Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_h0v1764",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.888Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_zbosqts",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:06:05.897Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "tests": []
                 }
               ],
               "smatrixGroups": [],
@@ -2340,36 +806,16 @@
                   "bbType": "crossing",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_shimj8m",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_upo4c7x",
-                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 633381,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:25.473Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2391,36 +837,16 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_d5xkz8b",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_dsdjbqq",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 357474,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:25.873Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2442,36 +868,16 @@
                   "bbType": "mmi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 102.5\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 102.5\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 102.5\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 102.5\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_0obmhti",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_pmlgyb2",
-                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
-                      "kind": "csv",
-                      "size": 630545,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:26.357Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2493,36 +899,16 @@
                   "bbType": "bend",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_iw7q1my",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_rvmpkpd",
-                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 165483,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:26.759Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2544,36 +930,16 @@
                   "bbType": "grating-coupler",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_bc0xshc",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_fe5gjgs",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:27.076Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2595,7 +961,8 @@
                   "bbType": "mzi",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.17500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.82500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 49.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 102.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 210.157\n  - 221.138\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.17500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.82500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 49.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 102.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 210.157\n  - 221.138\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -2619,36 +986,16 @@
                   "bbType": "crossing",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.62\n  - 4.62\n  orientation: 90\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 9.24\n  - 0\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.62\n  - -4.62\n  orientation: 270\n  cross_section: strip_1550nm\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.62\n  - 4.62\n  orientation: 90\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 9.24\n  - 0\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.62\n  - -4.62\n  orientation: 270\n  cross_section: strip_1550nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
               "smatrixGroups": [
                 {
-                  "id": "sg_wj25cwf",
+                  "id": "sg_files",
                   "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_dvdfslv",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 632133,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T19:29:27.495Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2670,7 +1017,8 @@
                   "bbType": "waveguide",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.000\n  - 235.004\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175\n  - 235.004\n  orientation: 90\n  cross_section: dc\n"
+                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.000\n  - 235.004\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175\n  - 235.004\n  orientation: 90\n  cross_section: dc\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -2678,81 +1026,7 @@
                 {
                   "id": "sg_0k6arjk",
                   "name": "aiman test",
-                  "datasets": [
-                    {
-                      "id": "t_kk02wch",
-                      "name": "dashboard (1)",
-                      "filename": "dashboard (1).json",
-                      "kind": "json",
-                      "size": 1328279,
-                      "parsed": {
-                        "sweep": {
-                          "name": "statuses",
-                          "values": [
-                            null,
-                            null,
-                            null,
-                            null
-                          ]
-                        },
-                        "traces": [
-                          {
-                            "name": "categories",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "bbTypes",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "tabs",
-                            "values": [
-                              null
-                            ]
-                          },
-                          {
-                            "name": "contributors",
-                            "values": []
-                          }
-                        ]
-                      },
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Aiman",
-                      "added": "2026-05-25T11:01:50.859Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true
-                    }
-                  ]
+                  "datasets": []
                 }
               ],
               "fabTabs": [],
@@ -2774,7 +1048,8 @@
                   "bbType": "waveguide",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -2798,7 +1073,8 @@
                   "bbType": "waveguide",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n"
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -2822,7 +1098,8 @@
                   "bbType": "waveguide",
                   "who": "CS_Aiman",
                   "added": "2026-05-25",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
+                  "description": ""
                 }
               ],
               "testGroups": [],
@@ -2836,6 +1113,8 @@
     }
   ],
   "ownership": {
+    "e_ltl8sye": "admin",
+    "layout:e_ltl8sye": "admin",
     "e_86635m3": "admin",
     "layout:e_86635m3": "admin",
     "e_0dq0cns": "admin",
@@ -2907,26 +1186,19 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-25T19:30:01.166Z",
+    "publishedAt": "2026-05-25T21:44:14.352Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 29,
-    "groupCount": 1,
+    "bbCount": 30,
+    "groupCount": 2,
     "tabCount": 1,
-    "fileCount": 116,
+    "fileCount": 152,
     "sliceFor": "CS_Aiman",
     "termsVersion": "1.1.0",
-    "stripped": {
-      "gdsContent": 0,
-      "layoutSvg": 0,
-      "documents": 0,
-      "datasets": 102,
-      "parsed": 51,
-      "approxBytes": 66691892,
-      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
-    }
+    "nuclearStripped": true,
+    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
   }
 }
