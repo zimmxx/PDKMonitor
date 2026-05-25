@@ -1363,14 +1363,17 @@
     "tg_xx45kmo": "CS_Bilge",
     "t_qr0d7of": "CS_Bilge",
     "ft_p0ekd9m": "CS_Shengqi",
-    "t_vjqohe2": "CS_Shengqi"
+    "t_vjqohe2": "CS_Shengqi",
+    "p_97xvghw": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
     "CS_Aiman": "CS_Aiman",
     "CS_Bilge": "CS_Bilge",
     "CS_Shengqi": "CS_Shengqi",
-    "dashboard_admin": "Dashboard Admin"
+    "dashboard_admin": "Dashboard Admin",
+    "CS_Emre": "CS_Emre",
+    "CS_Khaled": "CS_Khaled"
   },
   "uploads": [
     {
@@ -22441,39 +22444,31 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpl6jlx5_0",
+        "id": "s_mpl7l6g6_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": false
+        "enabled": true
       },
       {
-        "id": "s_mpl6jlx5_1",
+        "id": "s_mpl7l6g6_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
         "enabled": true
-      },
-      {
-        "id": "s_mpl6xqem_5po",
-        "label": "CORNERSTONE main (Open-source PDK)",
-        "repo": "cornerstone-uos/PDKMonitor",
-        "branch": "main",
-        "path": "OpenSource_PDKMonitor/dashboard_26_mqy.json",
-        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "users",
+    "path": "OpenSource_PDKMonitor/dashboard.json",
     "lastPublishedAt": "2026-05-25T12:41:02.811Z",
     "lastPublishedSha": "3a9bdf4f935700af93ec6600f722905c090c8ae7",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3a9bdf4f935700af93ec6600f722905c090c8ae7",
-    "lastFetchedAt": "2026-05-25T12:40:27.172Z",
-    "lastFetchedSha": "a5cd8ad186237f08085263cc3937d2d1444c1159",
+    "lastFetchedAt": "2026-05-25T12:55:52.639Z",
+    "lastFetchedSha": "759ef53b552f8b87b35fecff7595eea42d064b96",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -22501,14 +22496,14 @@
   "lastGithubFetch": "2026-05-25T12:35:56.969Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T12:42:29.344Z",
+    "publishedAt": "2026-05-25T12:57:33.009Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
-    "contributorCount": 6,
+    "contributorCount": 7,
     "bbCount": 118,
-    "guestCount": 5,
+    "guestCount": 6,
     "termsVersion": "1.1.0"
   },
   "_distributedSecurity": {
@@ -22567,6 +22562,17 @@
         "expiresOn": "",
         "createdAt": "2026-05-24",
         "lastUsed": "2026-05-25"
+      },
+      {
+        "id": "p_97xvghw",
+        "label": "newuser",
+        "role": "user-admin",
+        "password": "newuser",
+        "githubUser": "newuser",
+        "email": "",
+        "expiresOn": "",
+        "createdAt": "2026-05-25",
+        "lastUsed": ""
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
@@ -22575,7 +22581,9 @@
       "CS_Aiman": "CS_Aiman",
       "CS_Bilge": "CS_Bilge",
       "CS_Shengqi": "CS_Shengqi",
-      "dashboard_admin": "Dashboard Admin"
+      "dashboard_admin": "Dashboard Admin",
+      "CS_Emre": "CS_Emre",
+      "CS_Khaled": "CS_Khaled"
     },
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
@@ -22716,6 +22724,12 @@
       "name": "Dashboard Admin",
       "role": "admin",
       "addedAt": "2026-05-25T12:40:27.172Z"
+    },
+    {
+      "identity": "CS_Emre",
+      "name": "CS_Emre",
+      "role": "user-admin",
+      "addedAt": "2026-05-25T12:55:52.639Z"
     }
   ]
 }
