@@ -14495,6 +14495,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 632521,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -14587,6 +14588,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 164771,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -14678,6 +14680,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163429,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -14830,6 +14833,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 633381,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -14922,6 +14926,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 630545,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15014,6 +15019,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 165483,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15105,6 +15111,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163429,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15198,6 +15205,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 632133,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15624,6 +15632,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 358334,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15711,6 +15720,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 358334,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15826,6 +15836,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 633112,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -15907,6 +15918,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 633112,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16020,6 +16032,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 164622,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16101,6 +16114,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 164622,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16214,6 +16228,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163660,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16295,6 +16310,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163658,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16408,6 +16424,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 635372,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16489,6 +16506,7 @@
                       "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 635372,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16604,6 +16622,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 357973,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16691,6 +16710,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 357973,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16806,6 +16826,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 631444,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -16893,6 +16914,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 631444,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17006,6 +17028,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 166460,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17087,6 +17110,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 166460,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17200,6 +17224,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163654,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17287,6 +17312,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163660,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17400,6 +17426,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 630936,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17487,6 +17514,7 @@
                       "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 630936,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17636,6 +17664,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 358185,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17723,6 +17752,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 358185,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17825,6 +17855,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 632521,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -17979,6 +18010,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 164771,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18139,6 +18171,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163725,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18240,6 +18273,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163429,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18438,6 +18472,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18458,6 +18493,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18478,6 +18514,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18498,6 +18535,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18518,6 +18556,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18538,6 +18577,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18558,6 +18598,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18578,6 +18619,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18598,6 +18640,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18618,6 +18661,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18638,6 +18682,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18658,6 +18703,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18678,6 +18724,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18698,6 +18745,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18718,6 +18766,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18738,6 +18787,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18758,6 +18808,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18778,6 +18829,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18798,6 +18850,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18818,6 +18871,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18838,6 +18892,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18858,6 +18913,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18878,6 +18934,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18898,6 +18955,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18918,6 +18976,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18938,6 +18997,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18958,6 +19018,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18978,6 +19039,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -18998,6 +19060,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19018,6 +19081,7 @@
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
                       "kind": "txt",
                       "size": 546042,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19320,6 +19384,7 @@
                       "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 633381,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19495,6 +19560,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 357474,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19582,6 +19648,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
                       "kind": "csv",
                       "size": 357474,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19684,6 +19751,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
                       "kind": "csv",
                       "size": 630545,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19838,6 +19906,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
                       "kind": "csv",
                       "size": 165483,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -19998,6 +20067,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
                       "kind": "csv",
                       "size": 163429,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -20225,6 +20295,7 @@
                       "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
                       "kind": "csv",
                       "size": 632133,
+                      "rawText": null,
                       "imageUrl": null,
                       "metadata": {
                         "device_id": "",
@@ -25341,9 +25412,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T17:37:48.973Z",
-    "lastPublishedSha": "d240906df18c69a725bf2cff9514087c605dd1cb",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/d240906df18c69a725bf2cff9514087c605dd1cb",
+    "lastPublishedAt": "2026-05-25T17:43:12.432Z",
+    "lastPublishedSha": "80d50bbe96d2dcd4f283541a3b9655e428ac99b3",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/80d50bbe96d2dcd4f283541a3b9655e428ac99b3",
     "lastFetchedAt": "2026-05-25T17:38:22.962Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
@@ -25367,7 +25438,7 @@
   "lastGithubFetch": "2026-05-25T17:29:44.153Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T17:43:12.432Z",
+    "publishedAt": "2026-05-25T17:44:21.058Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
