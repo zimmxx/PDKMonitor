@@ -270,7 +270,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T10:11:11.360Z",
+    "publishedAt": "2026-05-25T10:12:33.335Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
@@ -281,15 +281,6 @@
     "tabCount": 1,
     "fileCount": 1,
     "sliceFor": "CS_Bilge",
-    "termsVersion": "1.1.0",
-    "stripped": {
-      "gdsContent": 0,
-      "layoutSvg": 0,
-      "documents": 0,
-      "datasets": 2,
-      "parsed": 0,
-      "approxBytes": 2033184,
-      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
-    }
+    "termsVersion": "1.1.0"
   }
 }
