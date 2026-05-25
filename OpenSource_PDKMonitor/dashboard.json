@@ -27542,9 +27542,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T18:13:55.996Z",
-    "lastPublishedSha": "edf1818f956cd0218383ce00776a4eab9b8a37be",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/edf1818f956cd0218383ce00776a4eab9b8a37be",
+    "lastPublishedAt": "2026-05-25T18:18:48.994Z",
+    "lastPublishedSha": "4ab7f266a1f780d95a9722bcdbae557a5af5d720",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/4ab7f266a1f780d95a9722bcdbae557a5af5d720",
     "lastFetchedAt": "2026-05-25T17:38:22.962Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
@@ -27568,7 +27568,7 @@
   "lastGithubFetch": "2026-05-25T17:29:44.153Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T18:18:48.994Z",
+    "publishedAt": "2026-05-25T18:18:56.658Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
