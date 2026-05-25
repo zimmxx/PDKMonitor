@@ -132,7 +132,7 @@
       "material": "Si",
       "thickness": 220,
       "defaultWGwidth": 500,
-      "color": "#d29922"
+      "color": "#50a7dc"
     },
     {
       "id": "soi-340",
@@ -140,7 +140,7 @@
       "material": "Si",
       "thickness": 340,
       "defaultWGwidth": 800,
-      "color": "#cdb174"
+      "color": "#628bb7"
     },
     {
       "id": "soi-500",
@@ -148,7 +148,7 @@
       "material": "Si",
       "thickness": 500,
       "defaultWGwidth": 1000,
-      "color": "#cdc3ac"
+      "color": "#2f6da7"
     },
     {
       "id": "tfln-300",
@@ -164,7 +164,7 @@
       "material": "SiN",
       "thickness": 300,
       "defaultWGwidth": 1200,
-      "color": "#58a6ff"
+      "color": "#b347a4"
     },
     {
       "id": "sin-200",
@@ -172,7 +172,7 @@
       "material": "SiN",
       "thickness": 200,
       "defaultWGwidth": 1000,
-      "color": "#5fc8c1"
+      "color": "#cd84e1"
     },
     {
       "id": "sus-si-500",
@@ -180,15 +180,15 @@
       "material": "Si",
       "thickness": 500,
       "defaultWGwidth": 500,
-      "color": "#c1a96a"
+      "color": "#93aae1"
     },
     {
       "id": "ge-on-si",
       "name": "GeonSi",
       "material": "Germanium",
       "thickness": 3000,
-      "defaultWGwidth": 2000,
-      "color": "#41c851"
+      "defaultWGwidth": 2001,
+      "color": "#0e5838"
     }
   ],
   "edaTools": [
@@ -22533,19 +22533,11 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpla306k_0",
+        "id": "s_mplaf6fb_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": true
-      },
-      {
-        "id": "s_mpla306k_1",
-        "label": "User-admin contributions (auto-discover)",
-        "repo": "cornerstone-uos/PDKMonitor",
-        "branch": "main",
-        "path": "users",
         "enabled": true
       }
     ],
@@ -22556,7 +22548,7 @@
     "lastPublishedAt": "2026-05-25T14:10:26.378Z",
     "lastPublishedSha": "b1afa5f631102974c4b177e7df1fb4ebe1a4991b",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/b1afa5f631102974c4b177e7df1fb4ebe1a4991b",
-    "lastFetchedAt": "2026-05-25T14:05:05.260Z",
+    "lastFetchedAt": "2026-05-25T14:23:08.544Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
       "tabs": 0,
@@ -22585,7 +22577,7 @@
   "lastGithubFetch": "2026-05-25T14:08:47.705Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T14:12:01.317Z",
+    "publishedAt": "2026-05-25T14:25:06.737Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
