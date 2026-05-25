@@ -1419,7 +1419,26 @@
     "t_0amzsqg": "admin",
     "layout:e_6hl2ktz": "admin",
     "t_j0790q1": "admin",
-    "t_5vjf3ia": "admin"
+    "t_5vjf3ia": "admin",
+    "ly_dmw6pev": "admin",
+    "ly_p1bv05s": "admin",
+    "ly_4e8uvgg": "admin",
+    "ly_4hdhy2t": "admin",
+    "ly_6s50feh": "admin",
+    "ly_gzu0jvv": "admin",
+    "ly_we74c5t": "admin",
+    "ly_epw05ms": "admin",
+    "ly_4oadbcz": "admin",
+    "ly_jqnkne5": "admin",
+    "ly_wisvowm": "admin",
+    "ly_516sohz": "admin",
+    "ly_35w6mh2": "admin",
+    "ly_qxq83gm": "admin",
+    "ly_zd666w2": "admin",
+    "ly_e0m1tj2": "admin",
+    "ly_nliib3q": "admin",
+    "ly_7upjej1": "admin",
+    "ly_ws46h4l": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -14388,97 +14407,6 @@
               "edaLinks": [],
               "trl": null,
               "gdsContent": ""
-            },
-            {
-              "id": "e_mv15bsy",
-              "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_3u5sdhe",
-                  "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "dataUrl": "data:application/yaml;base64,bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMC4yMjUKICAtIDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMjI1CiAgLSA1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KICAK",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.097689e-2\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"262\" y=\"60\" width=\"476\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 262.0 536.0 L 262.6 510.1 L 264.7 484.4 L 268.2 458.9 L 273.0 433.6 L 279.3 408.6 L 286.9 384.0 L 295.7 359.7 L 305.9 336.0 L 317.4 313.0 L 330.1 290.5 L 344.0 268.8 L 359.0 247.8 L 375.1 227.8 L 392.4 208.6 L 410.6 190.4 L 429.7 173.1 L 449.8 157.0 L 470.8 141.9 L 492.6 128.1 L 515.0 115.4 L 538.1 103.9 L 561.8 93.7 L 586.0 84.8 L 610.6 77.2 L 635.7 71.0 L 661.0 66.2 L 686.5 62.7 L 712.2 60.6 L 738.0 60.0 L 738.0 101.0 L 713.6 101.6 L 689.3 103.6 L 665.1 107.1 L 641.2 111.8 L 617.6 117.9 L 594.3 125.3 L 571.5 134.0 L 549.2 144.0 L 527.6 155.2 L 506.5 167.6 L 486.2 181.2 L 466.7 195.8 L 448.0 211.6 L 430.3 228.4 L 413.5 246.1 L 397.7 264.8 L 383.1 284.3 L 369.5 304.6 L 357.1 325.6 L 346.0 347.3 L 336.0 369.6 L 327.3 392.3 L 319.9 415.6 L 313.8 439.2 L 309.1 463.1 L 305.6 487.3 L 303.6 511.6 L 303.0 536.0 L 262.0 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1550nm_TE_STRIP_90_Degree_Bend</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">5.23 × 5.23 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#d29922;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Si full etch</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
-              "gdsSize": 646,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1779694497581
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                  "ts": 1779694518158
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_3h2se6c",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_2e56452",
-                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
-                      "kind": "csv",
-                      "size": 165483,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T13:08:38.954Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null,
-              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -21920,9 +21848,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T13:10:50.681Z",
-    "lastPublishedSha": "8dce72ae44960c2dee1e56ce403f3e342ee73859",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8dce72ae44960c2dee1e56ce403f3e342ee73859",
+    "lastPublishedAt": "2026-05-25T13:17:59.356Z",
+    "lastPublishedSha": "e7359fcebda767c01f701e8654df5d8b2f1be7b6",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/e7359fcebda767c01f701e8654df5d8b2f1be7b6",
     "lastFetchedAt": "2026-05-25T13:11:28.228Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
@@ -21952,13 +21880,13 @@
   "lastGithubFetch": "2026-05-25T13:08:43.026Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T13:17:59.356Z",
+    "publishedAt": "2026-05-25T13:45:25.762Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 7,
-    "bbCount": 114,
+    "bbCount": 113,
     "guestCount": 6,
     "termsVersion": "1.1.0"
   },
@@ -22047,99 +21975,251 @@
   "layers": [
     {
       "id": "l1",
-      "name": "Si full etch",
+      "name": "Silicon etch 2 negative",
       "layer": 3,
       "datatype": 0,
-      "description": "Strip waveguides — silicon fully etched",
+      "description": "[WGN] GDS 03 – Silicon etch 2 negative (waveguide – Writes waveguide border, standard width: 5 µm)",
       "color": "#d29922"
     },
     {
       "id": "l2",
-      "name": "Waveguide etch",
+      "name": " Silicon etch 2 positive",
       "layer": 4,
       "datatype": 0,
-      "description": "Silicon etch — defines rib waveguide regions",
+      "description": "[WGP] GDS 04 – Silicon etch 2 positive (writes exactly as drawn, together with GDS 03, e.g. for metrology box)",
       "color": "#db61a2"
     },
     {
       "id": "l3",
-      "name": "Slab etch",
+      "name": "Silicon etch 3 ",
       "layer": 5,
       "datatype": 0,
-      "description": "Partial silicon etch for slab/rib transitions",
+      "description": "[FET] GDS 05 – Silicon etch 3 (full etch slab to BOX)",
       "color": "#f5a83a"
     },
     {
       "id": "l4",
-      "name": "Grating",
+      "name": "Gratings",
       "layer": 6,
       "datatype": 0,
-      "description": "Grating teeth — fibre coupler",
+      "description": "[GRA] GDS 06 – Silicon etch 1 (gratings)",
       "color": "#c4742d"
     },
     {
       "id": "l5",
-      "name": "Heater",
-      "layer": 22,
+      "name": "Silicon low dose p-type",
+      "layer": 7,
       "datatype": 0,
-      "description": "TiN / NiCr metallic heater filament",
+      "description": "[LPI] GDS 07 – Silicon low dose p-type",
       "color": "#3fb950"
     },
     {
       "id": "l6",
-      "name": "Contact",
-      "layer": 39,
+      "name": "Silicon low dose n-type",
+      "layer": 8,
       "datatype": 0,
-      "description": "Via / contact to underlying metal layer",
+      "description": "[LNI] GDS 08 – Silicon low dose n-type",
       "color": "#db61a2"
     },
     {
       "id": "l7",
-      "name": "Metal 1 (pads)",
-      "layer": 41,
+      "name": "Silicon high dose p-type",
+      "layer": 9,
       "datatype": 0,
-      "description": "Aluminium metallisation — bond pads / routing",
+      "description": "[HPI] GDS 09 – Silicon high dose p-type",
       "color": "#a371f7"
     },
     {
       "id": "l8",
-      "name": "Implant n+",
-      "layer": 60,
+      "name": "/",
+      "layer": 10,
       "datatype": 0,
-      "description": "n+ doping implant — modulator / PD contacts",
+      "description": ",",
       "color": "#58a6ff"
     },
     {
       "id": "l9",
-      "name": "Label / text",
-      "layer": 99,
+      "name": "Silicon high dose n-type",
+      "layer": 11,
       "datatype": 0,
-      "description": "Text labels — non-fabricated, documentation only",
+      "description": "[HNI] GDS 11 – Silicon high dose n-type",
       "color": "#6e7681"
     },
     {
       "id": "l10",
-      "name": "Cell outline",
-      "layer": 100,
+      "name": "Vias",
+      "layer": 12,
       "datatype": 0,
-      "description": "Logical bounding box / cell outline marker",
+      "description": "[VIA] GDS 12 – Silicon contact holes (vias)",
       "color": "#58a6ff"
     },
     {
       "id": "l11",
-      "name": "DRC waiver",
-      "layer": 203,
+      "name": "Electrodes",
+      "layer": 13,
       "datatype": 0,
-      "description": "DRC exemption marker",
+      "description": "[ELC] GDS 13 – Electrodes",
       "color": "#d29922"
     },
     {
       "id": "l12",
-      "name": "Floorplan",
+      "name": "Ge implant ",
+      "layer": 14,
+      "datatype": 0,
+      "description": "[TRI] GDS 14 - Ge implant for trimming",
+      "color": "#c4742d"
+    },
+    {
+      "id": "ly_dmw6pev",
+      "name": "Vias to heater filaments",
+      "layer": 15,
+      "datatype": 0,
+      "description": "[HVI] GDS 15 - Vias to encapsulated heater filaments",
+      "color": "#d29922"
+    },
+    {
+      "id": "ly_p1bv05s",
+      "name": "Cladding opening",
+      "layer": 22,
+      "datatype": 0,
+      "description": "[OPE] GDS 22 – Cladding opening",
+      "color": "#db61a2"
+    },
+    {
+      "id": "ly_4e8uvgg",
+      "name": " Defect Detector implantation window",
+      "layer": 23,
+      "datatype": 0,
+      "description": "[DEF] GDS 23 – Defect Detector - Si implantation window",
+      "color": "#a371f7"
+    },
+    {
+      "id": "ly_4hdhy2t",
+      "name": "[EDG] GDS 26 - ~100um deep etch for edge couplers",
+      "layer": 26,
+      "datatype": 0,
+      "description": "[EDG] GDS 26 - ~100um deep etch for edge couplers",
+      "color": "#f85149"
+    },
+    {
+      "id": "ly_6s50feh",
+      "name": "[FIL] GDS 39 – Heater filament",
+      "layer": 39,
+      "datatype": 0,
+      "description": "[FIL] GDS 39 – Heater filament",
+      "color": "#79c0ff"
+    },
+    {
+      "id": "ly_gzu0jvv",
+      "name": "[LSH] GDS 40 – Light shield",
+      "layer": 40,
+      "datatype": 0,
+      "description": "[LSH] GDS 40 – Light shield",
+      "color": "#56d364"
+    },
+    {
+      "id": "ly_we74c5t",
+      "name": "[ISO] GDS 46 - Heater isolation trench",
+      "layer": 46,
+      "datatype": 0,
+      "description": "[ISO] GDS 46 - Heater isolation trench",
+      "color": "#e3b341"
+    },
+    {
+      "id": "ly_epw05ms",
+      "name": "[CON] GDS 47 - Contact pad opening",
+      "layer": 47,
+      "datatype": 0,
+      "description": "[CON] GDS 47 - Contact pad opening",
+      "color": "#ff7b72"
+    },
+    {
+      "id": "ly_4oadbcz",
+      "name": "[DEE] GDS 50 - Backside deep etch",
+      "layer": 50,
+      "datatype": 0,
+      "description": "[DEE] GDS 50 - Backside deep etch",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "ly_jqnkne5",
+      "name": "[APO] GDS 60 - E-beam grating coupler layer for apodised grating couplers",
+      "layer": 60,
+      "datatype": 0,
+      "description": "[APO] GDS 60 - E-beam grating coupler layer for apodised grating couplers",
+      "color": "#3fb950"
+    },
+    {
+      "id": "ly_wisvowm",
+      "name": "[TMG] GDS 62 - Silicon etch  (TM gratings)",
+      "layer": 62,
+      "datatype": 0,
+      "description": "[TMG] GDS 62 - Silicon etch  (TM gratings)",
+      "color": "#d29922"
+    },
+    {
+      "id": "ly_516sohz",
+      "name": "[BLE] GDS 98 - Cleaving bleed area",
+      "layer": 98,
+      "datatype": 0,
+      "description": "[BLE] GDS 98 - Cleaving bleed area",
+      "color": "#db61a2"
+    },
+    {
+      "id": "ly_35w6mh2",
+      "name": "[OUT] GDS 99 - Cell outline",
+      "layer": 99,
+      "datatype": 0,
+      "description": "[OUT] GDS 99 - Cell outline",
+      "color": "#a371f7"
+    },
+    {
+      "id": "ly_qxq83gm",
+      "name": "[LAB] GDS 100 - Labels",
+      "layer": 100,
+      "datatype": 0,
+      "description": "[LAB] GDS 100 - Labels",
+      "color": "#f85149"
+    },
+    {
+      "id": "ly_zd666w2",
+      "name": "[WGN] GDS 203 – SiN etch_negative (waveguide – Writes waveguide border, standard width: 5 µm)",
+      "layer": 203,
+      "datatype": 0,
+      "description": "[WGN] GDS 203 – SiN etch_negative (waveguide – Writes waveguide border, standard width: 5 µm)",
+      "color": "#79c0ff"
+    },
+    {
+      "id": "ly_e0m1tj2",
+      "name": "[WGP] GDS 204 – SiN etch_positive (writes exactly as drawn, together with GDS 203, e.g. for metrology box)",
       "layer": 204,
       "datatype": 0,
-      "description": "Floorplan / placement helper",
-      "color": "#c4742d"
+      "description": "[WGP] GDS 204 – SiN etch_positive (writes exactly as drawn, together with GDS 203, e.g. for metrology box)",
+      "color": "#56d364"
+    },
+    {
+      "id": "ly_nliib3q",
+      "name": "[WGN] GDS 303 – Ge etch_negative (waveguide – Writes waveguide border)",
+      "layer": 303,
+      "datatype": 0,
+      "description": "[WGN] GDS 303 – Ge etch_negative (waveguide – Writes waveguide border)",
+      "color": "#e3b341"
+    },
+    {
+      "id": "ly_7upjej1",
+      "name": "[WGP] GDS 304 – Ge etch_positive (writes exactly as drawn, together with GDS 303, e.g. for metrology box)",
+      "layer": 304,
+      "datatype": 0,
+      "description": "[WGP] GDS 304 – Ge etch_positive (writes exactly as drawn, together with GDS 303, e.g. for metrology box)",
+      "color": "#ff7b72"
+    },
+    {
+      "id": "ly_ws46h4l",
+      "name": "[WGP] GDS 404 – Silicon etch_positive (writes exactly as drawn)",
+      "layer": 404,
+      "datatype": 0,
+      "description": "[WGP] GDS 404 – Silicon etch_positive (writes exactly as drawn)",
+      "color": "#58a6ff"
     }
   ],
   "contributors": [
