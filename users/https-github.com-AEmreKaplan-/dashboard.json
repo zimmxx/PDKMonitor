@@ -1281,13 +1281,7 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [
-                {
-                  "id": "tg_ix7s1sj",
-                  "name": "MPW45 CBand TM",
-                  "tests": []
-                }
-              ],
+              "testGroups": [],
               "updated": "2026-05-26",
               "kind": "passive",
               "bbType": "grating-coupler",
@@ -1427,7 +1421,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-26T18:53:19.306Z",
+    "publishedAt": "2026-05-26T18:56:36.646Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -1436,7 +1430,7 @@
     "bbCount": 34,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 105,
+    "fileCount": 85,
     "sliceFor": "https://github.com/AEmreKaplan/",
     "termsVersion": "1.1.0",
     "stripped": {
@@ -1452,7 +1446,7 @@
       "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 105,
+      "reused": 85,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "layoutVersion": "rev3-per-bb",
       "note": "Per-BB folder layout: users/https-github.com-AEmreKaplan-/<bb>/<section>/<file> with section names matching cornerstone-community (components, sparams, characterisation, fabrication, scripts, documents, variants). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
