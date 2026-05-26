@@ -225,13 +225,7 @@
                   "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nPIC_Bootcamp_Demo.md\nSOI220_CS_OtS_March_2025_v1p1.md\nSOI220nm_1550nm_TE_Education_Kit.md\n```"
                 }
               ],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "tests": []
-                }
-              ],
+              "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
@@ -259,13 +253,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -318,13 +306,7 @@
                   "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "tests": []
-                }
-              ],
+              "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
@@ -406,13 +388,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -439,13 +415,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -472,13 +442,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -505,13 +469,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -565,13 +523,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -598,13 +550,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -631,13 +577,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -664,13 +604,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -697,13 +631,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -757,13 +685,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -790,13 +712,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -823,13 +739,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -856,13 +766,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -889,13 +793,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -922,13 +820,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -955,13 +847,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -988,13 +874,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -1021,13 +901,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -1081,13 +955,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -1114,13 +982,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -1155,7 +1017,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy8phiw",
@@ -1194,7 +1059,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zsq6gkr",
@@ -1230,7 +1098,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_km981tv",
@@ -1269,7 +1140,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mgdnzr4",
@@ -1305,13 +1179,7 @@
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
-              "smatrixGroups": [
-                {
-                  "id": "sg_4xr8ilx",
-                  "name": "LumericalFDTD_v1",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "customSketchUrl": "",
               "customSketchName": "",
               "documents": [
@@ -1325,9 +1193,10 @@
                   "added": "2026-05-26T18:50:39.051Z",
                   "description": "Auto-generated YAML descriptor (regenerated on each GDS upload). Edit freely.",
                   "autoGenerated": true,
-                  "_externalized": true,
                   "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised__gdnzr4/components/SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised.yaml",
-                  "repoSha": "91117a894f4233b9628ebd6769ee78d6931a825e"
+                  "repoSha": "91117a894f4233b9628ebd6769ee78d6931a825e",
+                  "binaryContent": "IyBBdXRvLWdlbmVyYXRlZCBieSBDT1JORVJTVE9ORSBQREsgTW9uaXRvciB2MS4wLjAKIyBFZGl0IGZyZWVseSDigJQgdGhpcyBmaWxlIGlzIGEgc3RhcnRpbmcgcG9pbnQsIG5vdCBhdXRob3JpdGF0aXZlLgoKbmFtZTogU09JMjIwbm1fMTU1MG5tX1RNX1NUUklQX2ZvY3VzaW5nX0dDX2Fwb2Rpc2VkCmRlc2NyaXB0aW9uOiAiIgpiYl90eXBlOiAiZ3JhdGluZy1jb3VwbGVyIgpjYXRlZ29yeTogcGFzc2l2ZQpwbGF0Zm9ybTogU09JIDIyMCBubSBQYXNzaXZlCnN0YXR1czogcHJvZ3Jlc3MKb3duZXI6ICJodHRwczovL2dpdGh1Yi5jb20vQUVtcmVLYXBsYW4vIgp1cGRhdGVkOiAiMjAyNi0wNS0yNiIKZ2RzX2ZpbGU6IGNvbXBvbmVudHMvU09JMjIwX2NiYW5kX1RNX3N0cmlwX2Fwb2RpemVkX0dDX2ZvY3VzaW5nX3YxcDAuZ2RzCgpsYXllcnM6CiAgLSBsYXllcjogMAogICAgZGF0YXR5cGU6IHVuZGVmaW5lZAoKcGFyYW1ldGVyczoKICBwZXJpb2Rfbm06IDYzMAogIG5fcGVyaW9kczogMjgKICBmaWxsX2ZhY3RvcjogMC41CiAgd2lkdGhfbm06IDUwMAogIHRoaWNrbmVzc19ubTogMjIwCgplZGFfdG9vbHM6CiAgLSBrbGF5b3V0Cg==",
+                  "rawText": "# Auto-generated by CORNERSTONE PDK Monitor v1.0.0\n# Edit freely — this file is a starting point, not authoritative.\n\nname: SOI220nm_1550nm_TM_STRIP_focusing_GC_apodised\ndescription: \"\"\nbb_type: \"grating-coupler\"\ncategory: passive\nplatform: SOI 220 nm Passive\nstatus: progress\nowner: \"https://github.com/AEmreKaplan/\"\nupdated: \"2026-05-26\"\ngds_file: components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds\n\nlayers:\n  - layer: 0\n    datatype: undefined\n\nparameters:\n  period_nm: 630\n  n_periods: 28\n  fill_factor: 0.5\n  width_nm: 500\n  thickness_nm: 220\n\neda_tools:\n  - klayout\n"
                 }
               ],
               "layoutScaleUmPerPx": 0,
@@ -1336,7 +1205,313 @@
               "fetchHistory": [],
               "edaLinks": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
+            },
+            {
+              "id": "e_gk689qg",
+              "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_bf4ul3s",
+                  "name": "MPW45",
+                  "tests": [
+                    {
+                      "id": "t_qqrgzxa",
+                      "name": "GC_plot_Apodized Focusing_t-variation_10deg_TM",
+                      "filename": "GC_plot_Apodized Focusing_t-variation_10deg_TM.xlsx",
+                      "kind": "xlsx",
+                      "size": 13055,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:34.913Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/GC_plot_Apodized_Focusing_t-variation_10deg_TM.xlsx"
+                    },
+                    {
+                      "id": "t_4gl2w9o",
+                      "name": "p-15",
+                      "filename": "p-15.xlsx",
+                      "kind": "xlsx",
+                      "size": 417500,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:34.936Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/p-15.xlsx"
+                    },
+                    {
+                      "id": "t_u4tq13e",
+                      "name": "p-30",
+                      "filename": "p-30.xlsx",
+                      "kind": "xlsx",
+                      "size": 419057,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.045Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/p-30.xlsx"
+                    },
+                    {
+                      "id": "t_4ymjdxm",
+                      "name": "p0",
+                      "filename": "p0.xlsx",
+                      "kind": "xlsx",
+                      "size": 420076,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.124Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/p0.xlsx"
+                    },
+                    {
+                      "id": "t_york9x6",
+                      "name": "p15",
+                      "filename": "p15.xlsx",
+                      "kind": "xlsx",
+                      "size": 423551,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.204Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/p15.xlsx"
+                    },
+                    {
+                      "id": "t_n3kfoqz",
+                      "name": "p30",
+                      "filename": "p30.xlsx",
+                      "kind": "xlsx",
+                      "size": 423874,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.286Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/p30.xlsx"
+                    },
+                    {
+                      "id": "t_pb7lqsq",
+                      "name": "t-15",
+                      "filename": "t-15.xlsx",
+                      "kind": "xlsx",
+                      "size": 451331,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.361Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/t-15.xlsx"
+                    },
+                    {
+                      "id": "t_tmo7502",
+                      "name": "t-30",
+                      "filename": "t-30.xlsx",
+                      "kind": "xlsx",
+                      "size": 422358,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.445Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/t-30.xlsx"
+                    },
+                    {
+                      "id": "t_rordwwg",
+                      "name": "t0",
+                      "filename": "t0.xlsx",
+                      "kind": "xlsx",
+                      "size": 456557,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.529Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/t0.xlsx"
+                    },
+                    {
+                      "id": "t_nk5hbt9",
+                      "name": "t15",
+                      "filename": "t15.xlsx",
+                      "kind": "xlsx",
+                      "size": 423530,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.608Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/t15.xlsx"
+                    },
+                    {
+                      "id": "t_7kkgwli",
+                      "name": "t30",
+                      "filename": "t30.xlsx",
+                      "kind": "xlsx",
+                      "size": 423381,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:18:35.697Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/t30.xlsx"
+                    },
+                    {
+                      "id": "t_x1dxokq",
+                      "name": "Chip1_Apodized_GC_Cband_TM_pvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_pvariation.fig",
+                      "kind": "fig",
+                      "size": 1302530,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:19:11.243Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/Chip1_Apodized_GC_Cband_TM_pvariation.fig"
+                    },
+                    {
+                      "id": "t_mujmyt3",
+                      "name": "Chip1_Apodized_GC_Cband_TM_pvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_pvariation.png",
+                      "kind": "png",
+                      "size": 230025,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:19:11.273Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/Chip1_Apodized_GC_Cband_TM_pvariation.png"
+                    },
+                    {
+                      "id": "t_h3ad4vg",
+                      "name": "Chip1_Apodized_GC_Cband_TM_tvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_tvariation.fig",
+                      "kind": "fig",
+                      "size": 1304357,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:19:11.275Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/Chip1_Apodized_GC_Cband_TM_tvariation.fig"
+                    },
+                    {
+                      "id": "t_mqennab",
+                      "name": "Chip1_Apodized_GC_Cband_TM_tvariation",
+                      "filename": "Chip1_Apodized_GC_Cband_TM_tvariation.png",
+                      "kind": "png",
+                      "size": 192212,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-26",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "https://github.com/AEmreKaplan/",
+                      "added": "2026-05-26T19:19:11.312Z",
+                      "updated": "2026-05-26",
+                      "_externalized": true,
+                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0_k689qg/tests/Chip1_Apodized_GC_Cband_TM_tvariation.png"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "_contribOnly": true
             }
           ]
         }
@@ -1421,37 +1596,26 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-26T18:56:36.646Z",
+    "publishedAt": "2026-05-26T19:37:54.973Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 34,
+    "bbCount": 35,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 85,
+    "fileCount": 47,
     "sliceFor": "https://github.com/AEmreKaplan/",
     "termsVersion": "1.1.0",
-    "stripped": {
-      "gdsContent": 1,
-      "layoutSvg": 1,
-      "documents": 0,
-      "datasets": 0,
-      "parsed": 0,
-      "approxBytes": 172817,
-      "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
-    },
     "externalized": {
       "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 85,
+      "reused": 47,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "layoutVersion": "rev3-per-bb",
       "note": "Per-BB folder layout: users/https-github.com-AEmreKaplan-/<bb>/<section>/<file> with section names matching cornerstone-community (components, sparams, characterisation, fabrication, scripts, documents, variants). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
-    },
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    }
   }
 }
