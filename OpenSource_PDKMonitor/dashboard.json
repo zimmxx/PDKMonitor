@@ -4309,7 +4309,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_j50vobe",
@@ -4367,7 +4370,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_miu7hij",
@@ -4432,7 +4438,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z1e654s",
@@ -4498,7 +4507,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n48tl3w",
@@ -4563,7 +4575,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -4571,7 +4586,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
           "githubSubdir": "components",
-          "width": 702,
+          "width": 616,
           "importSections": {
             "layout": true,
             "smatrix": true,
@@ -4844,7 +4859,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k77neha",
@@ -4923,7 +4941,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ou06zu0",
@@ -4989,7 +5010,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_qwjkn1f",
@@ -5244,7 +5268,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "canonicalYamlId": "doc_smjvkwu"
+              "canonicalYamlId": "doc_smjvkwu",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wgt0y0l",
@@ -5310,7 +5337,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_r9qo1bf",
@@ -5446,7 +5476,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k1zbhlo",
@@ -5529,7 +5562,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bt8ywzn",
@@ -5605,7 +5641,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9vtwtsb",
@@ -5681,7 +5720,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3l8a9nn",
@@ -5758,7 +5800,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_varfrux",
@@ -5822,7 +5867,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kvi5fn6",
@@ -5898,7 +5946,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_f7bkrmv",
@@ -5974,7 +6025,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s4a6w8a",
@@ -6050,7 +6104,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hpx4n0z",
@@ -6126,7 +6183,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_oaquujg",
@@ -6203,7 +6263,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_alghpjm",
@@ -6267,7 +6330,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_latd2vh",
@@ -6343,7 +6409,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_67bu7ym",
@@ -6426,7 +6495,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_265cxhl",
@@ -6502,7 +6574,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ocgcazc",
@@ -6578,7 +6653,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_arei0gi",
@@ -6655,7 +6733,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ah3xv65",
@@ -6731,7 +6812,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ddmka7z",
@@ -6807,7 +6891,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lmonoah",
@@ -6883,7 +6970,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ql3oldh",
@@ -6960,7 +7050,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wgq9i85",
@@ -7024,7 +7117,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pe6fkcd",
@@ -7100,7 +7196,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ezu7ksj",
@@ -7176,7 +7275,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6puxohu",
@@ -7215,7 +7317,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy8phiw",
@@ -7254,7 +7359,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zsq6gkr",
@@ -7290,7 +7398,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_km981tv",
@@ -7329,7 +7440,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mgdnzr4",
@@ -7397,7 +7511,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
@@ -7410,7 +7527,7 @@
             "scripts": true,
             "docs": true
           },
-          "width": 650,
+          "width": 642,
           "platformDescription": "# SOI220_cband_TM_strip_apodized_GC_focusing_v1p0\n\nSOI220_cband_TM_strip_apodized_GC_focusing_v1p0 — waveguide on SOI 220 nm Passive.\n\n---\n\nPrepared via CORNERSTONE PDK Monitor v1.0.0 on 2026-05-26T19:59:43.504Z.\n\n**Author identity:** https://github.com/AEmreKaplan/\n**BB type:** waveguide\n**Category:** passive\n**Platform:** SOI 220 nm Passive\n**Status:** available\n**Marked as:** New BB (folder created on first commit)\n\n## Layout\n\n```\nSi_220nm_passive/\n  PDKMonitor_layout/         ← raw GDS / OASIS / SVG layout uploads\n  PDKMonitor_components/     ← auto-generated YAML descriptor\n  PDKMonitor_sparams/        ← S-matrix tab\n  PDKMonitor_tests/          ← Tests tab\n  PDKMonitor_fab/            ← Fabrication tab\n  PDKMonitor_scripts/        ← Scripts tab\n  PDKMonitor_eda/            ← EDA tab (links as eda_links.json)\n  PDKMonitor_documents/      ← non-YAML docs (PDFs, datasheets)\n  PDKMonitor_variants/       ← recursive variant sub-folders\n```\n\n## Notes\n\n- Folder layout matches [cornerstone-community](https://github.com/cornerstone-uos/cornerstone-community).\n- Re-running *Prepare for community PDK* is idempotent — only new / changed files are uploaded.\n- An admin can cherry-pick this folder straight into the main PDK repo.\n"
         },
         {
@@ -7476,7 +7593,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ves3jjy",
@@ -7547,7 +7667,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3ws2692",
@@ -7618,7 +7741,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pk8q8q2",
@@ -7687,7 +7813,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_75mbhmn",
@@ -7758,7 +7887,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vzmjg06",
@@ -7819,7 +7951,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uh3q75c",
@@ -7889,7 +8024,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vdwlenf",
@@ -7950,7 +8088,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_w4au6ab",
@@ -8018,7 +8159,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy1vex9",
@@ -8089,7 +8233,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_259cmnu",
@@ -8160,7 +8307,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ieha5mq",
@@ -8229,7 +8379,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vqfqfyw",
@@ -8300,7 +8453,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ucgqldx",
@@ -8364,7 +8520,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_das1bqe",
@@ -8425,7 +8584,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -8433,7 +8595,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
-          "width": 696
+          "width": 359
         },
         {
           "id": "g_82nmouv",
@@ -8520,7 +8682,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qmu4fa",
@@ -8591,7 +8756,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ai8w29l",
@@ -8662,7 +8830,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9w4gmu0",
@@ -8731,7 +8902,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7ys02f0",
@@ -8802,7 +8976,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kefyqh0",
@@ -8863,7 +9040,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -8871,7 +9051,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
-          "width": 651
+          "width": 417
         },
         {
           "id": "g_08lhfzj",
@@ -8965,7 +9145,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bnk2hbx",
@@ -9029,7 +9212,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_jiz827o",
@@ -9092,7 +9278,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_fous0ae",
@@ -9154,12 +9343,15 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
           "githubSubdir": "components",
-          "width": 682
+          "width": 466
         },
         {
           "id": "g_rojsbpi",
@@ -9238,7 +9430,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7tyhtm9",
@@ -9310,7 +9505,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_g2w8icv",
@@ -9381,7 +9579,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_385henq",
@@ -9442,7 +9643,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hl6dbqn",
@@ -9513,7 +9717,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mlygcam",
@@ -9585,7 +9792,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zbn2z3n",
@@ -9656,7 +9866,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n3mn5jf",
@@ -9717,7 +9930,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kxwu1rp",
@@ -9788,7 +10004,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1tlt4j3",
@@ -9860,7 +10079,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_611ubrv",
@@ -9931,7 +10153,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_8ne3say",
@@ -9990,7 +10215,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n0xukmv",
@@ -10051,13 +10279,16 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
           "kind": "",
           "collapsed": false,
-          "width": 687,
+          "width": 433,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components"
         },
@@ -10172,7 +10403,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zvb7fbp",
@@ -10251,7 +10485,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_dnb94u1",
@@ -10328,7 +10565,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uhonmf1",
@@ -10405,7 +10645,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tahc9bw",
@@ -10484,7 +10727,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_reyeixv",
@@ -10548,7 +10794,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_t7gdkb8",
@@ -10627,7 +10876,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_4abzgca",
@@ -10706,7 +10958,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nkvzbqz",
@@ -10783,7 +11038,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6upztlt",
@@ -10849,7 +11107,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tshleh9",
@@ -10926,7 +11187,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9lwujy2",
@@ -10992,7 +11256,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lrs1qso",
@@ -11071,7 +11338,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wryfu80",
@@ -11150,7 +11420,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_a42dmrr",
@@ -11214,7 +11487,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -11222,7 +11498,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
           "githubSubdir": "components",
-          "width": 685
+          "width": 432
         },
         {
           "id": "g_5004tbc",
@@ -11315,7 +11591,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7etircv",
@@ -11376,12 +11655,15 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
           "githubSubdir": "components",
-          "width": 688
+          "width": 459
         },
         {
           "id": "g_vr16oen",
@@ -11394,7 +11676,7 @@
           "status": "",
           "kind": "",
           "collapsed": false,
-          "width": 644
+          "width": 438
         }
       ],
       "kind": "platforms"
@@ -11421,7 +11703,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpo48vt2_0",
+        "id": "s_mpo5s9r6_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -11429,7 +11711,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpo48vt2_1",
+        "id": "s_mpo5s9r6_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -11437,7 +11719,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpo48vt2_2",
+        "id": "s_mpo5s9r6_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -11452,7 +11734,7 @@
     "lastPublishedAt": "2026-05-27T13:52:45.690Z",
     "lastPublishedSha": "2e33f0bacbbe69f7f8ebf7c5cd6d7e8796404bb4",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2e33f0bacbbe69f7f8ebf7c5cd6d7e8796404bb4",
-    "lastFetchedAt": "2026-05-27T13:58:47.163Z",
+    "lastFetchedAt": "2026-05-27T14:28:48.512Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
       "tabs": 0,
@@ -11481,7 +11763,7 @@
   "lastGithubFetch": "2026-05-27T00:38:40.552Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-27T14:01:01.312Z",
+    "publishedAt": "2026-05-27T14:40:56.338Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -11489,9 +11771,7 @@
     "contributorCount": 9,
     "bbCount": 94,
     "guestCount": 6,
-    "termsVersion": "1.1.0",
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    "termsVersion": "1.1.0"
   },
   "_distributedSecurity": {
     "guestPasswords": [
