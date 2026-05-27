@@ -165,8 +165,8 @@
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_3u8hhdf",
-          "name": "SOI 220 nm Active",
+          "id": "g_pxvrznx",
+          "name": "SOI 220 nm Passive",
           "platformMeta": {
             "material": "Si",
             "thickness": 220
@@ -174,22 +174,23 @@
           "collapsed": false,
           "entities": [
             {
-              "id": "e_ltl8sye",
-              "name": "SOI220nm_1310nm_TE_MZI_Modulator",
+              "id": "e_k77neha",
+              "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
               "files": [],
               "scripts": [],
               "documents": [],
-              "testGroups": [
+              "testGroups": [],
+              "smatrixGroups": [
                 {
-                  "id": "tg_rz20npi",
-                  "name": "testAiman",
-                  "tests": [
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
                     {
-                      "id": "t_aadz4i3",
-                      "name": "Chip1_Apodized_GC_Cband_TM_pvariation (2)",
-                      "filename": "Chip1_Apodized_GC_Cband_TM_pvariation (2).png",
-                      "kind": "png",
-                      "size": 230025,
+                      "id": "t_ty9alcy",
+                      "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163725,
                       "metadata": {
                         "device_id": "",
                         "date": "2026-05-27",
@@ -198,16 +199,840 @@
                         "notes": ""
                       },
                       "who": "CS_Aiman",
-                      "added": "2026-05-27T18:25:01.915Z",
+                      "added": "2026-05-27T22:58:47.042Z",
                       "updated": "2026-05-27",
                       "_externalized": true,
-                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_MZI_Modulator__tl8sye/tests/Chip1_Apodized_GC_Cband_TM_pvariation_2_.png",
-                      "repoSha": "ddeae1b90231dff3a732ff369275db86d865f275"
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler__77neha/smatrix/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.csv",
+                      "repoSha": "f2e532026a132d0a4d0b6436e78c33b2f4062317"
                     }
                   ]
                 }
               ],
-              "smatrixGroups": [],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_k1zbhlo",
+              "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_aexzugy",
+                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
+                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 358334,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:23.115Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_RIB_2x1_MMI__1zbhlo/smatrix/SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
+                      "repoSha": "c876ce9f32340ab0cba51d61a43d44a67d0fc9f8"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_bt8ywzn",
+              "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_eov6xig",
+                      "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
+                      "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 633112,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:24.748Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_RIB_2x2_MMI__t8ywzn/smatrix/SOI220nm_1310nm_TE_RIB_2x2_MMI.csv",
+                      "repoSha": "39f5f845199bbe681e727e97b28224ce59438679"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_9vtwtsb",
+              "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_38dmsfv",
+                      "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
+                      "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 164622,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:26.051Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_RIB_90_Degree_Bend__vtwtsb/smatrix/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.csv",
+                      "repoSha": "d03414d66373a391c3f197447f2e7eb05f725190"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_3l8a9nn",
+              "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_wr5a7ad",
+                      "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163660,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:27.500Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_RIB_Grating_Coupler__l8a9nn/smatrix/SOI220nm_1310nm_TE_RIB_Grating_Coupler.csv",
+                      "repoSha": "b5461ff1676b86ebb13afc1660cb28a57b291e58"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_kvi5fn6",
+              "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_zv4twf6",
+                      "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
+                      "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 635372,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:29.673Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing__vi5fn6/smatrix/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.csv",
+                      "repoSha": "6e7d6500abfc8a2cca3a372c952450931f2de23a"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_f7bkrmv",
+              "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_zenfioe",
+                      "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 357973,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:30.907Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_STRIP_2x1_MMI__7bkrmv/smatrix/SOI220nm_1310nm_TE_STRIP_2x1_MMI.csv",
+                      "repoSha": "a1a95103060152a20c7fe03f8ce67eab6e6ebda1"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_s4a6w8a",
+              "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_p5dwdqb",
+                      "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 631444,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:32.510Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_STRIP_2x2_MMI__4a6w8a/smatrix/SOI220nm_1310nm_TE_STRIP_2x2_MMI.csv",
+                      "repoSha": "1e91f5aeea61db6cfd48b10e8922306830dda76c"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_hpx4n0z",
+              "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_3khr61x",
+                      "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 166460,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:33.953Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend__px4n0z/smatrix/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.csv",
+                      "repoSha": "1926a732b21312dc183607bd677ee40001118d25"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_oaquujg",
+              "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_b53s505",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163654,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:35.452Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_STRIP_Grating_Coupler__aquujg/smatrix/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.csv",
+                      "repoSha": "96f2a1d599f7fffbefc2082d3cc01e1a0d4babf6"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_latd2vh",
+              "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_wlzlrfx",
+                      "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 630936,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:37.166Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing__atd2vh/smatrix/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "repoSha": "21fb10f0b439da227e912b3c5177897656a8a573"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_67bu7ym",
+              "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_m8jwolv",
+                      "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 358185,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:38.562Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_RIB_2x1_MMI__7bu7ym/smatrix/SOI220nm_1550nm_TE_RIB_2x1_MMI.csv",
+                      "repoSha": "6eab46cbc122e5c9f5a4f791d366ba0760195a0f"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_265cxhl",
+              "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_dqksiuq",
+                      "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
+                      "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 632521,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:40.103Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_RIB_2x2_MMI__65cxhl/smatrix/SOI220nm_1550nm_TE_RIB_2x2_MMI.csv",
+                      "repoSha": "dbe9a550943a5831ee4f6e42428870ec4ba58cb0"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ocgcazc",
+              "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_aqka9ck",
+                      "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
+                      "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 164771,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:41.562Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_RIB_90_Degree_Bend__cgcazc/smatrix/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.csv",
+                      "repoSha": "afcc013a742d0e572231714e7026ac276285a6e6"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_arei0gi",
+              "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_hdztot7",
+                      "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163429,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:42.927Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_RIB_Grating_Coupler__rei0gi/smatrix/SOI220nm_1550nm_TE_RIB_Grating_Coupler.csv",
+                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ah3xv65",
+              "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_zred2ml",
+                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 633381,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:44.477Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing__h3xv65/smatrix/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.csv",
+                      "repoSha": "98887909640f7758e94b0a87bc6d45b45e58d58c"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ddmka7z",
+              "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_nra7jmu",
+                      "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
+                      "kind": "csv",
+                      "size": 357474,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:45.783Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_STRIP_2x1_MMI__dmka7z/smatrix/SOI220nm_1550nm_TE_STRIP_2x1_MMI.csv",
+                      "repoSha": "345ee14a66f490c42fa8155bf313ff3d9a54ce49"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_lmonoah",
+              "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_bsxzu96",
+                      "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
+                      "kind": "csv",
+                      "size": 165483,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:47.240Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend__monoah/smatrix/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.csv",
+                      "repoSha": "d37185b0cf2f07c82a85d1c67a5805df4001790c"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ql3oldh",
+              "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_g4xc0eq",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
+                      "kind": "csv",
+                      "size": 163429,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:48.700Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_STRIP_Grating_Coupler__l3oldh/smatrix/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
+                      "repoSha": "1b9423a452bc5f50122fde63a00475fb355f9d6b"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_pe6fkcd",
+              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_v90ljc2",
+                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "kind": "csv",
+                      "size": 632133,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:50.452Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing__e6fkcd/smatrix/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
+                      "repoSha": "cf4f171ba97fb5097fa5b75137d4075555f2074b"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_ezu7ksj",
+              "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_b3k568k",
+                      "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
+                      "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
+                      "kind": "csv",
+                      "size": 630545,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:51.735Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220nm_1550nm_TE_STRIP_2x2_MMI__zu7ksj/smatrix/SOI220nm_1550nm_TE_STRIP_2x2_MMI.csv",
+                      "repoSha": "14a0d611b9363499346ddb4dda032ce615221048"
+                    }
+                  ]
+                }
+              ],
+              "fabTabs": [],
+              "_contribOnly": true
+            },
+            {
+              "id": "e_01p193h",
+              "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [
+                {
+                  "id": "tg_files",
+                  "name": "Files",
+                  "tests": [
+                    {
+                      "id": "t_eppvqby",
+                      "name": "_init_",
+                      "filename": "_init_",
+                      "kind": "_init_",
+                      "size": 1,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:57.255Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/tests/init",
+                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+                    }
+                  ]
+                }
+              ],
+              "smatrixGroups": [
+                {
+                  "id": "sg_files",
+                  "name": "Files",
+                  "datasets": [
+                    {
+                      "id": "t_8t7hbev",
+                      "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
+                      "filename": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.txt",
+                      "kind": "txt",
+                      "size": 150,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-05-27",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "CS_Aiman",
+                      "added": "2026-05-27T22:59:52.862Z",
+                      "updated": "2026-05-27",
+                      "_externalized": true,
+                      "repoPath": "users/CS_Aiman/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/smatrix/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.txt",
+                      "repoSha": "e63b2d29a1ee43a35e16882396a7225bcb0e89f8"
+                    }
+                  ]
+                }
+              ],
               "fabTabs": [],
               "_contribOnly": true
             }
@@ -217,8 +1042,50 @@
     }
   ],
   "ownership": {
-    "e_ltl8sye": "admin",
-    "layout:e_ltl8sye": "admin"
+    "e_k77neha": "admin",
+    "layout:e_k77neha": "CS_Aiman",
+    "e_k1zbhlo": "admin",
+    "layout:e_k1zbhlo": "CS_Aiman",
+    "e_bt8ywzn": "admin",
+    "layout:e_bt8ywzn": "CS_Aiman",
+    "e_9vtwtsb": "admin",
+    "layout:e_9vtwtsb": "CS_Aiman",
+    "e_3l8a9nn": "admin",
+    "layout:e_3l8a9nn": "CS_Aiman",
+    "e_kvi5fn6": "admin",
+    "layout:e_kvi5fn6": "CS_Aiman",
+    "e_f7bkrmv": "admin",
+    "layout:e_f7bkrmv": "CS_Aiman",
+    "e_s4a6w8a": "admin",
+    "layout:e_s4a6w8a": "CS_Aiman",
+    "e_hpx4n0z": "admin",
+    "layout:e_hpx4n0z": "CS_Aiman",
+    "e_oaquujg": "admin",
+    "layout:e_oaquujg": "CS_Aiman",
+    "e_latd2vh": "admin",
+    "layout:e_latd2vh": "CS_Aiman",
+    "e_67bu7ym": "admin",
+    "layout:e_67bu7ym": "CS_Aiman",
+    "e_265cxhl": "admin",
+    "layout:e_265cxhl": "CS_Aiman",
+    "e_ocgcazc": "admin",
+    "layout:e_ocgcazc": "CS_Aiman",
+    "e_arei0gi": "admin",
+    "layout:e_arei0gi": "CS_Aiman",
+    "e_ah3xv65": "admin",
+    "layout:e_ah3xv65": "CS_Aiman",
+    "e_ddmka7z": "admin",
+    "layout:e_ddmka7z": "CS_Aiman",
+    "e_lmonoah": "admin",
+    "layout:e_lmonoah": "CS_Aiman",
+    "e_ql3oldh": "admin",
+    "layout:e_ql3oldh": "CS_Aiman",
+    "e_pe6fkcd": "admin",
+    "layout:e_pe6fkcd": "CS_Aiman",
+    "e_ezu7ksj": "admin",
+    "layout:e_ezu7ksj": "CS_Aiman",
+    "e_01p193h": "admin",
+    "layout:e_01p193h": "CS_Aiman"
   },
   "labels": {
     "CS_Aiman": "CS_Aiman"
@@ -232,20 +1099,20 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-27T18:25:13.176Z",
+    "publishedAt": "2026-05-27T23:01:18.803Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 1,
+    "bbCount": 22,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 1,
+    "fileCount": 23,
     "sliceFor": "CS_Aiman",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 1,
+      "uploaded": 23,
       "skipped": 0,
       "failed": 0,
       "reused": 0,
