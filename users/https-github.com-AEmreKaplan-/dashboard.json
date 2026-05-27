@@ -2666,7 +2666,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-27T23:09:51.469Z",
+    "publishedAt": "2026-05-27T23:08:08.834Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -2679,10 +2679,10 @@
     "sliceFor": "https://github.com/AEmreKaplan/",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 17,
+      "uploaded": 75,
       "skipped": 0,
-      "failed": 0,
-      "reused": 77,
+      "failed": 1,
+      "reused": 18,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/https-github.com-AEmreKaplan-/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
