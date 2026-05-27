@@ -764,126 +764,6 @@
                       "repoSha": "f9f8bfbf487d3f13efe0ce4b1b15217d2321df64"
                     },
                     {
-                      "id": "t_16q2j6n",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-27",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-27T23:05:42.440Z",
-                      "updated": "2026-05-27",
-                      "_externalized": true,
-                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_RIB_Waveguide__wjkn1f/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG1.txt",
-                      "repoSha": "58cb262f5013e7903bbb72e322158e61ada23a29"
-                    },
-                    {
-                      "id": "t_bd3blp8",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-27",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-27T23:05:42.933Z",
-                      "updated": "2026-05-27",
-                      "_externalized": true,
-                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_RIB_Waveguide__wjkn1f/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG2.txt",
-                      "repoSha": "fd659d95df93185840f4d241858cc04dec313959"
-                    },
-                    {
-                      "id": "t_c63qpbb",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-27",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-27T23:05:43.332Z",
-                      "updated": "2026-05-27",
-                      "_externalized": true,
-                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_RIB_Waveguide__wjkn1f/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG3.txt",
-                      "repoSha": "bacc34d481caafb1c26f8e825204d216ef8bae08"
-                    },
-                    {
-                      "id": "t_1dt7ew6",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-27",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-27T23:05:43.994Z",
-                      "updated": "2026-05-27",
-                      "_externalized": true,
-                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_RIB_Waveguide__wjkn1f/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG4.txt",
-                      "repoSha": "58be7346c8194484c96646be14926e1d032c840d"
-                    },
-                    {
-                      "id": "t_ja8i8b8",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-27",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-27T23:05:44.420Z",
-                      "updated": "2026-05-27",
-                      "_externalized": true,
-                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_RIB_Waveguide__wjkn1f/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG5.txt",
-                      "repoSha": "b0e33bc5a286f042904ac309971c4ed82d456b56"
-                    },
-                    {
-                      "id": "t_8tlgvzh",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-27",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-27T23:05:45.072Z",
-                      "updated": "2026-05-27",
-                      "_externalized": true,
-                      "repoPath": "users/https-github.com-AEmreKaplan-/SOI220nm_1550nm_TE_RIB_Waveguide__wjkn1f/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip37_WG6.txt",
-                      "repoSha": "3f6ded2fc1e2f446559943917481a864bdf19983"
-                    },
-                    {
                       "id": "t_2lirxhh",
                       "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1",
                       "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
@@ -2666,7 +2546,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-27T23:08:08.834Z",
+    "publishedAt": "2026-05-27T23:14:08.648Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -2675,14 +2555,14 @@
     "bbCount": 39,
     "groupCount": 2,
     "tabCount": 1,
-    "fileCount": 94,
+    "fileCount": 88,
     "sliceFor": "https://github.com/AEmreKaplan/",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 75,
+      "uploaded": 0,
       "skipped": 0,
-      "failed": 1,
-      "reused": 18,
+      "failed": 0,
+      "reused": 88,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/https-github.com-AEmreKaplan-/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
