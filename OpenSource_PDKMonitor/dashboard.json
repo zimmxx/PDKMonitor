@@ -15499,7 +15499,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpqreuwl_0",
+        "id": "s_mpq74c5s_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -15507,7 +15507,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpqreuwl_1",
+        "id": "s_mpq74c5s_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -15515,7 +15515,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpqreuwl_2",
+        "id": "s_mpq74c5s_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -15527,11 +15527,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-29T02:12:22.506Z",
-    "lastPublishedSha": "e990b757a2643e898fa1ca6046eeec15561b3811",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/e990b757a2643e898fa1ca6046eeec15561b3811",
-    "lastFetchedAt": "2026-05-29T10:09:59.199Z",
-    "lastFetchedSha": "5a9ac2e9a3f97e8f92b2ff9eed753486295f6760",
+    "lastPublishedAt": "2026-05-29T03:29:10.671Z",
+    "lastPublishedSha": "5858d8efc9517db7b4d9db3c84801df958276871",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/5858d8efc9517db7b4d9db3c84801df958276871",
+    "lastFetchedAt": "2026-05-29T10:24:57.430Z",
+    "lastFetchedSha": "78a4d007e11c4e5406cdec4ca0dad73921fb471d",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -15560,7 +15560,7 @@
   "lastGithubFetch": "2026-05-29T02:11:32.778Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-29T10:13:22.687Z",
+    "publishedAt": "2026-05-29T10:25:28.710Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
