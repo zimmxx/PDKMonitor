@@ -14729,9 +14729,9 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-29T00:26:00.022Z",
-    "lastPublishedSha": "c296dd48b8209f6772be1ba9bae7bae733fbb16e",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/c296dd48b8209f6772be1ba9bae7bae733fbb16e",
+    "lastPublishedAt": "2026-05-29T01:04:08.391Z",
+    "lastPublishedSha": "5d24ff957de123074c0c9c8ba05f33eba4ab9baf",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/5d24ff957de123074c0c9c8ba05f33eba4ab9baf",
     "lastFetchedAt": "2026-05-29T00:48:42.005Z",
     "lastFetchedSha": "5a9ac2e9a3f97e8f92b2ff9eed753486295f6760",
     "lastMergeStats": {
@@ -14762,14 +14762,14 @@
   "lastGithubFetch": "2026-05-29T00:51:23.682Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-29T01:04:08.391Z",
+    "publishedAt": "2026-05-29T01:05:12.393Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 6,
     "bbCount": 94,
-    "guestCount": 8,
+    "guestCount": 5,
     "termsVersion": "1.1.0",
     "nuclearStripped": true,
     "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
@@ -14830,30 +14830,6 @@
         "expiresOn": "",
         "createdAt": "2026-05-24",
         "lastUsed": "2026-05-29"
-      },
-      {
-        "label": "https-github.com-AEmreKaplan-",
-        "identity": "https-github.com-AEmreKaplan-",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-28T11:33:52.601Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
-      },
-      {
-        "label": "newuser",
-        "identity": "newuser",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-28T11:33:52.601Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
-      },
-      {
-        "label": "AEmrekaplan",
-        "identity": "AEmrekaplan",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-28T11:34:15.429Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
