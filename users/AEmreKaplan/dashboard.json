@@ -448,22 +448,20 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_z7hwjc4",
+      "id": "tab_2vrs86j",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_9k3sklq",
+          "id": "g_g1l67qw",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
             "thickness": 220
           },
-          "entities": [],
-          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
-          "githubSubdir": "components"
+          "entities": []
         },
         {
-          "id": "g_bssxr2x",
+          "id": "g_dt2edni",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
@@ -472,7 +470,7 @@
           "entities": []
         },
         {
-          "id": "g_jpq3pzp",
+          "id": "g_8sbvdgh",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -481,7 +479,7 @@
           "entities": []
         },
         {
-          "id": "g_dbq0ywm",
+          "id": "g_dfid211",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
@@ -490,7 +488,7 @@
           "entities": []
         },
         {
-          "id": "g_ujddkrg",
+          "id": "g_hm4llm9",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
@@ -499,7 +497,7 @@
           "entities": []
         },
         {
-          "id": "g_lpqapal",
+          "id": "g_j13uk6w",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
@@ -508,24 +506,13 @@
           "entities": []
         }
       ]
-    },
-    {
-      "id": "tab_1ronvgw",
-      "name": "Design Manual",
-      "groups": [],
-      "kind": "docs"
-    },
-    {
-      "id": "tab_ok3b8zj",
-      "name": "Post-Processing",
-      "groups": []
     }
   ],
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-30T18:04:03.559Z",
+    "publishedAt": "2026-05-30T18:38:26.927Z",
     "publisherIdentity": "AEmreKaplan",
-    "publisherLabel": "CS_Emre",
+    "publisherLabel": "Dashboard User-admin",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
