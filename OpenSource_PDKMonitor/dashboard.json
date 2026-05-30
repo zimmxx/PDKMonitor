@@ -6899,7 +6899,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_j50vobe",
@@ -6981,7 +6984,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_miu7hij",
@@ -7070,7 +7076,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z1e654s",
@@ -7160,7 +7169,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n48tl3w",
@@ -7249,7 +7261,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -7389,7 +7404,10 @@
                 "filesFound": 1,
                 "urlsEmpty": 0,
                 "deadUrls": []
-              }
+              },
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k77neha",
@@ -7468,7 +7486,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ou06zu0",
@@ -7546,7 +7567,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wgt0y0l",
@@ -7612,7 +7636,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6puxohu",
@@ -7651,7 +7678,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy8phiw",
@@ -7690,7 +7720,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zsq6gkr",
@@ -7726,7 +7759,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_01p193h",
@@ -7812,7 +7848,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_km981tv",
@@ -7851,7 +7890,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9mgl5v6",
@@ -8058,7 +8100,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n8yr4e7",
@@ -8195,7 +8240,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_2hkxsqf",
@@ -8284,7 +8332,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_77p3ne3",
@@ -8366,7 +8417,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_q049v6v",
@@ -8448,7 +8502,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3w2l9mp",
@@ -8531,7 +8588,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_sz9gi8d",
@@ -8596,7 +8656,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_d2rx46a",
@@ -8678,7 +8741,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_91ay0p0",
@@ -8760,7 +8826,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s8awz92",
@@ -8842,7 +8911,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_o7ro68h",
@@ -8924,7 +8996,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_eqh749n",
@@ -9007,7 +9082,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1k45ys5",
@@ -9072,7 +9150,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7hpzk0u",
@@ -9154,7 +9235,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nb8hml8",
@@ -9243,7 +9327,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bom7wh0",
@@ -9325,7 +9412,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_71oqpux",
@@ -9407,7 +9497,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_91okvtl",
@@ -9490,7 +9583,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tge6lza",
@@ -9587,7 +9683,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_x3t3huk",
@@ -9669,7 +9768,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s6os5bb",
@@ -9751,7 +9853,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9qk9gjj",
@@ -9833,7 +9938,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_qoafxmn",
@@ -9916,7 +10024,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ixuuasd",
@@ -9981,7 +10092,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_5zi94z4",
@@ -10063,7 +10177,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
@@ -10143,7 +10260,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ves3jjy",
@@ -10208,7 +10328,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3ws2692",
@@ -10273,7 +10396,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pk8q8q2",
@@ -10336,7 +10462,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_75mbhmn",
@@ -10401,7 +10530,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vzmjg06",
@@ -10456,7 +10588,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uh3q75c",
@@ -10520,7 +10655,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vdwlenf",
@@ -10575,7 +10713,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_w4au6ab",
@@ -10637,7 +10778,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy1vex9",
@@ -10702,7 +10846,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_259cmnu",
@@ -10767,7 +10914,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ieha5mq",
@@ -10830,7 +10980,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vqfqfyw",
@@ -10895,7 +11048,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ucgqldx",
@@ -10953,7 +11109,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_das1bqe",
@@ -11008,7 +11167,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -11097,7 +11259,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qmu4fa",
@@ -11162,7 +11327,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ai8w29l",
@@ -11227,7 +11395,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9w4gmu0",
@@ -11290,7 +11461,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7ys02f0",
@@ -11355,7 +11529,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kefyqh0",
@@ -11410,7 +11587,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -11515,7 +11695,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bnk2hbx",
@@ -11576,7 +11759,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_jiz827o",
@@ -11636,7 +11822,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_fous0ae",
@@ -11695,7 +11884,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
@@ -11826,7 +12018,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7tyhtm9",
@@ -11907,7 +12102,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_g2w8icv",
@@ -11987,7 +12185,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_385henq",
@@ -12057,7 +12258,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hl6dbqn",
@@ -12137,7 +12341,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mlygcam",
@@ -12218,7 +12425,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zbn2z3n",
@@ -12298,7 +12508,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n3mn5jf",
@@ -12368,7 +12581,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kxwu1rp",
@@ -12454,7 +12670,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1tlt4j3",
@@ -12535,7 +12754,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_611ubrv",
@@ -12615,7 +12837,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_8ne3say",
@@ -12683,7 +12908,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n0xukmv",
@@ -12753,7 +12981,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ctlg9bs",
@@ -12888,7 +13119,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -13004,7 +13238,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zvb7fbp",
@@ -13078,7 +13315,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_dnb94u1",
@@ -13150,7 +13390,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uhonmf1",
@@ -13222,7 +13465,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tahc9bw",
@@ -13296,7 +13542,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_reyeixv",
@@ -13354,7 +13603,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_t7gdkb8",
@@ -13428,7 +13680,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_4abzgca",
@@ -13502,7 +13757,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nkvzbqz",
@@ -13574,7 +13832,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6upztlt",
@@ -13634,7 +13895,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tshleh9",
@@ -13706,7 +13970,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9lwujy2",
@@ -13766,7 +14033,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lrs1qso",
@@ -13840,7 +14110,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wryfu80",
@@ -13914,7 +14187,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_a42dmrr",
@@ -13972,7 +14248,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -14067,7 +14346,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7etircv",
@@ -14122,7 +14404,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
@@ -14141,6 +14426,18 @@
           "kind": "",
           "collapsed": false,
           "width": 438
+        },
+        {
+          "id": "g_g1l67qw",
+          "name": "SOI 220 nm",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         }
       ],
       "kind": "platforms"
@@ -14527,7 +14824,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpsn5mo7_0",
+        "id": "s_mpspbjav_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14535,7 +14832,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpsn5mo7_1",
+        "id": "s_mpspbjav_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14543,7 +14840,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpsn5mo7_2",
+        "id": "s_mpspbjav_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -14555,8 +14852,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-30T18:34:34.492Z",
-    "lastFetchedSha": "d1a30fc7a07aee2c54b6164cb35674190565c27d",
+    "lastFetchedAt": "2026-05-30T18:48:23.303Z",
+    "lastFetchedSha": "481373389846121b64a96fbcbdf6dee840719d51",
     "lastPublishedAt": "2026-05-30T18:04:03.559Z",
     "lastPublishedSha": "630e0416e93c2d0ed07bf8f5bf65c93f30f79ee6",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/630e0416e93c2d0ed07bf8f5bf65c93f30f79ee6",
@@ -14635,14 +14932,6 @@
         "expiresOn": "",
         "createdAt": "2026-05-29",
         "lastUsed": "2026-05-30"
-      },
-      {
-        "label": "https-github.com-AEmreKaplan-",
-        "identity": "https-github.com-AEmreKaplan-",
-        "password": "",
-        "role": "user-admin",
-        "created": "2026-05-30T03:07:59.491Z",
-        "note": "Auto-discovered from repo · password not set yet — set one in Manage to enable sign-in."
       }
     ],
     "accessRequestEmail": "pdk.cornerstone@soton.ac.uk",
@@ -14663,14 +14952,14 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-30T18:36:03.255Z",
-    "publisherIdentity": "AEmreKaplan",
+    "publishedAt": "2026-05-30T18:52:13.001Z",
+    "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 7,
     "bbCount": 95,
-    "guestCount": 6,
+    "guestCount": 5,
     "termsVersion": "1.1.0"
   },
   "lastGlobalSyncStats": {
