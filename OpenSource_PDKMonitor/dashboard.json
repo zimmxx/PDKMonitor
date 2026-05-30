@@ -14104,7 +14104,7 @@
     },
     {
       "id": "tab_mjm503u",
-      "name": "materials",
+      "name": "Materials",
       "groups": [],
       "kind": "docs"
     }
@@ -14466,7 +14466,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mprqqttb_0",
+        "id": "s_mpslilss_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14474,15 +14474,15 @@
         "enabled": true
       },
       {
-        "id": "s_mprqqttb_1",
+        "id": "s_mpslilss_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       },
       {
-        "id": "s_mprqqttb_2",
+        "id": "s_mpslilss_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -14494,26 +14494,26 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-30T16:31:38.509Z",
-    "lastFetchedSha": "481373389846121b64a96fbcbdf6dee840719d51",
+    "lastFetchedAt": "2026-05-30T17:01:08.444Z",
+    "lastFetchedSha": "ebe26fe1d988888287ea8aaf6887c71c36b0c677",
     "lastPublishedAt": "2026-05-30T03:12:47.417Z",
     "lastPublishedSha": "9207cbc64e9c6cb450c8fdc4a5c8bfa8a2b86c5a",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/9207cbc64e9c6cb450c8fdc4a5c8bfa8a2b86c5a",
     "lastMergeStats": {
-      "tabs": 0,
-      "groups": 0,
-      "entities": 0,
-      "contributors": 0,
-      "ownership": 0,
-      "labels": 0,
+      "tabs": 2,
+      "groups": 4,
+      "entities": 95,
+      "contributors": 5,
+      "ownership": 6351,
+      "labels": 5,
       "statuses": 0,
       "categories": 0,
-      "bbTypes": 0,
-      "infoSkipped": 2
+      "bbTypes": 2,
+      "infoSkipped": 0
     },
     "lastSecurityStats": {
       "guestsAdded": 0,
-      "guestsKept": 0,
+      "guestsKept": 6,
       "contactEmailUpdated": false,
       "labelsAdded": 0
     }
@@ -14602,17 +14602,15 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-30T16:39:52.808Z",
-    "publisherIdentity": "dashboard_admin",
+    "publishedAt": "2026-05-30T17:07:28.513Z",
+    "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 6,
     "bbCount": 95,
     "guestCount": 6,
-    "termsVersion": "1.1.0",
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    "termsVersion": "1.1.0"
   },
   "lastGlobalSyncStats": {
     "ranAt": 1780158799665,
