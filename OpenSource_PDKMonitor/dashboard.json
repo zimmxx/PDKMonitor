@@ -8226,7 +8226,12 @@
     "t_1syvazq": "admin",
     "t_l5dtvnz": "admin",
     "t_yqtlnbq": "admin",
-    "t_srjilxr": "admin"
+    "t_srjilxr": "admin",
+    "d_90o2sp0": "admin",
+    "d_komy82n": "admin",
+    "g_d4iydjz": "admin",
+    "e_vzoewab": "admin",
+    "d_8l2wgno": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -15636,7 +15641,7 @@
           "entities": [
             {
               "id": "e_u3c5l2g",
-              "name": "SOI220_MPW46_guidelines",
+              "name": "MPW Design guidelines",
               "status": "available",
               "owner": "",
               "description": "",
@@ -15645,43 +15650,32 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [],
-              "updated": "2026-05-31",
-              "kind": "document",
-              "bbType": "",
-              "dimensionsOn": false,
-              "params": {},
-              "layoutSvg": "",
-              "gdsName": "",
-              "gdsSize": 0,
-              "gdsContent": "",
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "_docVersion": "",
-              "plannedReleaseDate": "",
-              "trl": null,
-              "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "fetchHistory": [],
-              "edaLinks": []
-            },
-            {
-              "id": "e_u4ppvdx",
-              "name": "SOI220_MPW48_guidelines",
-              "status": "available",
-              "owner": "",
-              "description": "",
-              "githubUrl": "",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [],
+              "documents": [
+                {
+                  "id": "d_90o2sp0",
+                  "name": "SOI220_MPW46_guidelies.pdf",
+                  "filename": "SOI220_MPW46_guidelies.pdf",
+                  "mime": "application/pdf",
+                  "size": 744045,
+                  "bbType": "",
+                  "who": "admin",
+                  "added": "2026-05-31",
+                  "description": "",
+                  "_stripped": true
+                },
+                {
+                  "id": "d_komy82n",
+                  "name": "SOI220_MPW48_guidelines.pdf",
+                  "filename": "SOI220_MPW48_guidelines.pdf",
+                  "mime": "application/pdf",
+                  "size": 2590194,
+                  "bbType": "",
+                  "who": "admin",
+                  "added": "2026-05-31",
+                  "description": "",
+                  "_stripped": true
+                }
+              ],
               "updated": "2026-05-31",
               "kind": "document",
               "bbType": "",
@@ -15718,7 +15712,7 @@
             "docs": true
           },
           "platformDescription": "# SOI220_cband_TM_strip_apodized_GC_focusing_v1p0\n\nSOI220_cband_TM_strip_apodized_GC_focusing_v1p0 — waveguide on SOI 220 nm Passive.\n\n---\n\nPrepared via CORNERSTONE PDK Monitor v1.0.0 on 2026-05-26T19:59:43.504Z.\n\n**Author identity:** https://github.com/AEmreKaplan/\n**BB type:** waveguide\n**Category:** passive\n**Platform:** SOI 220 nm Passive\n**Status:** available\n**Marked as:** New BB (folder created on first commit)\n\n## Layout\n\n```\nSi_220nm_passive/\n  PDKMonitor_layout/         ← raw GDS / OASIS / SVG layout uploads\n  PDKMonitor_components/     ← auto-generated YAML descriptor\n  PDKMonitor_sparams/        ← S-matrix tab\n  PDKMonitor_tests/          ← Tests tab\n  PDKMonitor_fab/            ← Fabrication tab\n  PDKMonitor_scripts/        ← Scripts tab\n  PDKMonitor_eda/            ← EDA tab (links as eda_links.json)\n  PDKMonitor_documents/      ← non-YAML docs (PDFs, datasheets)\n  PDKMonitor_variants/       ← recursive variant sub-folders\n```\n\n## Notes\n\n- Folder layout matches [cornerstone-community](https://github.com/cornerstone-uos/cornerstone-community).\n- Re-running *Prepare for community PDK* is idempotent — only new / changed files are uploaded.\n- An admin can cherry-pick this folder straight into the main PDK repo.\n",
-          "width": 703,
+          "width": 438,
           "lastSyncStats": {
             "ranAt": 1780263107250,
             "urlsTotal": 49,
@@ -15733,6 +15727,70 @@
               }
             ]
           }
+        },
+        {
+          "id": "g_d4iydjz",
+          "name": "SOI 220 nm ACTIVE",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "status": "available",
+          "kind": "active",
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_vzoewab",
+              "name": "MPW Design guidelines",
+              "status": "available",
+              "owner": "",
+              "description": "",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "documents": [
+                {
+                  "id": "d_8l2wgno",
+                  "name": "SOI220_MPW43_guidelines.pdf",
+                  "filename": "SOI220_MPW43_guidelines.pdf",
+                  "mime": "application/pdf",
+                  "size": 1126208,
+                  "bbType": "",
+                  "who": "admin",
+                  "added": "2026-05-31",
+                  "_stripped": true
+                }
+              ],
+              "updated": "2026-05-31",
+              "kind": "document",
+              "bbType": "",
+              "dimensionsOn": false,
+              "params": {},
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "_docVersion": "",
+              "plannedReleaseDate": "",
+              "trl": null
+            }
+          ],
+          "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active/manuals",
+          "githubSubdir": "MPW",
+          "importSections": {
+            "layout": true,
+            "smatrix": true,
+            "tests": false,
+            "fab": false,
+            "scripts": false,
+            "docs": true
+          },
+          "width": 470
         }
       ],
       "kind": "docs"
@@ -16358,7 +16416,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpu9efzt_0",
+        "id": "s_mpub7058_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -16366,7 +16424,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpu9efzt_1",
+        "id": "s_mpub7059_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -16374,7 +16432,7 @@
         "enabled": false
       },
       {
-        "id": "s_mpu9efzt_2",
+        "id": "s_mpub7059_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -16386,8 +16444,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-31T20:55:54.610Z",
-    "lastFetchedSha": "0f372577a90b5e8bb764f310a684ac079b55f672",
+    "lastFetchedAt": "2026-05-31T21:46:17.239Z",
+    "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
     "lastPublishedAt": "2026-05-31T21:32:32.665Z",
     "lastPublishedSha": "5b6bca0da4f132ab8d3af538da4a8b0437e3ad24",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/5b6bca0da4f132ab8d3af538da4a8b0437e3ad24",
@@ -16492,7 +16550,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-31T21:41:45.113Z",
+    "publishedAt": "2026-05-31T21:56:27.661Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
