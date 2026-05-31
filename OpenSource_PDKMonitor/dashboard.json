@@ -6813,7 +6813,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_j50vobe",
@@ -6871,7 +6874,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_miu7hij",
@@ -6936,7 +6942,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z1e654s",
@@ -7002,7 +7011,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n48tl3w",
@@ -7067,7 +7079,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -7207,7 +7222,10 @@
                 "filesFound": 1,
                 "urlsEmpty": 0,
                 "deadUrls": []
-              }
+              },
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k77neha",
@@ -7286,7 +7304,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ou06zu0",
@@ -7364,7 +7385,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wgt0y0l",
@@ -7430,7 +7454,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6puxohu",
@@ -7469,7 +7496,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy8phiw",
@@ -7508,7 +7538,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zsq6gkr",
@@ -7544,7 +7577,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_01p193h",
@@ -7630,7 +7666,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_km981tv",
@@ -7669,7 +7708,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9mgl5v6",
@@ -7876,7 +7918,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n8yr4e7",
@@ -8013,7 +8058,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_2hkxsqf",
@@ -8102,7 +8150,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_77p3ne3",
@@ -8184,7 +8235,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_q049v6v",
@@ -8266,7 +8320,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3w2l9mp",
@@ -8349,7 +8406,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_sz9gi8d",
@@ -8414,7 +8474,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_d2rx46a",
@@ -8496,7 +8559,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_91ay0p0",
@@ -8578,7 +8644,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s8awz92",
@@ -8660,7 +8729,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_o7ro68h",
@@ -8742,7 +8814,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_eqh749n",
@@ -8825,7 +8900,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1k45ys5",
@@ -8890,7 +8968,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7hpzk0u",
@@ -8972,7 +9053,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nb8hml8",
@@ -9061,7 +9145,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bom7wh0",
@@ -9143,7 +9230,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_71oqpux",
@@ -9225,7 +9315,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_91okvtl",
@@ -9308,7 +9401,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tge6lza",
@@ -9405,7 +9501,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_x3t3huk",
@@ -9487,7 +9586,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_s6os5bb",
@@ -9569,7 +9671,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9qk9gjj",
@@ -9651,7 +9756,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_qoafxmn",
@@ -9734,7 +9842,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ixuuasd",
@@ -9799,7 +9910,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_5zi94z4",
@@ -9881,7 +9995,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
@@ -9961,7 +10078,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ves3jjy",
@@ -10026,7 +10146,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3ws2692",
@@ -10091,7 +10214,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pk8q8q2",
@@ -10154,7 +10280,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_75mbhmn",
@@ -10219,7 +10348,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vzmjg06",
@@ -10274,7 +10406,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uh3q75c",
@@ -10338,7 +10473,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vdwlenf",
@@ -10393,7 +10531,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_w4au6ab",
@@ -10455,7 +10596,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy1vex9",
@@ -10520,7 +10664,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_259cmnu",
@@ -10585,7 +10732,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ieha5mq",
@@ -10648,7 +10798,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vqfqfyw",
@@ -10713,7 +10866,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ucgqldx",
@@ -10771,7 +10927,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_das1bqe",
@@ -10826,7 +10985,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -10915,7 +11077,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qmu4fa",
@@ -10980,7 +11145,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ai8w29l",
@@ -11045,7 +11213,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9w4gmu0",
@@ -11108,7 +11279,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7ys02f0",
@@ -11173,7 +11347,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kefyqh0",
@@ -11228,7 +11405,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -11333,7 +11513,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bnk2hbx",
@@ -11394,7 +11577,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_jiz827o",
@@ -11454,7 +11640,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_fous0ae",
@@ -11513,7 +11702,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
@@ -11644,7 +11836,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7tyhtm9",
@@ -11725,7 +11920,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_g2w8icv",
@@ -11805,7 +12003,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_385henq",
@@ -11875,7 +12076,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hl6dbqn",
@@ -11955,7 +12159,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mlygcam",
@@ -12036,7 +12243,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zbn2z3n",
@@ -12116,7 +12326,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n3mn5jf",
@@ -12186,7 +12399,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kxwu1rp",
@@ -12272,7 +12488,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1tlt4j3",
@@ -12353,7 +12572,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_611ubrv",
@@ -12433,7 +12655,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_8ne3say",
@@ -12501,7 +12726,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n0xukmv",
@@ -12571,7 +12799,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -12687,7 +12918,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zvb7fbp",
@@ -12761,7 +12995,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_dnb94u1",
@@ -12833,7 +13070,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uhonmf1",
@@ -12905,7 +13145,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tahc9bw",
@@ -12979,7 +13222,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_reyeixv",
@@ -13037,7 +13283,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_t7gdkb8",
@@ -13111,7 +13360,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_4abzgca",
@@ -13185,7 +13437,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nkvzbqz",
@@ -13257,7 +13512,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6upztlt",
@@ -13317,7 +13575,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tshleh9",
@@ -13389,7 +13650,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9lwujy2",
@@ -13449,7 +13713,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lrs1qso",
@@ -13523,7 +13790,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wryfu80",
@@ -13597,7 +13867,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_a42dmrr",
@@ -13655,7 +13928,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -13750,7 +14026,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7etircv",
@@ -13805,7 +14084,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
@@ -14223,6 +14505,22 @@
         ],
         "rows": [
           [
+            "SiN300",
+            "0.2",
+            "dB/cm",
+            "O-, C-band",
+            "single te mode wg",
+            "MPW meas."
+          ],
+          [
+            "SiN200",
+            "2",
+            "dB/cm",
+            "visible (520nm,638nm,780nm))",
+            "single te mode wg",
+            "MPW meas."
+          ],
+          [
             "SOI220",
             "3",
             "dB/cm",
@@ -14245,22 +14543,6 @@
             "O-, C-band",
             "single te mode wg",
             "MPW meas."
-          ],
-          [
-            "SiN300",
-            "0.2",
-            "dB/cm",
-            "O-, C-band",
-            "single te mode wg",
-            "MPW meas."
-          ],
-          [
-            "SiN200",
-            "2",
-            "dB/cm",
-            "visible (520nm,638nm,780nm))",
-            "single te mode wg",
-            "MPW meas."
           ]
         ]
       },
@@ -14275,19 +14557,27 @@
         ],
         "rows": [
           [
-            "SOI",
-            "2.50",
-            "-",
-            "1550nm",
-            "n_si= 3.47 , n_sio2=1.45, n_air=1 @1550nm",
-            ""
-          ],
-          [
             "SiN",
             "1.37",
             "-",
             "1550nm",
             "n_si3n4= 2 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "TFLN",
+            "1.52",
+            "-",
+            "1550nm",
+            "n_ln= 2.21, n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "SOI",
+            "2.50",
+            "-",
+            "1550nm",
+            "n_si= 3.47 , n_sio2=1.45, n_air=1 @1550nm",
             ""
           ],
           [
@@ -14441,7 +14731,7 @@
         ]
       }
     },
-    "metric": "bm_s6af9hb"
+    "metric": "bm_prop_loss"
   },
   "uploads": [],
   "distribution": {
@@ -14460,7 +14750,7 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "s_mptxo0js_2",
@@ -14475,11 +14765,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-31T15:29:38.909Z",
-    "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-05-31T05:10:44.180Z",
-    "lastPublishedSha": "17bce10f116e25c5e52cf74754e6fd216694cb52",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/17bce10f116e25c5e52cf74754e6fd216694cb52",
+    "lastFetchedAt": "2026-05-31T15:50:54.085Z",
+    "lastFetchedSha": "867bae139d6a584ae0289d02ed68359e8c9ecbfb",
+    "lastPublishedAt": "2026-05-31T15:50:02.309Z",
+    "lastPublishedSha": "17a8ebce19e8e040e808443132eb54d35ea7d2f4",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/17a8ebce19e8e040e808443132eb54d35ea7d2f4",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -14576,7 +14866,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-31T15:50:02.309Z",
+    "publishedAt": "2026-05-31T15:57:07.952Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -14584,9 +14874,7 @@
     "contributorCount": 7,
     "bbCount": 94,
     "guestCount": 5,
-    "termsVersion": "1.1.0",
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    "termsVersion": "1.1.0"
   },
   "lastGlobalSyncStats": {
     "ranAt": 1780241409507,
