@@ -174,44 +174,6 @@
           "collapsed": false,
           "entities": [
             {
-              "id": "e_86635m3",
-              "name": "Cell0_SOI220_Full_1550nm_Packaging_Template",
-              "files": [],
-              "scripts": [],
-              "documents": [],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_86fm5ex",
-                      "name": "prop_loss_MSE_default",
-                      "filename": "prop_loss_MSE_default.xlsx",
-                      "kind": "xlsx",
-                      "size": 12336,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:03.772Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/Cell0_SOI220_Full_1550nm_Packaging_Template__6635m3/tests/prop_loss_MSE_default.xlsx",
-                      "repoSha": "fc2a2a5836cd53b4295416528254590c7c308017"
-                    }
-                  ]
-                }
-              ],
-              "smatrixGroups": [],
-              "fabTabs": [],
-              "_contribOnly": true
-            },
-            {
               "id": "e_k77neha",
               "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
               "files": [],
@@ -250,77 +212,12 @@
               "_contribOnly": true
             },
             {
-              "id": "e_ou06zu0",
-              "name": "SOI220nm_1550nm_TE_RIB_MZI",
-              "files": [],
-              "scripts": [],
-              "documents": [],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_25tta7p",
-                      "name": "dashboard (2)",
-                      "filename": "dashboard (2).json",
-                      "kind": "json",
-                      "size": 20689,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:07.635Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220nm_1550nm_TE_RIB_MZI__u06zu0/tests/dashboard_2_.json",
-                      "repoSha": "355796c8bfdb2753518f0fa7bf79f868886fb9ef"
-                    }
-                  ]
-                }
-              ],
-              "smatrixGroups": [],
-              "fabTabs": [],
-              "_contribOnly": true
-            },
-            {
               "id": "e_01p193h",
               "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
               "files": [],
               "scripts": [],
               "documents": [],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "tests": [
-                    {
-                      "id": "t_dacrp7x",
-                      "name": "_init_",
-                      "filename": "_init_",
-                      "kind": "_init_",
-                      "size": 1,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-31",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "AEmreKaplan",
-                      "added": "2026-05-31T03:20:09.339Z",
-                      "updated": "2026-05-31",
-                      "_externalized": true,
-                      "repoPath": "users/AEmreKaplan/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0__1p193h/tests/init",
-                      "repoSha": "8b137891791fe96927ad78e64b0aad7bded08bdc"
-                    }
-                  ]
-                }
-              ],
+              "testGroups": [],
               "smatrixGroups": [
                 {
                   "id": "sg_files",
@@ -2016,12 +1913,8 @@
     }
   ],
   "ownership": {
-    "e_86635m3": "admin",
-    "layout:e_86635m3": "AEmreKaplan",
     "e_k77neha": "admin",
     "layout:e_k77neha": "AEmreKaplan",
-    "e_ou06zu0": "admin",
-    "layout:e_ou06zu0": "AEmreKaplan",
     "e_01p193h": "admin",
     "layout:e_01p193h": "AEmreKaplan",
     "e_9mgl5v6": "admin",
@@ -2079,23 +1972,23 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-31T03:29:36.181Z",
+    "publishedAt": "2026-05-31T03:42:20.949Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 25,
+    "bbCount": 23,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 69,
+    "fileCount": 66,
     "sliceFor": "AEmreKaplan",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 2,
+      "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 67,
+      "reused": 66,
       "usersDir": "users/AEmreKaplan/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/AEmreKaplan/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
