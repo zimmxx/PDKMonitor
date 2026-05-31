@@ -6796,7 +6796,535 @@
     "t_ab1bxl2": "admin",
     "t_fbd9wa0": "admin",
     "t_gxz408b": "admin",
-    "t_30rw7ce": "admin"
+    "t_30rw7ce": "admin",
+    "d_u8gdqfy": "admin",
+    "d_0i96854": "admin",
+    "d_qop8r24": "admin",
+    "d_4132p9b": "admin",
+    "d_n810054": "admin",
+    "d_5lw9n5m": "admin",
+    "d_02plnhq": "admin",
+    "d_198ui00": "admin",
+    "d_ms3i133": "admin",
+    "d_rw5z4vw": "admin",
+    "d_e4f37xu": "admin",
+    "d_blusnmi": "admin",
+    "d_87p4z6j": "admin",
+    "d_vip67rh": "admin",
+    "d_w4ccb58": "admin",
+    "d_0m2bg9j": "admin",
+    "d_8n03df5": "admin",
+    "d_koo8j3c": "admin",
+    "d_ssrccq6": "admin",
+    "d_jv48rly": "admin",
+    "d_drdu1bp": "admin",
+    "d_1gubhdr": "admin",
+    "d_lv9qcr4": "admin",
+    "d_h0uysxt": "admin",
+    "d_u6jz8on": "admin",
+    "d_y79mhdy": "admin",
+    "d_makmufy": "admin",
+    "d_b0o1y3a": "admin",
+    "d_i85tcdq": "admin",
+    "d_srv8n2i": "admin",
+    "d_ig8ndrm": "admin",
+    "d_9czl2z1": "admin",
+    "t_b2zuerz": "admin",
+    "t_x734rmn": "admin",
+    "t_848m9c2": "admin",
+    "t_4re5djq": "admin",
+    "t_k4nfm5p": "admin",
+    "t_8hoo6v6": "admin",
+    "t_hswi9fz": "admin",
+    "t_kzdnp2c": "admin",
+    "t_33f9o7u": "admin",
+    "t_veg8w02": "admin",
+    "t_gxet21b": "admin",
+    "t_p2gpc7r": "admin",
+    "t_074dkd4": "admin",
+    "t_gzdr1dg": "admin",
+    "t_wnye9fx": "admin",
+    "t_3pib2y2": "admin",
+    "t_odaknzb": "admin",
+    "t_ffgbkwa": "admin",
+    "t_2vm9x6p": "admin",
+    "t_ct7k0e7": "admin",
+    "t_xe54ius": "admin",
+    "t_r7cy57g": "admin",
+    "t_op432j1": "admin",
+    "t_qhghuzz": "admin",
+    "t_smlpeua": "admin",
+    "t_br8qwn9": "admin",
+    "t_gbbgon3": "admin",
+    "t_afbtd3u": "admin",
+    "t_q8nf34q": "admin",
+    "t_ozaajrz": "admin",
+    "t_66jh186": "admin",
+    "t_e5wmtw3": "admin",
+    "t_y1kwdas": "admin",
+    "t_v0jgya0": "admin",
+    "t_pdhr4t4": "admin",
+    "t_5tw39lb": "admin",
+    "t_hrspjf8": "admin",
+    "t_ki7n7v3": "admin",
+    "t_mrfzijs": "admin",
+    "t_hxtxcbz": "admin",
+    "t_v9maqzi": "admin",
+    "t_p5yt49z": "admin",
+    "t_t4gyrie": "admin",
+    "t_4iohz0u": "admin",
+    "t_86fyrir": "admin",
+    "t_vy5c5b1": "admin",
+    "t_0u4g3s5": "admin",
+    "t_68yxmuy": "admin",
+    "t_edyydsd": "admin",
+    "t_oxku3y7": "admin",
+    "up_7lf093b": "admin",
+    "t_c2v6gy6": "admin",
+    "t_v37b7x5": "admin",
+    "t_xfz6jzu": "admin",
+    "t_qyymx1s": "admin",
+    "t_983pygo": "admin",
+    "t_7p74qxy": "admin",
+    "t_3ldl5d8": "admin",
+    "t_on71sbd": "admin",
+    "t_lgs1e43": "admin",
+    "t_agnouwl": "admin",
+    "t_4s21scy": "admin",
+    "t_cophhfb": "admin",
+    "t_wxwpxf2": "admin",
+    "t_x6rbhgd": "admin",
+    "t_8hu2e92": "admin",
+    "t_gykpypk": "admin",
+    "t_t2795cs": "admin",
+    "t_3w8ca7o": "admin",
+    "t_82v0ppo": "admin",
+    "t_jv7r1ww": "admin",
+    "t_1v3yxwn": "admin",
+    "t_w60lmuf": "admin",
+    "t_pgfo2b6": "admin",
+    "t_huen0gd": "admin",
+    "t_eunssxy": "admin",
+    "t_x5960je": "admin",
+    "t_mp9x5sk": "admin",
+    "t_ulyulld": "admin",
+    "t_t59dfj3": "admin",
+    "t_4v9yury": "admin",
+    "t_ddklimy": "admin",
+    "t_7hqynlc": "admin",
+    "t_55rzidi": "admin",
+    "t_vwa8qfq": "admin",
+    "t_7tfx8ti": "admin",
+    "t_gg42j6y": "admin",
+    "t_ex7govu": "admin",
+    "t_nejbarf": "admin",
+    "t_bdzg3qg": "admin",
+    "t_tou859x": "admin",
+    "t_bfqrtgx": "admin",
+    "t_6ssp0c4": "admin",
+    "t_lahwd80": "admin",
+    "t_8dcpuds": "admin",
+    "t_m7ipw05": "admin",
+    "t_8n3a4nc": "admin",
+    "t_hikf5lq": "admin",
+    "t_liein1h": "admin",
+    "t_nfl0zy3": "admin",
+    "t_p3q6xpc": "admin",
+    "t_5qh3aah": "admin",
+    "t_j3d4ekg": "admin",
+    "t_jkh5zsg": "admin",
+    "t_6n47d4e": "admin",
+    "t_mgcesgh": "admin",
+    "t_09qzvzw": "admin",
+    "t_bk67ccz": "admin",
+    "t_mt0vh84": "admin",
+    "t_2ysf8zo": "admin",
+    "t_rcdp7j2": "admin",
+    "t_t660j2x": "admin",
+    "t_bag69nh": "admin",
+    "t_lrzxwb1": "admin",
+    "t_rg32lmn": "admin",
+    "t_ppaqx27": "admin",
+    "t_1b7cvru": "admin",
+    "t_exq384p": "admin",
+    "t_jyl5x8k": "admin",
+    "t_qe3pmgo": "admin",
+    "t_u5vnfez": "admin",
+    "t_g2v1qdz": "admin",
+    "t_lvq9na0": "admin",
+    "t_d77mrqh": "admin",
+    "t_2u73uk1": "admin",
+    "t_kerca1t": "admin",
+    "t_tmtcymo": "admin",
+    "t_nkxhsu1": "admin",
+    "t_tqsvtm4": "admin",
+    "t_ed5tw4d": "admin",
+    "t_nsh8203": "admin",
+    "t_xoesjy2": "admin",
+    "t_k0zhgca": "admin",
+    "t_b49ayfu": "admin",
+    "t_mgli697": "admin",
+    "t_mc9b8s3": "admin",
+    "t_j8wqxpr": "admin",
+    "t_xjjsb0m": "admin",
+    "t_v5cf658": "admin",
+    "t_88hl8t6": "admin",
+    "t_6zbw550": "admin",
+    "t_4qba67x": "admin",
+    "t_2wt10z8": "admin",
+    "t_ddiuycg": "admin",
+    "t_2on8iwc": "admin",
+    "t_cvbnq6k": "admin",
+    "t_cw1hpme": "admin",
+    "t_glah47i": "admin",
+    "t_5p4z9ec": "admin",
+    "t_2qo3svv": "admin",
+    "t_ik95ih5": "admin",
+    "t_csgup28": "admin",
+    "t_5tz7xsp": "admin",
+    "t_02nme60": "admin",
+    "t_zs745xq": "admin",
+    "t_zgh5v08": "admin",
+    "t_i0r2sqj": "admin",
+    "t_vvemisa": "admin",
+    "t_1tnioii": "admin",
+    "t_gcgqine": "admin",
+    "t_thr87cj": "admin",
+    "t_rb6ap2a": "admin",
+    "t_7o401hy": "admin",
+    "t_bf09pkl": "admin",
+    "t_abco954": "admin",
+    "t_w2m6x46": "admin",
+    "t_jvhsg68": "admin",
+    "t_ylodpdq": "admin",
+    "t_zaofg8w": "admin",
+    "t_jjkaq67": "admin",
+    "t_2ux8jr7": "admin",
+    "t_y5ppmi2": "admin",
+    "t_019d9gd": "admin",
+    "t_y3old1g": "admin",
+    "t_aym7qto": "admin",
+    "t_5m38v6j": "admin",
+    "t_bkvvo01": "admin",
+    "t_tlzmj4w": "admin",
+    "t_03rjszc": "admin",
+    "t_jz29edx": "admin",
+    "t_zd9z9zj": "admin",
+    "t_2wot3w5": "admin",
+    "t_noo8osn": "admin",
+    "t_e3ephbq": "admin",
+    "t_4pxf9kh": "admin",
+    "t_dzpw7yo": "admin",
+    "t_35494s6": "admin",
+    "t_23buzed": "admin",
+    "t_z6hjnsr": "admin",
+    "t_9bpwobg": "admin",
+    "t_ir4mwk1": "admin",
+    "t_xjgwfzx": "admin",
+    "t_6elitg6": "admin",
+    "t_8lx9mjr": "admin",
+    "t_8ve8175": "admin",
+    "t_33bzitl": "admin",
+    "t_mh0jysd": "admin",
+    "t_m9uzab3": "admin",
+    "t_6gl9e9i": "admin",
+    "t_vzqglo0": "admin",
+    "t_nucpgwj": "admin",
+    "t_b64bb5i": "admin",
+    "t_e7kg4gq": "admin",
+    "t_t9zi6rd": "admin",
+    "t_58rgoab": "admin",
+    "t_k1xdwhx": "admin",
+    "t_dj91ms3": "admin",
+    "t_18rr772": "admin",
+    "t_f0l2fps": "admin",
+    "t_crd6v2s": "admin",
+    "t_x40tm7v": "admin",
+    "t_i404w26": "admin",
+    "t_l50asdl": "admin",
+    "t_bs1u71n": "admin",
+    "t_18tss99": "admin",
+    "t_ujc33oa": "admin",
+    "t_i1vpgmg": "admin",
+    "t_erx9do5": "admin",
+    "t_rww790a": "admin",
+    "t_z0a9v6v": "admin",
+    "t_ad172dk": "admin",
+    "t_fixrunn": "admin",
+    "t_pop1jfn": "admin",
+    "t_xgwuc5x": "admin",
+    "t_86im93o": "admin",
+    "t_krrjaeq": "admin",
+    "t_0uy7lml": "admin",
+    "t_190n4cc": "admin",
+    "t_owcrris": "admin",
+    "t_o44ws3q": "admin",
+    "t_5qo7v1m": "admin",
+    "t_29eo4n9": "admin",
+    "t_4znvuhu": "admin",
+    "t_p895qv7": "admin",
+    "t_5rix9wf": "admin",
+    "t_vhkgcev": "admin",
+    "t_a36wz3p": "admin",
+    "t_q2arz3t": "admin",
+    "t_3pvceva": "admin",
+    "t_5tx8woo": "admin",
+    "t_hwbc2p1": "admin",
+    "t_rjm3du3": "admin",
+    "t_0ej7snd": "admin",
+    "t_8rtin5n": "admin",
+    "t_co8e2cv": "admin",
+    "t_06xyj13": "admin",
+    "t_gbqccbq": "admin",
+    "t_7qbenx6": "admin",
+    "t_d8300sv": "admin",
+    "t_hdzhral": "admin",
+    "t_hvpb8ys": "admin",
+    "t_25443zb": "admin",
+    "t_uc1py1w": "admin",
+    "t_3vm1z1m": "admin",
+    "t_bzyr96i": "admin",
+    "t_wlel8lm": "admin",
+    "t_1d0l624": "admin",
+    "t_lu3v71f": "admin",
+    "t_2m2n0ji": "admin",
+    "t_d66g6xi": "admin",
+    "t_n7luigy": "admin",
+    "t_yrn4mgh": "admin",
+    "t_xq6kh7v": "admin",
+    "t_5p9l6j7": "admin",
+    "t_dtj3c06": "admin",
+    "t_gd8u2jg": "admin",
+    "t_dlckygr": "admin",
+    "t_mwdq870": "admin",
+    "t_ye7wgen": "admin",
+    "t_fklidbr": "admin",
+    "t_9atmgp5": "admin",
+    "t_t7l34rc": "admin",
+    "t_4werlid": "admin",
+    "t_md03crr": "admin",
+    "t_qztr8rg": "admin",
+    "t_yxrcxnw": "admin",
+    "t_uz36tu5": "admin",
+    "t_o66fn9x": "admin",
+    "t_6cpx1xd": "admin",
+    "t_y0fj9ug": "admin",
+    "t_4c5f64i": "admin",
+    "t_jhlu8du": "admin",
+    "t_ekcvnzv": "admin",
+    "t_h2bbvkb": "admin",
+    "t_owyu731": "admin",
+    "t_kxn6juz": "admin",
+    "t_sgzon19": "admin",
+    "t_m96brqg": "admin",
+    "t_ahdrniw": "admin",
+    "t_absg85a": "admin",
+    "t_y560jbb": "admin",
+    "t_6pocyzh": "admin",
+    "t_uhjh8gt": "admin",
+    "t_9ikeken": "admin",
+    "t_zr167hi": "admin",
+    "t_9fsez22": "admin",
+    "t_z3ggl2k": "admin",
+    "t_a2otn0i": "admin",
+    "t_gr4lu88": "admin",
+    "t_8qr6oa5": "admin",
+    "t_9izruzz": "admin",
+    "t_s02ggy5": "admin",
+    "t_wlqo84v": "admin",
+    "t_ngeq05t": "admin",
+    "t_jygebn9": "admin",
+    "t_xlyw1g0": "admin",
+    "t_r2oglbc": "admin",
+    "t_3mm8kl6": "admin",
+    "t_ecal35m": "admin",
+    "t_ut5g46u": "admin",
+    "t_92neq8s": "admin",
+    "t_c4qymbs": "admin",
+    "t_qbz6te4": "admin",
+    "t_y21u8lv": "admin",
+    "t_ctlsvby": "admin",
+    "t_g4vv2u6": "admin",
+    "t_r0hj6xs": "admin",
+    "t_e9rigqd": "admin",
+    "t_iolitvp": "admin",
+    "t_4voxtf1": "admin",
+    "t_gs0ivuc": "admin",
+    "t_vg97r41": "admin",
+    "t_139wxn7": "admin",
+    "t_m4d6kez": "admin",
+    "t_yjlqaa6": "admin",
+    "t_5jldzmi": "admin",
+    "t_ev0nhtj": "admin",
+    "t_g3k93mk": "admin",
+    "t_aqlo26c": "admin",
+    "t_vysb0n7": "admin",
+    "t_r4gsxyf": "admin",
+    "t_2drx8pj": "admin",
+    "t_eodhx63": "admin",
+    "t_sit23hu": "admin",
+    "t_4frsovd": "admin",
+    "t_7g1ckmt": "admin",
+    "t_0y0ugwg": "admin",
+    "t_pw6z1m8": "admin",
+    "t_funhe37": "admin",
+    "t_ckuq2oq": "admin",
+    "t_2pu61k4": "admin",
+    "t_diovr3z": "admin",
+    "t_qsatuw1": "admin",
+    "t_xfq3ejz": "admin",
+    "t_6i5fv4k": "admin",
+    "t_aimd1bn": "admin",
+    "t_nf6reb6": "admin",
+    "t_alvk7mv": "admin",
+    "t_d11ejdp": "admin",
+    "t_59ohw51": "admin",
+    "t_bz9wy3f": "admin",
+    "t_thv5owm": "admin",
+    "t_dj9hg3q": "admin",
+    "t_vq2nj01": "admin",
+    "t_li18k5f": "admin",
+    "t_aqsfw5y": "admin",
+    "t_tiiqe1b": "admin",
+    "t_rddxsqy": "admin",
+    "t_i0lld3f": "admin",
+    "t_xqdmuom": "admin",
+    "t_wdodsap": "admin",
+    "t_sbezhh7": "admin",
+    "t_x7fslzf": "admin",
+    "t_zt06er4": "admin",
+    "t_hf5tuzd": "admin",
+    "t_ll9wqjn": "admin",
+    "t_kxkqf0a": "admin",
+    "t_069uklg": "admin",
+    "t_0c5afo0": "admin",
+    "t_596iwb0": "admin",
+    "t_pb6ymr5": "admin",
+    "t_kifv7bq": "admin",
+    "t_ej5y6u9": "admin",
+    "t_85riyp9": "admin",
+    "t_95oru5k": "admin",
+    "t_8ujww74": "admin",
+    "t_1noxnyb": "admin",
+    "t_tsm8ocz": "admin",
+    "t_qow15da": "admin",
+    "t_oln2iso": "admin",
+    "t_lxjyenq": "admin",
+    "t_7a6ucfo": "admin",
+    "t_uvire8v": "admin",
+    "t_huivo8w": "admin",
+    "t_zhyxkef": "admin",
+    "t_ki2zgdq": "admin",
+    "t_fhzafnj": "admin",
+    "t_qoix75s": "admin",
+    "t_znqq56m": "admin",
+    "t_zfc0n7u": "admin",
+    "t_j4l3etv": "admin",
+    "t_5gu98s2": "admin",
+    "t_ht0qmfk": "admin",
+    "t_15ipyb0": "admin",
+    "t_gawri8i": "admin",
+    "t_jrom215": "admin",
+    "t_rym241l": "admin",
+    "t_fim7ltc": "admin",
+    "t_9zbpk6u": "admin",
+    "t_plqpvdi": "admin",
+    "t_iupbwa6": "admin",
+    "t_407y5ox": "admin",
+    "t_k8n61nc": "admin",
+    "t_0xyki0t": "admin",
+    "t_bs9pdt1": "admin",
+    "t_0ky7cso": "admin",
+    "t_1u5otyk": "admin",
+    "t_48vu19a": "admin",
+    "t_kf5dw05": "admin",
+    "t_sp2r20p": "admin",
+    "t_12gorpd": "admin",
+    "t_r47ju5q": "admin",
+    "t_32ie5vi": "admin",
+    "t_2xkoyz6": "admin",
+    "t_faqhjbs": "admin",
+    "d_hdkxcj4": "admin",
+    "d_uxlwznj": "admin",
+    "d_0717nll": "admin",
+    "d_hui8we6": "admin",
+    "d_1x93bdl": "admin",
+    "d_usugjqa": "admin",
+    "d_rikstbz": "admin",
+    "d_rsaf6fs": "admin",
+    "d_vh4zyy9": "admin",
+    "d_zzx85om": "admin",
+    "d_tlju7g4": "admin",
+    "d_o5hoqnk": "admin",
+    "d_japs0ur": "admin",
+    "d_gk5pjgy": "admin",
+    "d_ms6cc8o": "admin",
+    "d_m0wzc8z": "admin",
+    "d_kgdpwob": "admin",
+    "d_2lscwil": "admin",
+    "d_mbozlxq": "admin",
+    "d_g8xbmc7": "admin",
+    "d_v2zh214": "admin",
+    "d_lg78rd8": "admin",
+    "d_6f27frg": "admin",
+    "d_9v9jbd5": "admin",
+    "d_unsu7jb": "admin",
+    "d_5zcjpsl": "admin",
+    "d_cdij0ze": "admin",
+    "d_q6469a1": "admin",
+    "d_88aa7xz": "admin",
+    "d_g4u6122": "admin",
+    "d_ilf41lc": "admin",
+    "d_ia2n7mf": "admin",
+    "t_ntm0gha": "admin",
+    "t_pg9mdex": "admin",
+    "t_pjponfl": "admin",
+    "t_82vwn1t": "admin",
+    "t_7xrl9ds": "admin",
+    "t_y8jrukw": "admin",
+    "t_777wsvv": "admin",
+    "t_s4wpwj4": "admin",
+    "t_sk7zuo8": "admin",
+    "t_cycbidd": "admin",
+    "t_n61hras": "admin",
+    "t_ct20zaa": "admin",
+    "t_r3c0h6f": "admin",
+    "t_gc7kzmj": "admin",
+    "t_vpm1nrg": "admin",
+    "t_pzin0gz": "admin",
+    "t_d188zsl": "admin",
+    "t_zwvlwyw": "admin",
+    "t_7p93y2x": "admin",
+    "t_2yy9uw2": "admin",
+    "t_j15k457": "admin",
+    "t_ih4zt9d": "admin",
+    "t_02nxong": "admin",
+    "t_73u2ez4": "admin",
+    "t_2xdrd8n": "admin",
+    "t_qxrwq6g": "admin",
+    "t_hz5laq9": "admin",
+    "t_prl3331": "admin",
+    "t_o81d7c6": "admin",
+    "t_phrk9vv": "admin",
+    "t_0w9e5ku": "admin",
+    "t_br2475x": "admin",
+    "t_plr83md": "admin",
+    "t_kedlbxw": "admin",
+    "t_uskj112": "admin",
+    "t_is6k8nn": "admin",
+    "t_8z3nyzv": "admin",
+    "t_oxejrli": "admin",
+    "t_8yauh75": "admin",
+    "t_u2dpe37": "admin",
+    "t_k5lw29u": "admin",
+    "t_0no1d3k": "admin",
+    "t_oxruujg": "admin",
+    "t_dceod0r": "admin",
+    "t_2xwf9l3": "admin",
+    "t_g69za1c": "admin",
+    "t_a3z4uba": "admin",
+    "t_77qx5ns": "admin",
+    "t_5kfqfij": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -7225,43 +7753,40 @@
               ],
               "documents": [
                 {
-                  "id": "d_qmv2a4j",
+                  "id": "d_hdkxcj4",
                   "name": "Cell0_SOI220_Full_1550nm_Packaging_Template.yaml",
                   "filename": "Cell0_SOI220_Full_1550nm_Packaging_Template.yaml",
                   "mime": "application/yaml",
                   "size": 16932,
                   "binaryContent": "bmFtZTogQ2VsbDBfU09JMjIwX0Z1bGxfMTU1MG5tX1BhY2thZ2luZ19UZW1wbGF0ZQpjb21wb25lbnRfdHlwZTogUGFja2FnaW5nVGVtcGxhdGUKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlX28xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNDkyMi4xNzMKICAtIDE2NTAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBlX28xMAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQ5MjIuMTczCiAgLSAtNjAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogZV9vMTEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTIyLjE3MwogIC0gLTg1MC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IGVfbzEyCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNDkyMi4xNzMKICAtIC0xMTAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogZV9vMTMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTIyLjE3MwogIC0gLTEzNTAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBlX28xNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQ5MjIuMTczCiAgLSAtMTYwMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IGVfbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTIyLjE3MwogIC0gMTQwMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IGVfbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTIyLjE3MwogIC0gMTE1MC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IGVfbzQKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTIyLjE3MwogIC0gOTAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogZV9vNQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQ5MjIuMTczCiAgLSA2NTAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBlX282CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNDkyMi4xNzMKICAtIDQwMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IGVfbzcKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0OTIyLjE3MwogIC0gMTUwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogZV9vOAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQ5MjIuMTczCiAgLSAtMTAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogZV9vOQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQ5MjIuMTczCiAgLSAtMzUwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogZV92ZXJ0aWNhbF90ZTEKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gNTI5MC4wCiAgLSAxNjUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogZV92ZXJ0aWNhbF90ZTEwCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gLTYwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGUxMQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSA1MjkwLjAKICAtIC04NTAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiBlX3ZlcnRpY2FsX3RlMTIKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gNTI5MC4wCiAgLSAtMTEwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGUxMwogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSA1MjkwLjAKICAtIC0xMzUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogZV92ZXJ0aWNhbF90ZTE0CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gLTE2MDAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiBlX3ZlcnRpY2FsX3RlMgogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSA1MjkwLjAKICAtIDE0MDAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiBlX3ZlcnRpY2FsX3RlMwogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSA1MjkwLjAKICAtIDExNTAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiBlX3ZlcnRpY2FsX3RlNAogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSA1MjkwLjAKICAtIDkwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGU1CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gNjUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogZV92ZXJ0aWNhbF90ZTYKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gNTI5MC4wCiAgLSA0MDAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiBlX3ZlcnRpY2FsX3RlNwogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSA1MjkwLjAKICAtIDE1MC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGU4CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gLTEwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGU5CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gLTM1MC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGVfbGIxCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gMTkwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IGVfdmVydGljYWxfdGVfbGIyCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDUyOTAuMAogIC0gLTE4NTAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiBuX2UxCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTQ2MTUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMTAKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMTkxNS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UxMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0xNjE1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTEyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTEzMTUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMTMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMTAxNS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UxNAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC03MTUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMTUKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtNDE1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTE2CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTExNS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UxNwogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDE4NS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UxOAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDQ4NS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UxOQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDc4NS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTQzMTUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMjAKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxMDg1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTIxCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMTM4NS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UyMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDE2ODUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMjMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxOTg1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTI0CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMjI4NS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UyNQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDI1ODUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMjYKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAyODg1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTI3CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMzE4NS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UyOAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDM0ODUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMjkKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAzNzg1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTMKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtNDAxNS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2UzMAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDQwODUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lMzEKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSA0Mzg1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTQKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMzcxNS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2U1CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTM0MTUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lNgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0zMTE1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IG5fZTcKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMjgxNS4wCiAgLSAyMjAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBuX2U4CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTI1MTUuMAogIC0gMjIwMC4wCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogbl9lOQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0yMjE1LjAKICAtIDIyMDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTEKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtNDYxNS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UxMAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0xOTE1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTExCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTE2MTUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lMTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMTMxNS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UxMwogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0xMDE1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTE0CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTcxNS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UxNQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC00MTUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lMTYKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMTE1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTE3CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMTg1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTE4CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gNDg1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTE5CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gNzg1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtNDMxNS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UyMAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDEwODUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lMjEKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxMzg1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTIyCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMTY4NS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UyMwogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDE5ODUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lMjQKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAyMjg1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTI1CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMjU4NS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UyNgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDI4ODUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lMjcKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAzMTg1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTI4CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gMzQ4NS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UyOQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDM3ODUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lMwogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC00MDE1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTMwCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gNDA4NS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2UzMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDQzODUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lNAogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0zNzE1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTUKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMzQxNS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2U2CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTMxMTUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogc19lNwogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC0yODE1LjAKICAtIC0yMjAwLjAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHNfZTgKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAtMjUxNS4wCiAgLSAtMjIwMC4wCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBzX2U5CiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTIyMTUuMAogIC0gLTIyMDAuMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogd19vMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gMTY1MC4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiB3X28xMAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gLTYwMC4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiB3X28xMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gLTg1MC4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiB3X28xMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gLTExMDAuMAogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogd19vMTMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAtNDkyMi4xNzMKICAtIC0xMzUwLjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IHdfbzE0CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gLTQ5MjIuMTczCiAgLSAtMTYwMC4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiB3X28yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gLTQ5MjIuMTczCiAgLSAxNDAwLjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IHdfbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAtNDkyMi4xNzMKICAtIDExNTAuMAogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogd19vNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gOTAwLjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IHdfbzUKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAtNDkyMi4xNzMKICAtIDY1MC4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiB3X282CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gLTQ5MjIuMTczCiAgLSA0MDAuMAogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogd19vNwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gMTUwLjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IHdfbzgKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAtNDkyMi4xNzMKICAtIC0xMDAuMAogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogd19vOQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIC00OTIyLjE3MwogIC0gLTM1MC4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiB3X3ZlcnRpY2FsX3RlMQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAtNTI5MC4wCiAgLSAxNjUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZTEwCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIC01MjkwLjAKICAtIC02MDAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiB3X3ZlcnRpY2FsX3RlMTEKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gLTg1MC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHdfdmVydGljYWxfdGUxMgogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAtNTI5MC4wCiAgLSAtMTEwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHdfdmVydGljYWxfdGUxMwogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAtNTI5MC4wCiAgLSAtMTM1MC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHdfdmVydGljYWxfdGUxNAogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAtNTI5MC4wCiAgLSAtMTYwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHdfdmVydGljYWxfdGUyCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIC01MjkwLjAKICAtIDE0MDAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiB3X3ZlcnRpY2FsX3RlMwogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAtNTI5MC4wCiAgLSAxMTUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZTQKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gOTAwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZTUKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gNjUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZTYKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gNDAwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZTcKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gMTUwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZTgKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gLTEwMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHdfdmVydGljYWxfdGU5CiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIC01MjkwLjAKICAtIC0zNTAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiB3X3ZlcnRpY2FsX3RlX2xiMQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAtNTI5MC4wCiAgLSAxOTAwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwCi0gbmFtZTogd192ZXJ0aWNhbF90ZV9sYjIKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTUyOTAuMAogIC0gLTE4NTAuMAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAK",
                   "bbType": "custom",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: Cell0_SOI220_Full_1550nm_Packaging_Template\ncomponent_type: PackagingTemplate\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e_o1\n  port_type: optical\n  center:\n  - 4922.173\n  - 1650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o10\n  port_type: optical\n  center:\n  - 4922.173\n  - -600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o11\n  port_type: optical\n  center:\n  - 4922.173\n  - -850.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o12\n  port_type: optical\n  center:\n  - 4922.173\n  - -1100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o13\n  port_type: optical\n  center:\n  - 4922.173\n  - -1350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o14\n  port_type: optical\n  center:\n  - 4922.173\n  - -1600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o2\n  port_type: optical\n  center:\n  - 4922.173\n  - 1400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o3\n  port_type: optical\n  center:\n  - 4922.173\n  - 1150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o4\n  port_type: optical\n  center:\n  - 4922.173\n  - 900.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o5\n  port_type: optical\n  center:\n  - 4922.173\n  - 650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o6\n  port_type: optical\n  center:\n  - 4922.173\n  - 400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o7\n  port_type: optical\n  center:\n  - 4922.173\n  - 150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o8\n  port_type: optical\n  center:\n  - 4922.173\n  - -100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o9\n  port_type: optical\n  center:\n  - 4922.173\n  - -350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_vertical_te1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te10\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te11\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te12\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te13\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te14\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te3\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te4\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te5\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te6\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te7\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te8\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te9\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: n_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: s_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: w_o1\n  port_type: optical\n  center:\n  - -4922.173\n  - 1650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o10\n  port_type: optical\n  center:\n  - -4922.173\n  - -600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o11\n  port_type: optical\n  center:\n  - -4922.173\n  - -850.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o12\n  port_type: optical\n  center:\n  - -4922.173\n  - -1100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o13\n  port_type: optical\n  center:\n  - -4922.173\n  - -1350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o14\n  port_type: optical\n  center:\n  - -4922.173\n  - -1600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o2\n  port_type: optical\n  center:\n  - -4922.173\n  - 1400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o3\n  port_type: optical\n  center:\n  - -4922.173\n  - 1150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o4\n  port_type: optical\n  center:\n  - -4922.173\n  - 900.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o5\n  port_type: optical\n  center:\n  - -4922.173\n  - 650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o6\n  port_type: optical\n  center:\n  - -4922.173\n  - 400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o7\n  port_type: optical\n  center:\n  - -4922.173\n  - 150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o8\n  port_type: optical\n  center:\n  - -4922.173\n  - -100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o9\n  port_type: optical\n  center:\n  - -4922.173\n  - -350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_vertical_te1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te10\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te11\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te12\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te13\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te14\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te3\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te4\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te5\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te6\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te7\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te8\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te9\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n",
-                  "description": ""
+                  "rawText": "name: Cell0_SOI220_Full_1550nm_Packaging_Template\ncomponent_type: PackagingTemplate\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e_o1\n  port_type: optical\n  center:\n  - 4922.173\n  - 1650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o10\n  port_type: optical\n  center:\n  - 4922.173\n  - -600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o11\n  port_type: optical\n  center:\n  - 4922.173\n  - -850.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o12\n  port_type: optical\n  center:\n  - 4922.173\n  - -1100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o13\n  port_type: optical\n  center:\n  - 4922.173\n  - -1350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o14\n  port_type: optical\n  center:\n  - 4922.173\n  - -1600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o2\n  port_type: optical\n  center:\n  - 4922.173\n  - 1400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o3\n  port_type: optical\n  center:\n  - 4922.173\n  - 1150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o4\n  port_type: optical\n  center:\n  - 4922.173\n  - 900.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o5\n  port_type: optical\n  center:\n  - 4922.173\n  - 650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o6\n  port_type: optical\n  center:\n  - 4922.173\n  - 400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o7\n  port_type: optical\n  center:\n  - 4922.173\n  - 150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o8\n  port_type: optical\n  center:\n  - 4922.173\n  - -100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o9\n  port_type: optical\n  center:\n  - 4922.173\n  - -350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_vertical_te1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te10\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te11\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te12\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te13\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te14\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te3\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te4\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te5\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te6\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te7\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te8\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te9\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: n_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: s_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: w_o1\n  port_type: optical\n  center:\n  - -4922.173\n  - 1650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o10\n  port_type: optical\n  center:\n  - -4922.173\n  - -600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o11\n  port_type: optical\n  center:\n  - -4922.173\n  - -850.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o12\n  port_type: optical\n  center:\n  - -4922.173\n  - -1100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o13\n  port_type: optical\n  center:\n  - -4922.173\n  - -1350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o14\n  port_type: optical\n  center:\n  - -4922.173\n  - -1600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o2\n  port_type: optical\n  center:\n  - -4922.173\n  - 1400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o3\n  port_type: optical\n  center:\n  - -4922.173\n  - 1150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o4\n  port_type: optical\n  center:\n  - -4922.173\n  - 900.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o5\n  port_type: optical\n  center:\n  - -4922.173\n  - 650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o6\n  port_type: optical\n  center:\n  - -4922.173\n  - 400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o7\n  port_type: optical\n  center:\n  - -4922.173\n  - 150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o8\n  port_type: optical\n  center:\n  - -4922.173\n  - -100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o9\n  port_type: optical\n  center:\n  - -4922.173\n  - -350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_vertical_te1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te10\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te11\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te12\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te13\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te14\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te3\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te4\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te5\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te6\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te7\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te8\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te9\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n"
                 },
                 {
-                  "id": "d_joe3si6",
+                  "id": "d_ilf41lc",
                   "name": "components.md",
                   "filename": "components.md",
                   "mime": "text/markdown",
                   "size": 1207,
                   "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKQ2VsbDBfU09JMjIwX0Z1bGxfMTU1MG5tX1BhY2thZ2luZ19UZW1wbGF0ZS5tZApIZWF0ZXIubWQKU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDFfTU1JLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfMngyX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCXzkwX0RlZ3JlZV9CZW5kLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfV2F2ZWd1aWRlLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF8yeDFfTU1JLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF8yeDJfTU1JLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZC5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF9XYXZlZ3VpZGUubWQKU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZy5tZApTT0kyMjBubV8xNTUwbm1fVEVfUklCXzJ4MV9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfOTBfRGVncmVlX0JlbmQubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9FQkxfQXBvZGlzZWRfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfTVpJLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfV2F2ZWd1aWRlLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF8yeDFfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF8yeDJfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZC5tZApTT0kyMjBubV8xNTUwbm1fVEVfU1RSSVBfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF9NWkkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZS5tZApTT0kyMjBubV8xNTUwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kCmBgYA==",
                   "bbType": "custom",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nCell0_SOI220_Full_1550nm_Packaging_Template.md\nHeater.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_MZI.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_MZI.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```",
-                  "description": ""
+                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nCell0_SOI220_Full_1550nm_Packaging_Template.md\nHeater.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_MZI.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_MZI.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```"
                 },
                 {
-                  "id": "d_fgqj0l1",
+                  "id": "d_ia2n7mf",
                   "name": "ready-made.md",
                   "filename": "ready-made.md",
                   "mime": "text/markdown",
                   "size": 165,
                   "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKUElDX0Jvb3RjYW1wX0RlbW8ubWQKU09JMjIwX0NTX090U19NYXJjaF8yMDI1X3YxcDEubWQKU09JMjIwbm1fMTU1MG5tX1RFX0VkdWNhdGlvbl9LaXQubWQKYGBg",
                   "bbType": "custom",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nPIC_Bootcamp_Demo.md\nSOI220_CS_OtS_March_2025_v1p1.md\nSOI220nm_1550nm_TE_Education_Kit.md\n```",
-                  "description": ""
+                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nPIC_Bootcamp_Demo.md\nSOI220_CS_OtS_March_2025_v1p1.md\nSOI220nm_1550nm_TE_Education_Kit.md\n```"
                 }
               ],
               "updated": "2026-05-31",
@@ -7289,7 +7814,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Cell0_SOI220_Full_1550nm_Packaging_Template.gds",
-                  "ts": 1780241810330
+                  "ts": 1780255668447
                 }
               ],
               "plannedReleaseDate": "",
@@ -7324,17 +7849,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_zewq3ew",
+                  "id": "d_mbozlxq",
                   "name": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.yaml",
                   "mime": "application/yaml",
                   "size": 568,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9FQkxfQXBvZGlzZWRfR3JhdGluZ19Db3VwbGVyCmNvbXBvbmVudF90eXBlOiBHcmF0aW5nQ291cGxlcjFECmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQpwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCiAgbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHZlcnRpY2FsX3RlCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDM0Ljg4NgogIC0gMC4wCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTYKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MC4wCg==",
                   "bbType": "grating-coupler",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 34.886\n  - 0.0\n  orientation: 0\n  width: 16\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 34.886\n  - 0.0\n  orientation: 0\n  width: 16\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -7368,7 +7892,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.gds",
-                  "ts": 1780241815353
+                  "ts": 1780255673833
                 }
               ],
               "smatrixGroups": [
@@ -7410,17 +7934,16 @@
               ],
               "documents": [
                 {
-                  "id": "d_41y6z01",
+                  "id": "d_v2zh214",
                   "name": "SOI220nm_1550nm_TE_RIB_MZI.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_MZI.yaml",
                   "mime": "application/yaml",
                   "size": 1064,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9NWkkKY29tcG9uZW50X3R5cGU6IE1aTQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIC03NS41MjUwMAogIC0gLTI0My4yMjUwMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogZTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxNDQuNDc1MDAKICAtIC0yNDMuMjI1MDAKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwotIG5hbWU6IHZlcnRpY2FsX3RlX3cxCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIC0yMTguNjEKICAtIDQ2LjUKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlX3cyCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIC0yMTguNjEKICAtIDk5LjUKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlX2UxCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDIwNy41NTkKICAtIDIxOAogIG9yaWVudGF0aW9uOiAwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAo=",
                   "bbType": "mzi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.52500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.47500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 46.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 99.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 207.559\n  - 218\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.52500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.47500\n  - -243.22500\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 46.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -218.61\n  - 99.5\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 207.559\n  - 218\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -7453,7 +7976,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_MZI.gds",
-                  "ts": 1780241815904
+                  "ts": 1780255674593
                 }
               ],
               "plannedReleaseDate": "",
@@ -7481,17 +8004,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_68dms83",
+                  "id": "d_q6469a1",
                   "name": "SOI220nm_1550nm_TE_STRIP_MZI.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_MZI.yaml",
                   "mime": "application/yaml",
                   "size": 1077,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX01aSQpjb21wb25lbnRfdHlwZTogTVpNCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IGUxCiAgcG9ydF90eXBlOiBlbGVjdHJpY2FsX2RjCiAgY2VudGVyOgogIC0gLTc1LjE3NTAwCiAgLSAtMjM2Ljg2MzAwCiAgb3JpZW50YXRpb246IDkwCiAgY3Jvc3Nfc2VjdGlvbjogZGMKLSBuYW1lOiBlMgogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDE0NC44MjUwMAogIC0gLTIzNi44NjMwMAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogdmVydGljYWxfdGVfdzEKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTIyMC41MDgKICAtIDQ5LjYzOAogIG9yaWVudGF0aW9uOiAxODAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTU1MC4wCi0gbmFtZTogdmVydGljYWxfdGVfdzIKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gLTIyMC41MDgKICAtIDEwMi42MzgKICBvcmllbnRhdGlvbjogMTgwCiAgd2lkdGg6IDEwCiAgY291cGxpbmdfYW5nbGVfY2xhZGRpbmc6IDYuODg2CiAgZmlicmVfbW9kZXM6CiAgLSBmaWJyZV90eXBlOiBTTUYtMjgKICAgIHdhdmVsZW5ndGg6IDE1NTAuMAotIG5hbWU6IHZlcnRpY2FsX3RlX2UxCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDIxMC4xNTcKICAtIDIyMS4xMzgKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwLjAK",
                   "bbType": "mzi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.17500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.82500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 49.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 102.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 210.157\n  - 221.138\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_MZI\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - -75.17500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 144.82500\n  - -236.86300\n  orientation: 90\n  cross_section: dc\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 49.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_w2\n  port_type: vertical_te\n  center:\n  - -220.508\n  - 102.638\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n- name: vertical_te_e1\n  port_type: vertical_te\n  center:\n  - 210.157\n  - 221.138\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -7519,7 +8041,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_MZI.gds",
-                  "ts": 1780241817961
+                  "ts": 1780255676616
                 }
               ],
               "plannedReleaseDate": "",
@@ -7668,17 +8190,16 @@
               ],
               "documents": [
                 {
-                  "id": "d_ve1em15",
+                  "id": "d_0717nll",
                   "name": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.yaml",
                   "filename": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.yaml",
                   "mime": "application/yaml",
                   "size": 672,
                   "binaryContent": "IyBBdXRvLWdlbmVyYXRlZCBieSBDT1JORVJTVE9ORSBQREsgTW9uaXRvciB2MS4wLjAKIyBFZGl0IGZyZWVseSDigJQgdGhpcyBmaWxlIGlzIGEgc3RhcnRpbmcgcG9pbnQsIG5vdCBhdXRob3JpdGF0aXZlLgoKbmFtZTogU09JMjIwX2NiYW5kX1RNX3N0cmlwX2Fwb2RpemVkX0dDX2ZvY3VzaW5nX3YxcDAKZGVzY3JpcHRpb246ICIiCmJiX3R5cGU6IHdhdmVndWlkZQpjYXRlZ29yeTogcGFzc2l2ZQpwbGF0Zm9ybTogU09JIDIyMCBubSBQYXNzaXZlCnN0YXR1czogYXZhaWxhYmxlCm93bmVyOiAiIgp1cGRhdGVkOiAiMjAyNi0wNS0yNiIKZ2RzX2ZpbGU6IGNvbXBvbmVudHMvU09JMjIwX2NiYW5kX1RNX3N0cmlwX2Fwb2RpemVkX0dDX2ZvY3VzaW5nX3YxcDAuZ2RzCgpsYXllcnM6IFtdICAjIG5vIGxheWVycyBkZXRlY3RlZCDigJQgdXBsb2FkIGEgR0RTIGZvciBhdXRvLWZpbGwKCnBhcmFtZXRlcnM6CiAgd2lkdGhfbm06IDUwMAogIGxlbmd0aF91bTogMTAwCiAgdGhpY2tuZXNzX25tOiAyMjAKCnNvdXJjZV91cmw6ICJodHRwczovL2dpdGh1Yi5jb20vY29ybmVyc3RvbmUtdW9zL2Nvcm5lcnN0b25lLWNvbW11bml0eS9ibG9iL21haW4vU2lfMjIwbm1fcGFzc2l2ZS9jb21wb25lbnRzL1NPSTIyMF9jYmFuZF9UTV9zdHJpcF9hcG9kaXplZF9HQ19mb2N1c2luZ192MXAwLmdkcyIK",
                   "bbType": "grating-coupler",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "# Auto-generated by CORNERSTONE PDK Monitor v1.0.0\n# Edit freely — this file is a starting point, not authoritative.\n\nname: SOI220_cband_TM_strip_apodized_GC_focusing_v1p0\ndescription: \"\"\nbb_type: waveguide\ncategory: passive\nplatform: SOI 220 nm Passive\nstatus: available\nowner: \"\"\nupdated: \"2026-05-26\"\ngds_file: components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds\n\nlayers: []  # no layers detected — upload a GDS for auto-fill\n\nparameters:\n  width_nm: 500\n  length_um: 100\n  thickness_nm: 220\n\nsource_url: \"https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds\"\n",
-                  "description": ""
+                  "rawText": "# Auto-generated by CORNERSTONE PDK Monitor v1.0.0\n# Edit freely — this file is a starting point, not authoritative.\n\nname: SOI220_cband_TM_strip_apodized_GC_focusing_v1p0\ndescription: \"\"\nbb_type: waveguide\ncategory: passive\nplatform: SOI 220 nm Passive\nstatus: available\nowner: \"\"\nupdated: \"2026-05-26\"\ngds_file: components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds\n\nlayers: []  # no layers detected — upload a GDS for auto-fill\n\nparameters:\n  width_nm: 500\n  length_um: 100\n  thickness_nm: 220\n\nsource_url: \"https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds\"\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -7712,7 +8233,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds",
-                  "ts": 1780241810888
+                  "ts": 1780255669037
                 }
               ],
               "smatrixGroups": [
@@ -7808,17 +8329,16 @@
                   "rawText": "# Auto-generated by CORNERSTONE PDK Monitor v1.0.0\n# Edit freely — this file is a starting point, not authoritative.\n\nname: SOI220nm_1550nm_TE_RIB_Waveguide\ndescription: \"\"\nbb_type: waveguide\ncategory: passive\nplatform: SOI 220 nm Passive\nstatus: available\nowner: admin\nupdated: \"2026-05-26\"\ngds_file: components/SOI220nm_1550nm_TE_RIB_Waveguide.gds\n\nlayers:\n  - layer: 3\n    datatype: undefined\n  - layer: 5\n    datatype: undefined\n\nparameters:\n  width_nm: 500\n  length_um: 100\n  thickness_nm: 220\n\nsource_url: \"https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide.gds\"\n"
                 },
                 {
-                  "id": "d_rip704t",
+                  "id": "d_lg78rd8",
                   "name": "SOI220nm_1550nm_TE_RIB_Waveguide.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_Waveguide.yaml",
                   "mime": "application/yaml",
                   "size": 451,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGUKY29tcG9uZW50X3R5cGU6IFdhdmVndWlkZQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCg==",
                   "bbType": "waveguide",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -7924,11 +8444,6 @@
                 },
                 {
                   "section": "tests",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/test/SOI220nm_1550nm_TE_RIB_Waveguide/MPW45/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                  "ts": 1780017511087
-                },
-                {
-                  "section": "tests",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/test/SOI220nm_1550nm_TE_RIB_Waveguide/MPW45/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
                   "ts": 1780017511763
                 },
@@ -7965,7 +8480,12 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide.gds",
-                  "ts": 1780241816202
+                  "ts": 1780255674961
+                },
+                {
+                  "section": "tests",
+                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/test/SOI220nm_1550nm_TE_RIB_Waveguide/MPW45/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
+                  "ts": 1780255708462
                 }
               ],
               "smatrixGroups": [],
@@ -8053,17 +8573,16 @@
                   "description": ""
                 },
                 {
-                  "id": "d_lpnsnyy",
+                  "id": "d_uxlwznj",
                   "name": "Heater.yaml",
                   "filename": "Heater.yaml",
                   "mime": "application/yaml",
                   "size": 338,
                   "binaryContent": "bmFtZTogSGVhdGVyCmNvbXBvbmVudF90eXBlOiBUT1BNCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQpwb3J0czoKLSBuYW1lOiBlMQogIHBvcnRfdHlwZTogZWxlY3RyaWNhbF9kYwogIGNlbnRlcjoKICAtIDc1LjAwMAogIC0gMjM1LjAwNAogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IGRjCi0gbmFtZTogZTIKICBwb3J0X3R5cGU6IGVsZWN0cmljYWxfZGMKICBjZW50ZXI6CiAgLSAxNzUKICAtIDIzNS4wMDQKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBkYwo=",
                   "bbType": "waveguide",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.000\n  - 235.004\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175\n  - 235.004\n  orientation: 90\n  cross_section: dc\n",
-                  "description": ""
+                  "rawText": "name: Heater\ncomponent_type: TOPM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: e1\n  port_type: electrical_dc\n  center:\n  - 75.000\n  - 235.004\n  orientation: 90\n  cross_section: dc\n- name: e2\n  port_type: electrical_dc\n  center:\n  - 175\n  - 235.004\n  orientation: 90\n  cross_section: dc\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8090,7 +8609,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Heater.gds",
-                  "ts": 1780241810613
+                  "ts": 1780255668764
                 }
               ],
               "plannedReleaseDate": "",
@@ -8137,17 +8656,16 @@
               ],
               "documents": [
                 {
-                  "id": "d_mhjdyf0",
+                  "id": "d_hui8we6",
                   "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI.yaml",
                   "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 549,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDFfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkxeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTIzLjYKICAtIDEuNTI1MDAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMy42CiAgLSAtMS41MjUKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUK",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 123.6\n  - 1.52500\n  orientation: 0\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - -1.525\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8184,7 +8702,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
-                  "ts": 1780241811148
+                  "ts": 1780255669472
                 }
               ],
               "smatrixGroups": [
@@ -8219,17 +8737,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_666jc2n",
+                  "id": "d_1x93bdl",
                   "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI.yaml",
                   "filename": "SOI220nm_1310nm_TE_RIB_2x2_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 668,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDJfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkyeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgotIG1vZGVfbnVtYmVyczoKICAtIDAKICAtIDAKICBwb2xhcmlzYXRpb246IFRFCiAgd2F2ZWxlbmd0aDogMTMxMApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIC0xLjAxNTAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDEuMDE1MDAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTIzLjYKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMy42CiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQo=",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 123.6\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.01500\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 123.6\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 123.6\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8266,7 +8783,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_2x2_MMI.gds",
-                  "ts": 1780241811402
+                  "ts": 1780255669752
                 }
               ],
               "smatrixGroups": [
@@ -8301,17 +8818,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_enezesl",
+                  "id": "d_usugjqa",
                   "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.yaml",
                   "filename": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend.yaml",
                   "mime": "application/yaml",
                   "size": 441,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNS4yCiAgLSAwCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDMwLjIKICAtIDI1LjAKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUK",
                   "bbType": "bend",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.2\n  - 0\n  orientation: 270\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.2\n  - 25.0\n  orientation: 0\n  cross_section: rib_1310nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.2\n  - 0\n  orientation: 270\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.2\n  - 25.0\n  orientation: 0\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8348,7 +8864,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds",
-                  "ts": 1780241811669
+                  "ts": 1780255670039
                 }
               ],
               "smatrixGroups": [
@@ -8383,17 +8899,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_7vrpcxv",
+                  "id": "d_rikstbz",
                   "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.yaml",
                   "filename": "SOI220nm_1310nm_TE_RIB_Grating_Coupler.yaml",
                   "mime": "application/yaml",
                   "size": 556,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIKY29tcG9uZW50X3R5cGU6IEdyYXRpbmdDb3VwbGVyMUQKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKICBtb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCi0gbmFtZTogdmVydGljYWxfdGUKICBwb3J0X3R5cGU6IHZlcnRpY2FsX3RlCiAgY2VudGVyOgogIC0gMzcxLjc1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg3MTMKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTMxMC4wCg==",
                   "bbType": "grating-coupler",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8430,7 +8945,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds",
-                  "ts": 1780241811957
+                  "ts": 1780255670308
                 }
               ],
               "smatrixGroups": [
@@ -8466,17 +8981,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_cszjqps",
+                  "id": "d_rsaf6fs",
                   "name": "SOI220nm_1310nm_TE_RIB_Waveguide.yaml",
                   "filename": "SOI220nm_1310nm_TE_RIB_Waveguide.yaml",
                   "mime": "application/yaml",
                   "size": 441,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9XYXZlZ3VpZGUKY29tcG9uZW50X3R5cGU6IFdhdmVndWlkZQphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEwMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUK",
                   "bbType": "waveguide",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8503,7 +9017,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Waveguide.gds",
-                  "ts": 1780241812231
+                  "ts": 1780255670581
                 }
               ],
               "plannedReleaseDate": "",
@@ -8531,17 +9045,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_judyodg",
+                  "id": "d_vh4zyy9",
                   "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.yaml",
                   "filename": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.yaml",
                   "mime": "application/yaml",
                   "size": 671,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcKY29tcG9uZW50X3R5cGU6IENyb3NzaW5nCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKLSBtb2RlX251bWJlcnM6CiAgLSAwCiAgLSAwCiAgcG9sYXJpc2F0aW9uOiBURQogIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDE0LjI0CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS42MgogIC0gLTQuNjIKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzEzMTBubV9URQo=",
                   "bbType": "crossing",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1310nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1310nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1310nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1310nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1310nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8578,7 +9091,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds",
-                  "ts": 1780241812505
+                  "ts": 1780255670913
                 }
               ],
               "smatrixGroups": [
@@ -8613,17 +9126,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_vuzfv9h",
+                  "id": "d_zzx85om",
                   "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.yaml",
                   "filename": "SOI220nm_1310nm_TE_STRIP_2x1_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 548,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzJ4MV9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTF4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTIyLjkKICAtIDEuNTI1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMi45CiAgLSAtMS41MjUKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQo=",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 122.9\n  - 1.525\n  orientation: 0\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.9\n  - -1.525\n  orientation: 0\n  cross_section: strip_1310nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8660,7 +9172,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_2x1_MMI.gds",
-                  "ts": 1780241812930
+                  "ts": 1780255671209
                 }
               ],
               "smatrixGroups": [
@@ -8695,17 +9207,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_ovst366",
+                  "id": "d_tlju7g4",
                   "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.yaml",
                   "filename": "SOI220nm_1310nm_TE_STRIP_2x2_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 662,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzJ4Ml9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTJ4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gLTEuMDE1CiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjIuMQogIC0gMS4wMTUKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCi0gbmFtZTogbzQKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjIuMQogIC0gLTEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQo=",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 122.1\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 122.1\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1310nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8742,7 +9253,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1780241813185
+                  "ts": 1780255671482
                 }
               ],
               "smatrixGroups": [
@@ -8777,17 +9288,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_2m6qud0",
+                  "id": "d_o5hoqnk",
                   "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.yaml",
                   "filename": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.yaml",
                   "mime": "application/yaml",
                   "size": 439,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKLSBtb2RlX251bWJlcnM6CiAgLSAwCiAgLSAwCiAgcG9sYXJpc2F0aW9uOiBURQogIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwLjIKICAtIDAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA1LjIKICAtIDUuMAogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCg==",
                   "bbType": "bend",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.2\n  - 0\n  orientation: 270\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.2\n  - 5.0\n  orientation: 0\n  cross_section: strip_1310nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.2\n  - 0\n  orientation: 270\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.2\n  - 5.0\n  orientation: 0\n  cross_section: strip_1310nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8824,7 +9334,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1780241813487
+                  "ts": 1780255671748
                 }
               ],
               "smatrixGroups": [
@@ -8859,17 +9369,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_ic1p6kz",
+                  "id": "d_japs0ur",
                   "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.yaml",
                   "filename": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler.yaml",
                   "mime": "application/yaml",
                   "size": 553,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzNzEuNzUKICAtIDAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg3MTMKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogMTMxMC4wCg==",
                   "bbType": "grating-coupler",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1310nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 371.75\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8906,7 +9415,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1780241813752
+                  "ts": 1780255672208
                 }
               ],
               "smatrixGroups": [
@@ -8942,17 +9451,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_gdoxrrz",
+                  "id": "d_gk5pjgy",
                   "name": "SOI220nm_1310nm_TE_STRIP_Waveguide.yaml",
                   "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide.yaml",
                   "mime": "application/yaml",
                   "size": 451,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX1dhdmVndWlkZQpjb21wb25lbnRfdHlwZTogV2F2ZWd1aWRlCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxMzEwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzEzMTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCg==",
                   "bbType": "waveguide",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -8979,7 +9487,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780241814016
+                  "ts": 1780255672483
                 }
               ],
               "plannedReleaseDate": "",
@@ -9007,17 +9515,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_400a3gj",
+                  "id": "d_ms6cc8o",
                   "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.yaml",
                   "filename": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.yaml",
                   "mime": "application/yaml",
                   "size": 682,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZwpjb21wb25lbnRfdHlwZTogQ3Jvc3NpbmcKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCi0gbmFtZTogbzIKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA0LjIzNQogIC0gNC4yMzUKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvMwogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDguNDcKICAtIDAuMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xMzEwbm0KLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQuMjM1CiAgLSAtNC4yMzUKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTMxMG5tCg==",
                   "bbType": "crossing",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1310\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1310nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.235\n  - 4.235\n  orientation: 90\n  cross_section: strip_1310nm\n- name: o3\n  port_type: optical\n  center:\n  - 8.47\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1310nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.235\n  - -4.235\n  orientation: 270\n  cross_section: strip_1310nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9054,7 +9561,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.gds",
-                  "ts": 1780241814263
+                  "ts": 1780255672748
                 }
               ],
               "smatrixGroups": [
@@ -9096,17 +9603,16 @@
               ],
               "documents": [
                 {
-                  "id": "d_7rmjo9s",
+                  "id": "d_m0wzc8z",
                   "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_2x1_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 555,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDFfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkxeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOTIuNwogIC0gMS41NwogIG9yaWVudGF0aW9uOiAwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOTIuNwogIC0gLTEuNTcKICBvcmllbnRhdGlvbjogMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 92.7\n  - 1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 92.7\n  - -1.57\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9143,7 +9649,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_2x1_MMI.gds",
-                  "ts": 1780241814532
+                  "ts": 1780255673024
                 }
               ],
               "smatrixGroups": [
@@ -9178,17 +9684,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_kbc4iue",
+                  "id": "d_kgdpwob",
                   "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_2x2_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 674,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkyeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMS4wMTUKICBvcmllbnRhdGlvbjogMTgwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTA0LjgKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEwNC44CiAgLSAtMS4wMTUKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQo=",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 104.8\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 104.8\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 104.8\n  - 1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 104.8\n  - -1.015\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9225,7 +9730,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_2x2_MMI.gds",
-                  "ts": 1780241814816
+                  "ts": 1780255673294
                 }
               ],
               "smatrixGroups": [
@@ -9260,17 +9765,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_xcosznt",
+                  "id": "d_2lscwil",
                   "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend.yaml",
                   "mime": "application/yaml",
                   "size": 457,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZApjb21wb25lbnRfdHlwZTogQmVuZAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMjI1CiAgLSAwLjAKICBvcmllbnRhdGlvbjogMjcwCiAgY3Jvc3Nfc2VjdGlvbjogcmliXzE1NTBubV9URQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMzAuMjI1CiAgLSAyNS4wCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCg==",
                   "bbType": "bend",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5.225\n  - 0.0\n  orientation: 270\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 30.225\n  - 25.0\n  orientation: 0\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9307,7 +9811,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.gds",
-                  "ts": 1780241815076
+                  "ts": 1780255673569
                 }
               ],
               "smatrixGroups": [
@@ -9342,17 +9846,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_rbc6bao",
+                  "id": "d_g8xbmc7",
                   "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_Grating_Coupler.yaml",
                   "mime": "application/yaml",
                   "size": 552,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIKY29tcG9uZW50X3R5cGU6IEdyYXRpbmdDb3VwbGVyMUQKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1CnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCiAgbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MAotIG5hbWU6IHZlcnRpY2FsX3RlCiAgcG9ydF90eXBlOiB2ZXJ0aWNhbF90ZQogIGNlbnRlcjoKICAtIDM2OS4wODQKICAtIDAKICBvcmllbnRhdGlvbjogMAogIHdpZHRoOiAxMAogIGNvdXBsaW5nX2FuZ2xlX2NsYWRkaW5nOiA2Ljg4NgogIGZpYnJlX21vZGVzOgogIC0gZmlicmVfdHlwZTogU01GLTI4CiAgICB3YXZlbGVuZ3RoOiAxNTUwLjAK",
                   "bbType": "grating-coupler",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9389,7 +9892,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Grating_Coupler.gds",
-                  "ts": 1780241815647
+                  "ts": 1780255674111
                 }
               ],
               "smatrixGroups": [
@@ -9440,17 +9943,16 @@
                   "rawText": "# Auto-generated by CORNERSTONE PDK Monitor v1.0.0\n# Edit freely — this file is a starting point, not authoritative.\n\nname: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ndescription: \"\"\nbb_type: waveguide\ncategory: passive\nplatform: SOI 220 nm Passive\nstatus: available\nowner: admin\nupdated: \"2026-05-27\"\ngds_file: components/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds\n\nlayers:\n  - layer: 3\n    datatype: undefined\n  - layer: 5\n    datatype: undefined\n\nparameters:\n  width_nm: 500\n  length_um: 100\n  thickness_nm: 220\n\neda_tools:\n  - ipkiss\n  - gdsfactory\n  - klayout\n  - virtuoso\n  - ledit\n  - picstudio\n\nsource_url: \"https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds\"\n"
                 },
                 {
-                  "id": "d_aix7gjw",
+                  "id": "d_6f27frg",
                   "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.yaml",
                   "filename": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.yaml",
                   "mime": "application/yaml",
                   "size": 681,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcKY29tcG9uZW50X3R5cGU6IENyb3NzaW5nCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNQogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDkuNjIKICAtIDQuNjIKICBvcmllbnRhdGlvbjogOTAKICBjcm9zc19zZWN0aW9uOiByaWJfMTU1MG5tX1RFCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxNC4yNAogIC0gMC4wCiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUKLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDkuNjIKICAtIC00LjYyCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xNTUwbm1fVEUK",
                   "bbType": "crossing",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_RIB_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 5\n  - 0.0\n  orientation: 180\n  cross_section: rib_1550nm_TE\n- name: o2\n  port_type: optical\n  center:\n  - 9.62\n  - 4.62\n  orientation: 90\n  cross_section: rib_1550nm_TE\n- name: o3\n  port_type: optical\n  center:\n  - 14.24\n  - 0.0\n  orientation: 0.0\n  cross_section: rib_1550nm_TE\n- name: o4\n  port_type: optical\n  center:\n  - 9.62\n  - -4.62\n  orientation: 270\n  cross_section: rib_1550nm_TE\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9487,7 +9989,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds",
-                  "ts": 1780241816486
+                  "ts": 1780255675226
                 }
               ],
               "smatrixGroups": [
@@ -9522,17 +10024,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_2aro2pj",
+                  "id": "d_9v9jbd5",
                   "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_2x1_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 558,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4MV9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTF4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDAuMAogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDkxLjgKICAtIDEuNTcKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSA5MS44CiAgLSAtMS41NwogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0K",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 91.8\n  - 1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 91.8\n  - -1.57\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9569,7 +10070,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_2x1_MMI.gds",
-                  "ts": 1780241816744
+                  "ts": 1780255675494
                 }
               ],
               "smatrixGroups": [
@@ -9604,17 +10105,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_40fgmgi",
+                  "id": "d_unsu7jb",
                   "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_2x2_MMI.yaml",
                   "mime": "application/yaml",
                   "size": 672,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4Ml9NTUkKY29tcG9uZW50X3R5cGU6IE1NSTJ4MgphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKbW9kZXM6CiAgLSBtb2RlX251bWJlcnM6CiAgICAtIDAKICAgIC0gMAogICAgcG9sYXJpc2F0aW9uOiBURQogICAgd2F2ZWxlbmd0aDogMTU1MApwb3J0czoKLSBuYW1lOiBvMQogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAxODAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDAKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAyLjUKICAtIDEuMDE1CiAgb3JpZW50YXRpb246IDAuMAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG80CiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAyLjUKICAtIC0xLjAxNQogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0K",
                   "bbType": "mmi",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 102.5\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 102.5\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_2x2_MMI\ncomponent_type: MMI2x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - -1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 0\n  - 1.015\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 102.5\n  - 1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 102.5\n  - -1.015\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9651,7 +10151,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds",
-                  "ts": 1780241817159
+                  "ts": 1780255675777
                 }
               ],
               "smatrixGroups": [
@@ -9686,17 +10186,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_o2z2d01",
+                  "id": "d_5zcjpsl",
                   "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.yaml",
                   "mime": "application/yaml",
                   "size": 453,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kCmNvbXBvbmVudF90eXBlOiBCZW5kCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMC4yMjUKICAtIDAuMAogIG9yaWVudGF0aW9uOiAyNzAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDUuMjI1CiAgLSA1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0K",
                   "bbType": "bend",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_90_Degree_Bend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0.225\n  - 0.0\n  orientation: 270\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 5.225\n  - 5\n  orientation: 0\n  cross_section: strip_1550nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9733,7 +10232,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds",
-                  "ts": 1780241817431
+                  "ts": 1780255676049
                 }
               ],
               "smatrixGroups": [
@@ -9768,17 +10267,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_tzzhs03",
+                  "id": "d_cdij0ze",
                   "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.yaml",
                   "mime": "application/yaml",
                   "size": 555,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDIwLzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzNjkuMDg0CiAgLSAwCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogICAxNTUwLjAK",
                   "bbType": "grating-coupler",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Grating_Coupler\ncomponent_type: GratingCoupler1D\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n  modes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\n- name: vertical_te\n  port_type: vertical_te\n  center:\n  - 369.084\n  - 0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength:   1550.0\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9815,7 +10313,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1780241817702
+                  "ts": 1780255676329
                 }
               ],
               "smatrixGroups": [
@@ -9851,17 +10349,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_zni09b5",
+                  "id": "d_88aa7xz",
                   "name": "SOI220nm_1550nm_TE_STRIP_Waveguide.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide.yaml",
                   "mime": "application/yaml",
                   "size": 451,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZQpjb21wb25lbnRfdHlwZTogV2F2ZWd1aWRlCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjAvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCg==",
                   "bbType": "waveguide",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide\ncomponent_type: Waveguide\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 100\n  - 0.0\n  orientation: 0.0\n  cross_section: strip_1550nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9888,7 +10385,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1780241818244
+                  "ts": 1780255676976
                 }
               ],
               "plannedReleaseDate": "",
@@ -9916,17 +10413,16 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_yr39j8p",
+                  "id": "d_g4u6122",
                   "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.yaml",
                   "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.yaml",
                   "mime": "application/yaml",
                   "size": 674,
                   "binaryContent": "bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZwpjb21wb25lbnRfdHlwZTogQ3Jvc3NpbmcKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyMC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNC42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS4yNAogIC0gMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQuNjIKICAtIC00LjYyCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQo=",
                   "bbType": "crossing",
-                  "who": "",
+                  "who": "admin",
                   "added": "2026-05-31",
-                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.62\n  - 4.62\n  orientation: 90\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 9.24\n  - 0\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.62\n  - -4.62\n  orientation: 270\n  cross_section: strip_1550nm\n",
-                  "description": ""
+                  "rawText": "name: SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing\ncomponent_type: Crossing\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 1550\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 0\n  - 0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: o2\n  port_type: optical\n  center:\n  - 4.62\n  - 4.62\n  orientation: 90\n  cross_section: strip_1550nm\n- name: o3\n  port_type: optical\n  center:\n  - 9.24\n  - 0\n  orientation: 0.0\n  cross_section: strip_1550nm\n- name: o4\n  port_type: optical\n  center:\n  - 4.62\n  - -4.62\n  orientation: 270\n  cross_section: strip_1550nm\n"
                 }
               ],
               "updated": "2026-05-31",
@@ -9963,7 +10459,7 @@
                 {
                   "section": "layout",
                   "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-                  "ts": 1780241818499
+                  "ts": 1780255677241
                 }
               ],
               "smatrixGroups": [
@@ -9999,192 +10495,11 @@
           "width": 642,
           "platformDescription": "# SOI220_cband_TM_strip_apodized_GC_focusing_v1p0\n\nSOI220_cband_TM_strip_apodized_GC_focusing_v1p0 — waveguide on SOI 220 nm Passive.\n\n---\n\nPrepared via CORNERSTONE PDK Monitor v1.0.0 on 2026-05-26T19:59:43.504Z.\n\n**Author identity:** https://github.com/AEmreKaplan/\n**BB type:** waveguide\n**Category:** passive\n**Platform:** SOI 220 nm Passive\n**Status:** available\n**Marked as:** New BB (folder created on first commit)\n\n## Layout\n\n```\nSi_220nm_passive/\n  PDKMonitor_layout/         ← raw GDS / OASIS / SVG layout uploads\n  PDKMonitor_components/     ← auto-generated YAML descriptor\n  PDKMonitor_sparams/        ← S-matrix tab\n  PDKMonitor_tests/          ← Tests tab\n  PDKMonitor_fab/            ← Fabrication tab\n  PDKMonitor_scripts/        ← Scripts tab\n  PDKMonitor_eda/            ← EDA tab (links as eda_links.json)\n  PDKMonitor_documents/      ← non-YAML docs (PDFs, datasheets)\n  PDKMonitor_variants/       ← recursive variant sub-folders\n```\n\n## Notes\n\n- Folder layout matches [cornerstone-community](https://github.com/cornerstone-uos/cornerstone-community).\n- Re-running *Prepare for community PDK* is idempotent — only new / changed files are uploaded.\n- An admin can cherry-pick this folder straight into the main PDK repo.\n",
           "lastSyncStats": {
-            "ranAt": 1780254459968,
-            "urlsTotal": 99,
-            "filesFound": 69,
-            "urlsEmpty": 30,
-            "deadUrls": [
-              {
-                "bbId": "e_86635m3",
-                "bbName": "Cell0_SOI220_Full_1550nm_Packaging_Template",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Cell0_SOI220_Full_1550nm_Packaging_Template.gds"
-              },
-              {
-                "bbId": "e_k77neha",
-                "bbName": "SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.gds"
-              },
-              {
-                "bbId": "e_ou06zu0",
-                "bbName": "SOI220nm_1550nm_TE_RIB_MZI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_MZI.gds"
-              },
-              {
-                "bbId": "e_wgt0y0l",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_MZI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_MZI.gds"
-              },
-              {
-                "bbId": "e_01p193h",
-                "bbName": "SOI220_cband_TM_strip_apodized_GC_focusing_v1p0",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220_cband_TM_strip_apodized_GC_focusing_v1p0.gds"
-              },
-              {
-                "bbId": "e_9mgl5v6",
-                "bbName": "SOI220nm_1550nm_TE_RIB_Waveguide",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide.gds"
-              },
-              {
-                "bbId": "e_n8yr4e7",
-                "bbName": "Heater",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/Heater.gds"
-              },
-              {
-                "bbId": "e_2hkxsqf",
-                "bbName": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_2x1_MMI.gds"
-              },
-              {
-                "bbId": "e_77p3ne3",
-                "bbName": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_2x2_MMI.gds"
-              },
-              {
-                "bbId": "e_q049v6v",
-                "bbName": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_90_Degree_Bend.gds"
-              },
-              {
-                "bbId": "e_3w2l9mp",
-                "bbName": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Grating_Coupler.gds"
-              },
-              {
-                "bbId": "e_sz9gi8d",
-                "bbName": "SOI220nm_1310nm_TE_RIB_Waveguide",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Waveguide.gds"
-              },
-              {
-                "bbId": "e_d2rx46a",
-                "bbName": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_RIB_Waveguide_Crossing.gds"
-              },
-              {
-                "bbId": "e_91ay0p0",
-                "bbName": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_2x1_MMI.gds"
-              },
-              {
-                "bbId": "e_s8awz92",
-                "bbName": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_2x2_MMI.gds"
-              },
-              {
-                "bbId": "e_o7ro68h",
-                "bbName": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_90_Degree_Bend.gds"
-              },
-              {
-                "bbId": "e_eqh749n",
-                "bbName": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Grating_Coupler.gds"
-              },
-              {
-                "bbId": "e_1k45ys5",
-                "bbName": "SOI220nm_1310nm_TE_STRIP_Waveguide",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Waveguide.gds"
-              },
-              {
-                "bbId": "e_7hpzk0u",
-                "bbName": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.gds"
-              },
-              {
-                "bbId": "e_nb8hml8",
-                "bbName": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_2x1_MMI.gds"
-              },
-              {
-                "bbId": "e_bom7wh0",
-                "bbName": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_2x2_MMI.gds"
-              },
-              {
-                "bbId": "e_71oqpux",
-                "bbName": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_90_Degree_Bend.gds"
-              },
-              {
-                "bbId": "e_91okvtl",
-                "bbName": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Grating_Coupler.gds"
-              },
-              {
-                "bbId": "e_tge6lza",
-                "bbName": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_RIB_Waveguide_Crossing.gds"
-              },
-              {
-                "bbId": "e_x3t3huk",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_2x1_MMI.gds"
-              },
-              {
-                "bbId": "e_s6os5bb",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_2x2_MMI.gds"
-              },
-              {
-                "bbId": "e_9qk9gjj",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_90_Degree_Bend.gds"
-              },
-              {
-                "bbId": "e_qoafxmn",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds"
-              },
-              {
-                "bbId": "e_ixuuasd",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_Waveguide",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Waveguide.gds"
-              },
-              {
-                "bbId": "e_5zi94z4",
-                "bbName": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-                "section": "layout",
-                "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_passive/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds"
-              }
-            ]
+            "ranAt": 1780255567730,
+            "urlsTotal": 68,
+            "filesFound": 68,
+            "urlsEmpty": 0,
+            "deadUrls": []
           }
         },
         {
@@ -14738,7 +15053,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpu4wc4d_0",
+        "id": "s_mpu5xbs4_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14746,7 +15061,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpu4wc4d_1",
+        "id": "s_mpu5xbs4_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -14754,7 +15069,7 @@
         "enabled": false
       },
       {
-        "id": "s_mpu4wc4e_2",
+        "id": "s_mpu5xbs4_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -14766,8 +15081,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-31T19:06:11.422Z",
-    "lastFetchedSha": "b48786d7ae5b78a6000f7410e0610224b2567821",
+    "lastFetchedAt": "2026-05-31T19:18:42.116Z",
+    "lastFetchedSha": "e88386685df77840f44ae5987c1b9aba372b609b",
     "lastPublishedAt": "2026-05-31T16:25:53.315Z",
     "lastPublishedSha": "3afb01e0699684eb27ec60b4756f0a20a7666789",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3afb01e0699684eb27ec60b4756f0a20a7666789",
@@ -14872,7 +15187,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-31T19:12:59.424Z",
+    "publishedAt": "2026-05-31T19:31:07.163Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -15252,7 +15567,7 @@
       }
     ]
   },
-  "lastGithubFetch": "2026-05-31T19:07:39.968Z",
+  "lastGithubFetch": "2026-05-31T19:26:07.730Z",
   "activityLog": [
     {
       "at": "2026-05-31T04:36:13.134Z",
