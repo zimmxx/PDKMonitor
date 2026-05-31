@@ -11178,7 +11178,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
-          "width": 464
+          "width": 414
         },
         {
           "id": "g_82nmouv",
@@ -11598,7 +11598,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
-          "width": 438
+          "width": 422
         },
         {
           "id": "g_08lhfzj",
@@ -11892,7 +11892,7 @@
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
           "githubSubdir": "components",
-          "width": 426,
+          "width": 402,
           "importSections": {
             "layout": true,
             "smatrix": true,
@@ -13128,7 +13128,7 @@
           "status": "",
           "kind": "",
           "collapsed": false,
-          "width": 518,
+          "width": 412,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components"
         },
@@ -14259,7 +14259,7 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
           "githubSubdir": "components",
-          "width": 432
+          "width": 428
         },
         {
           "id": "g_5004tbc",
@@ -14412,7 +14412,7 @@
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
           "githubSubdir": "components",
-          "width": 459
+          "width": 404
         },
         {
           "id": "g_vr16oen",
@@ -14425,7 +14425,7 @@
           "status": "",
           "kind": "",
           "collapsed": false,
-          "width": 438
+          "width": 413
         }
       ],
       "kind": "platforms"
@@ -14825,7 +14825,7 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "s_mpspbjav_2",
@@ -14840,11 +14840,11 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-30T18:48:23.303Z",
-    "lastFetchedSha": "481373389846121b64a96fbcbdf6dee840719d51",
-    "lastPublishedAt": "2026-05-30T18:52:13.001Z",
-    "lastPublishedSha": "405bcfe6b31683dd4740805839cc29fb17f1f101",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/405bcfe6b31683dd4740805839cc29fb17f1f101",
+    "lastFetchedAt": "2026-05-31T03:50:02.066Z",
+    "lastFetchedSha": "17076fe189378911f6abf6256f579e26ba95b0b2",
+    "lastPublishedAt": "2026-05-31T03:45:56.094Z",
+    "lastPublishedSha": "6e7198b818f2f1569efc9b0af7e63ea5c4240f9b",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/6e7198b818f2f1569efc9b0af7e63ea5c4240f9b",
     "lastMergeStats": {
       "tabs": 1,
       "groups": 0,
@@ -14940,7 +14940,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-30T18:53:05.411Z",
+    "publishedAt": "2026-05-31T03:51:11.751Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
