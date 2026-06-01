@@ -17163,7 +17163,7 @@
               "id": "e_jqnml2w",
               "name": "SOI220_1550nm_TE_MRR_circuit_block_groupindex",
               "status": "planned",
-              "owner": "",
+              "owner": "admin",
               "description": "",
               "githubUrl": "",
               "files": [],
@@ -17992,7 +17992,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpv34dax_0",
+        "id": "s_mpv3tmfx_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -18000,28 +18000,20 @@
         "enabled": true
       },
       {
-        "id": "s_mpv34dax_1",
+        "id": "s_mpv3tmfx_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": false
-      },
-      {
-        "id": "s_mpv34dax_2",
-        "label": "CORNERSTONE community PDK (publish target)",
-        "repo": "cornerstone-uos/cornerstone-community",
-        "branch": "main",
-        "path": "dashboard.json",
-        "enabled": false
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-01T10:47:55.805Z",
-    "lastFetchedSha": "f063fda3a7c15d9f85a4c91d86c31bf4d57b1f39",
+    "lastFetchedAt": "2026-06-01T11:08:03.778Z",
+    "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
     "lastPublishedAt": "2026-06-01T08:25:15.480Z",
     "lastPublishedSha": "a3576795bdaf772d636619257d84cdf8b847ecf9",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a3576795bdaf772d636619257d84cdf8b847ecf9",
@@ -18120,7 +18112,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-01T10:49:03.880Z",
+    "publishedAt": "2026-06-01T11:11:26.636Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -18177,6 +18169,26 @@
       "label": "Packaging",
       "meta": {
         "id": "tab_pti1px9"
+      }
+    },
+    {
+      "at": "2026-06-01T11:10:28.283Z",
+      "by": "admin",
+      "role": "admin",
+      "action": "tab-kind",
+      "label": "DOE → docs",
+      "meta": {
+        "id": "tab_1hbzx9p"
+      }
+    },
+    {
+      "at": "2026-06-01T11:10:38.032Z",
+      "by": "admin",
+      "role": "admin",
+      "action": "tab-kind",
+      "label": "DOE → platforms",
+      "meta": {
+        "id": "tab_1hbzx9p"
       }
     }
   ]
