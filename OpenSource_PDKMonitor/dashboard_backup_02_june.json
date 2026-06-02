@@ -23822,14 +23822,6 @@
         "branch": "main",
         "path": "users",
         "enabled": false
-      },
-      {
-        "id": "s_mprqqttb_2",
-        "label": "CORNERSTONE community PDK (publish target)",
-        "repo": "cornerstone-uos/cornerstone-community",
-        "branch": "main",
-        "path": "dashboard.json",
-        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
@@ -23838,9 +23830,9 @@
     "path": "OpenSource_PDKMonitor/dashboard_backup_02_june.json",
     "lastFetchedAt": "2026-06-02T00:12:32.949Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-02T00:16:58.129Z",
-    "lastPublishedSha": "a47efbc139f8f595fed8e94d29e5b4c47a308c46",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a47efbc139f8f595fed8e94d29e5b4c47a308c46",
+    "lastPublishedAt": "2026-06-02T00:17:25.208Z",
+    "lastPublishedSha": "e3ab1db480d96e2db88e4d58acf65a6ef2e83366",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/e3ab1db480d96e2db88e4d58acf65a6ef2e83366",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -23936,7 +23928,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-02T00:17:25.208Z",
+    "publishedAt": "2026-06-02T00:19:51.083Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
